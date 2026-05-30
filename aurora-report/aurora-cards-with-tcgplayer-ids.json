@@ -1,0 +1,7066 @@
+[
+  {
+    "name": "Arc Lightning",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 2,
+    "cost": 0,
+    "sets": "ArmoryDeckAurora, Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "577712"
+    ],
+    "printings": [
+      {
+        "id": "577712",
+        "set": "Rosetta",
+        "identifier": "ROS010",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/577712?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Arcanic Reproach",
+    "category": "Runeblade Lightning",
+    "type": "Instant",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "694931"
+    ],
+    "printings": [
+      {
+        "id": "694931",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN052",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/694931?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Burn Up // Shock",
+    "category": "Runeblade Lightning",
+    "type": "Action/Instant",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "ArmoryDeckAurora, AuroraBlitzDeck, BriarSilverAgeDeck, Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "561265",
+      "577190"
+    ],
+    "printings": [
+      {
+        "id": "561265",
+        "set": "Rosetta",
+        "identifier": "ROS012",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/561265?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577190",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA017",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/577190?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Dashing Flashfoot",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 2,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "692548"
+    ],
+    "printings": [
+      {
+        "id": "692548",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN053",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/692548?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Destructive Fleetfoot",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695156",
+      "695157",
+      "695158"
+    ],
+    "printings": [
+      {
+        "id": "695156",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN062",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695156?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695157",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN063",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695157?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695158",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN064",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695158?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Electryn Joltstep",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "GEM, OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695168",
+      "695169",
+      "695170"
+    ],
+    "printings": [
+      {
+        "id": "695168",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN080",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695168?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695169",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN081",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695169?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695170",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN082",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695170?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Electryn Mindmeld",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 2,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695152"
+    ],
+    "printings": [
+      {
+        "id": "695152",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN054",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/695152?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Mercurial Skies",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "692544",
+      "692546",
+      "692547"
+    ],
+    "printings": [
+      {
+        "id": "692544",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN059",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/692544?Language=English&Printing=Normal"
+      },
+      {
+        "id": "692546",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN060",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/692546?Language=English&Printing=Normal"
+      },
+      {
+        "id": "692547",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN061",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/692547?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Path of Same Ends",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "BriarSilverAgeDeck, GEM, OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "694941",
+      "694942",
+      "694943"
+    ],
+    "printings": [
+      {
+        "id": "694941",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN065",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/694941?Language=English&Printing=Normal"
+      },
+      {
+        "id": "694942",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN066",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/694942?Language=English&Printing=Normal"
+      },
+      {
+        "id": "694943",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN067",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/694943?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Prophetic Quickstep",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 2,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "693434"
+    ],
+    "printings": [
+      {
+        "id": "693434",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN055",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/693434?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Quick Succession",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695171",
+      "695172",
+      "695173"
+    ],
+    "printings": [
+      {
+        "id": "695171",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN083",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695171?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695172",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN084",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695172?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695173",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN085",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695173?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Rush of Power",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "BriarSilverAgeDeck, OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695159",
+      "695160",
+      "695161"
+    ],
+    "printings": [
+      {
+        "id": "695159",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN068",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695159?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695160",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN069",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695160?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695161",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN070",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695161?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Scorpio, Comet Tail",
+    "category": "Runeblade Lightning",
+    "type": "Weapon",
+    "pitch": "",
+    "cost": "",
+    "sets": "BriarSilverAgeDeck, GEM, OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "692540"
+    ],
+    "printings": [
+      {
+        "id": "692540",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN049",
+        "rarity": "Basic",
+        "url": "https://www.tcgplayer.com/product/692540?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Sigil of Voltaris",
+    "category": "Runeblade Lightning",
+    "type": "Instant",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "CompendiumOfRathe",
+    "tcgplayerProductIds": [
+      "676430"
+    ],
+    "printings": [
+      {
+        "id": "676430",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN237",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676430?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Singeing Flowstride",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695162",
+      "695163",
+      "695164"
+    ],
+    "printings": [
+      {
+        "id": "695162",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN071",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695162?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695163",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN072",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695163?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695164",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN073",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695164?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Skyward Serenade",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 2,
+    "cost": 0,
+    "sets": "ArmoryDeckAurora",
+    "tcgplayerProductIds": [],
+    "printings": []
+  },
+  {
+    "name": "Snap Fingers",
+    "category": "Runeblade Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695151"
+    ],
+    "printings": [
+      {
+        "id": "695151",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN050",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695151?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Star Fall",
+    "category": "Runeblade Lightning",
+    "type": "Weapon",
+    "pitch": "",
+    "cost": "",
+    "sets": "FirstStrikeAurora, ArmoryDeckAurora, AuroraBlitzDeck, BriarSilverAgeDeck, Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "565393",
+      "584673",
+      "577175",
+      "561887"
+    ],
+    "printings": [
+      {
+        "id": "565393",
+        "set": "Rosetta",
+        "identifier": "ROS009",
+        "rarity": "Token",
+        "url": "https://www.tcgplayer.com/product/565393?Language=English&Printing=Normal"
+      },
+      {
+        "id": "584673",
+        "set": "Rosetta",
+        "identifier": "ROS009",
+        "rarity": "Token",
+        "url": "https://www.tcgplayer.com/product/584673?Language=English&Printing=Cold+Foil"
+      },
+      {
+        "id": "577175",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA002",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577175?Language=English&Printing=Normal"
+      },
+      {
+        "id": "561887",
+        "set": "FirstStrikeAurora",
+        "identifier": "AUR002",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/561887?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Starlight Striders",
+    "category": "Runeblade Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "ArmoryDeckAurora",
+    "tcgplayerProductIds": [],
+    "printings": []
+  },
+  {
+    "name": "Stinging Sprite",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "GEM, OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695153",
+      "695154",
+      "695155"
+    ],
+    "printings": [
+      {
+        "id": "695153",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN056",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/695153?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695154",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN057",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/695154?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695155",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN058",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/695155?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Stunning Swipe",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695165",
+      "695166",
+      "695167"
+    ],
+    "printings": [
+      {
+        "id": "695165",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN074",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695165?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695166",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN075",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695166?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695167",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN076",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695167?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Tempestuous Kiss",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 2,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "692542"
+    ],
+    "printings": [
+      {
+        "id": "692542",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN051",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/692542?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Vaporize // Shock",
+    "category": "Runeblade Lightning",
+    "type": "Instant",
+    "pitch": 2,
+    "cost": 0,
+    "sets": "Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "565394"
+    ],
+    "printings": [
+      {
+        "id": "565394",
+        "set": "Rosetta",
+        "identifier": "ROS011",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/565394?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Voltbound Duality",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "OmensOfTheThirdAge, Promos",
+    "tcgplayerProductIds": [
+      "682854",
+      "682855",
+      "682857"
+    ],
+    "printings": [
+      {
+        "id": "682854",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN077",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/682854?Language=English&Printing=Normal"
+      },
+      {
+        "id": "682855",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN078",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/682855?Language=English&Printing=Normal"
+      },
+      {
+        "id": "682857",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN079",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/682857?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Written in the Stars",
+    "category": "Runeblade Lightning",
+    "type": "Action",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "ArmoryDeckAurora",
+    "tcgplayerProductIds": [],
+    "printings": []
+  },
+  {
+    "name": "Zap Clappers",
+    "category": "Runeblade Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "ArmoryDeckAurora",
+    "tcgplayerProductIds": [],
+    "printings": []
+  },
+  {
+    "name": "Aether Crackers",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "FirstStrikeAurora, Promos",
+    "tcgplayerProductIds": [
+      "561890"
+    ],
+    "printings": [
+      {
+        "id": "561890",
+        "set": "FirstStrikeAurora",
+        "identifier": "AUR005",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/561890?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Aether Ironweave",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "ChaneBlitzDeck, Monarch, Promos",
+    "tcgplayerProductIds": [
+      "237928",
+      "238427",
+      "552439"
+    ],
+    "printings": [
+      {
+        "id": "237928",
+        "set": "Monarch",
+        "identifier": "MON230",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/237928?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "238427",
+        "set": "ChaneBlitzDeck",
+        "identifier": "CHN005",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/238427?Language=English&Printing=Normal"
+      },
+      {
+        "id": "552439",
+        "set": "Promos",
+        "identifier": "FAB149",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/552439?Language=English&Printing="
+      }
+    ]
+  },
+  {
+    "name": "Aether Slash",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "Dynasty",
+    "tcgplayerProductIds": [
+      "453333",
+      "453335",
+      "453337"
+    ],
+    "printings": [
+      {
+        "id": "453333",
+        "set": "Dynasty",
+        "identifier": "DYN182",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/453333?Language=English&Printing=Normal"
+      },
+      {
+        "id": "453335",
+        "set": "Dynasty",
+        "identifier": "DYN183",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/453335?Language=English&Printing=Normal"
+      },
+      {
+        "id": "453337",
+        "set": "Dynasty",
+        "identifier": "DYN184",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/453337?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Amethyst Tiara",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "Dynasty",
+    "tcgplayerProductIds": [
+      "453325",
+      "453329"
+    ],
+    "printings": [
+      {
+        "id": "453325",
+        "set": "Dynasty",
+        "identifier": "DYN171",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/453325?Language=English&Printing=Normal"
+      },
+      {
+        "id": "453329",
+        "set": "Dynasty",
+        "identifier": "DYN171",
+        "rarity": "Marvel",
+        "url": "https://www.tcgplayer.com/product/453329?Language=English&Printing=Cold+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Amplify the Arknight",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 3,
+    "sets": "ArcaneRising, ArmoryDeckLegendsViserai, HistoryPack1, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676687",
+      "271082",
+      "225740",
+      "271086",
+      "225743",
+      "271089",
+      "225744"
+    ],
+    "printings": [
+      {
+        "id": "676687",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI011",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676687?Language=English&Printing=Normal"
+      },
+      {
+        "id": "271082",
+        "set": "HistoryPack1",
+        "identifier": "1HP282",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271082?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225740",
+        "set": "ArcaneRising",
+        "identifier": "ARC094",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225740?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "271086",
+        "set": "HistoryPack1",
+        "identifier": "1HP283",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271086?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225743",
+        "set": "ArcaneRising",
+        "identifier": "ARC095",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225743?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "271089",
+        "set": "HistoryPack1",
+        "identifier": "1HP284",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271089?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225744",
+        "set": "ArcaneRising",
+        "identifier": "ARC096",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225744?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Annals of Sutcliffe",
+    "category": "Runeblade",
+    "type": "Weapon",
+    "pitch": "",
+    "cost": "",
+    "sets": "Dynasty",
+    "tcgplayerProductIds": [
+      "453364"
+    ],
+    "printings": [
+      {
+        "id": "453364",
+        "set": "Dynasty",
+        "identifier": "DYN172",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/453364?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Arcane Cussing",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "FlorianBlitzDeck, Rosetta",
+    "tcgplayerProductIds": [
+      "565589",
+      "577213",
+      "565590",
+      "577219",
+      "565591",
+      "577225"
+    ],
+    "printings": [
+      {
+        "id": "565589",
+        "set": "Rosetta",
+        "identifier": "ROS152",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565589?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577213",
+        "set": "FlorianBlitzDeck",
+        "identifier": "FLR012",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577213?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565590",
+        "set": "Rosetta",
+        "identifier": "ROS153",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565590?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577219",
+        "set": "FlorianBlitzDeck",
+        "identifier": "FLR018",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577219?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565591",
+        "set": "Rosetta",
+        "identifier": "ROS154",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565591?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577225",
+        "set": "FlorianBlitzDeck",
+        "identifier": "FLR024",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577225?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Arcanic Crackle",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "ArmoryDeckAurora, Monarch",
+    "tcgplayerProductIds": [
+      "237877",
+      "237876",
+      "237875",
+      "238453"
+    ],
+    "printings": [
+      {
+        "id": "237877",
+        "set": "Monarch",
+        "identifier": "MON235",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/237877?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "237876",
+        "set": "Monarch",
+        "identifier": "MON236",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/237876?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "237875",
+        "set": "Monarch",
+        "identifier": "MON237",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/237875?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "238453",
+        "set": "ChaneBlitzDeck",
+        "identifier": "CHN027",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/238453?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Arcanic Cunning",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "694945",
+      "694946",
+      "694947"
+    ],
+    "printings": [
+      {
+        "id": "694945",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN088",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/694945?Language=English&Printing=Normal"
+      },
+      {
+        "id": "694946",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN089",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/694946?Language=English&Printing=Normal"
+      },
+      {
+        "id": "694947",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN090",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/694947?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Arcanic Spike",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 2,
+    "sets": "Rosetta",
+    "tcgplayerProductIds": [
+      "577740",
+      "577741",
+      "577742"
+    ],
+    "printings": [
+      {
+        "id": "577740",
+        "set": "Rosetta",
+        "identifier": "ROS134",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577740?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577741",
+        "set": "Rosetta",
+        "identifier": "ROS135",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577741?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577742",
+        "set": "Rosetta",
+        "identifier": "ROS136",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577742?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Beckoning Haunt",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "CompendiumOfRathe, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676694",
+      "676321"
+    ],
+    "printings": [
+      {
+        "id": "676694",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI007",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676694?Language=English&Printing=Normal"
+      },
+      {
+        "id": "676321",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN095",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676321?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Blackstone Greaves",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "CompendiumOfRathe",
+    "tcgplayerProductIds": [
+      "676322"
+    ],
+    "printings": [
+      {
+        "id": "676322",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN096",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676322?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Blessing of Occult",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "Dynasty",
+    "tcgplayerProductIds": [
+      "453319",
+      "453323",
+      "453326"
+    ],
+    "printings": [
+      {
+        "id": "453319",
+        "set": "Dynasty",
+        "identifier": "DYN179",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/453319?Language=English&Printing=Normal"
+      },
+      {
+        "id": "453323",
+        "set": "Dynasty",
+        "identifier": "DYN180",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/453323?Language=English&Printing=Normal"
+      },
+      {
+        "id": "453326",
+        "set": "Dynasty",
+        "identifier": "DYN181",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/453326?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Bloodsheath Skeleta",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "ArmoryDeckLegendsViserai, CrucibleOfWar, HistoryPack1",
+    "tcgplayerProductIds": [
+      "270994",
+      "226043"
+    ],
+    "printings": [
+      {
+        "id": "270994",
+        "set": "HistoryPack1",
+        "identifier": "1HP264",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/270994?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226043",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU141",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/226043?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Bloodspill Invocation",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "ArcaneRising, HistoryPack1",
+    "tcgplayerProductIds": [
+      "271115",
+      "225790",
+      "271117",
+      "225791",
+      "271121",
+      "225792"
+    ],
+    "printings": [
+      {
+        "id": "271115",
+        "set": "HistoryPack1",
+        "identifier": "1HP291",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271115?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225790",
+        "set": "ArcaneRising",
+        "identifier": "ARC106",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225790?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "271117",
+        "set": "HistoryPack1",
+        "identifier": "1HP292",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271117?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225791",
+        "set": "ArcaneRising",
+        "identifier": "ARC107",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225791?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "271121",
+        "set": "HistoryPack1",
+        "identifier": "1HP293",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271121?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225792",
+        "set": "ArcaneRising",
+        "identifier": "ARC108",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225792?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Bloodtorn Bodice",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "AuroraBlitzDeck, FlorianBlitzDeck, Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "565572",
+      "577205",
+      "577177"
+    ],
+    "printings": [
+      {
+        "id": "565572",
+        "set": "Rosetta",
+        "identifier": "ROS115",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565572?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577205",
+        "set": "FlorianBlitzDeck",
+        "identifier": "FLR004",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577205?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577177",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA004",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577177?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Caress of the Reaper",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "694944"
+    ],
+    "printings": [
+      {
+        "id": "694944",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN087",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/694944?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Condemn to Slaughter",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "ArmoryDeckLegendsViserai, Rosetta, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676726",
+      "565580",
+      "565581",
+      "676727",
+      "565582",
+      "577226"
+    ],
+    "printings": [
+      {
+        "id": "676726",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI020",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676726?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565580",
+        "set": "Rosetta",
+        "identifier": "ROS127",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/565580?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565581",
+        "set": "Rosetta",
+        "identifier": "ROS128",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/565581?Language=English&Printing=Normal"
+      },
+      {
+        "id": "676727",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI029",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676727?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565582",
+        "set": "Rosetta",
+        "identifier": "ROS129",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/565582?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577226",
+        "set": "FlorianBlitzDeck",
+        "identifier": "FLR025",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/577226?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Consuming Volition",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "ChaneBlitzDeck, CrucibleOfWar, Rosetta",
+    "tcgplayerProductIds": [
+      "577743",
+      "238450",
+      "226059",
+      "577744",
+      "226060",
+      "577745",
+      "226062"
+    ],
+    "printings": [
+      {
+        "id": "577743",
+        "set": "Rosetta",
+        "identifier": "ROS137",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577743?Language=English&Printing=Normal"
+      },
+      {
+        "id": "238450",
+        "set": "ChaneBlitzDeck",
+        "identifier": "CHN025",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/238450?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226059",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU148",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/226059?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "577744",
+        "set": "Rosetta",
+        "identifier": "ROS138",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577744?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226060",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU149",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/226060?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "577745",
+        "set": "Rosetta",
+        "identifier": "ROS139",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577745?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226062",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU150",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/226062?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Crown of Dichotomy",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "ArcaneRising, BriarSilverAgeDeck, HistoryPack1, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676731",
+      "270976",
+      "225690"
+    ],
+    "printings": [
+      {
+        "id": "676731",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI004",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676731?Language=English&Printing=Normal"
+      },
+      {
+        "id": "270976",
+        "set": "HistoryPack1",
+        "identifier": "1HP263",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/270976?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225690",
+        "set": "ArcaneRising",
+        "identifier": "ARC079",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225690?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Cryptic Crossing",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 2,
+    "cost": 3,
+    "sets": "Dynasty",
+    "tcgplayerProductIds": [
+      "453378"
+    ],
+    "printings": [
+      {
+        "id": "453378",
+        "set": "Dynasty",
+        "identifier": "DYN173",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/453378?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Deadwood Dirge",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "ArmoryDeckLegendsViserai, FlorianBlitzDeck, Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "565592",
+      "577215",
+      "565593",
+      "565594"
+    ],
+    "printings": [
+      {
+        "id": "565592",
+        "set": "Rosetta",
+        "identifier": "ROS155",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565592?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577215",
+        "set": "FlorianBlitzDeck",
+        "identifier": "FLR014",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577215?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565593",
+        "set": "Rosetta",
+        "identifier": "ROS156",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565593?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565594",
+        "set": "Rosetta",
+        "identifier": "ROS157",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565594?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Deathly Duet",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 2,
+    "sets": "Dynasty",
+    "tcgplayerProductIds": [
+      "453296",
+      "453307",
+      "453315"
+    ],
+    "printings": [
+      {
+        "id": "453296",
+        "set": "Dynasty",
+        "identifier": "DYN176",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/453296?Language=English&Printing=Normal"
+      },
+      {
+        "id": "453307",
+        "set": "Dynasty",
+        "identifier": "DYN177",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/453307?Language=English&Printing=Normal"
+      },
+      {
+        "id": "453315",
+        "set": "Dynasty",
+        "identifier": "DYN178",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/453315?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Deny Redemption",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "HighSeas",
+    "tcgplayerProductIds": [
+      "633374"
+    ],
+    "printings": [
+      {
+        "id": "633374",
+        "set": "HighSeas",
+        "identifier": "SEA254",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/633374?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Diabolic Ultimatum",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 3,
+    "sets": "Dynasty",
+    "tcgplayerProductIds": [
+      "453383"
+    ],
+    "printings": [
+      {
+        "id": "453383",
+        "set": "Dynasty",
+        "identifier": "DYN174",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/453383?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Doomsaying",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "CompendiumOfRathe",
+    "tcgplayerProductIds": [
+      "677622"
+    ],
+    "printings": [
+      {
+        "id": "677622",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN097",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/677622?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Douse in Runeblood",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "TheHunted",
+    "tcgplayerProductIds": [
+      "612717"
+    ],
+    "printings": [
+      {
+        "id": "612717",
+        "set": "TheHunted",
+        "identifier": "HNT254",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/612717?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Drawn to the Dark Dimension",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 2,
+    "sets": "ArcaneRising, ArmoryDeckLegendsViserai",
+    "tcgplayerProductIds": [
+      "225750",
+      "225752",
+      "225753"
+    ],
+    "printings": [
+      {
+        "id": "225750",
+        "set": "ArcaneRising",
+        "identifier": "ARC097",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225750?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "225752",
+        "set": "ArcaneRising",
+        "identifier": "ARC098",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225752?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "225753",
+        "set": "ArcaneRising",
+        "identifier": "ARC099",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225753?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Dread Scythe",
+    "category": "Runeblade",
+    "type": "Weapon",
+    "pitch": "",
+    "cost": "",
+    "sets": "Monarch, Promos",
+    "tcgplayerProductIds": [
+      "237929"
+    ],
+    "printings": [
+      {
+        "id": "237929",
+        "set": "Monarch",
+        "identifier": "MON229",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/237929?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Dread Triptych",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 3,
+    "cost": 3,
+    "sets": "CrucibleOfWar, HistoryPack1",
+    "tcgplayerProductIds": [
+      "271001",
+      "226045"
+    ],
+    "printings": [
+      {
+        "id": "271001",
+        "set": "HistoryPack1",
+        "identifier": "1HP266",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/271001?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226045",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU142",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/226045?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Drowning Dire",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 2,
+    "sets": "Everfest",
+    "tcgplayerProductIds": [
+      "261395",
+      "261396",
+      "261397"
+    ],
+    "printings": [
+      {
+        "id": "261395",
+        "set": "Everfest",
+        "identifier": "EVR110",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/261395?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "261396",
+        "set": "Everfest",
+        "identifier": "EVR111",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/261396?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "261397",
+        "set": "Everfest",
+        "identifier": "EVR112",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/261397?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Duskblade",
+    "category": "Runeblade",
+    "type": "Weapon",
+    "pitch": "",
+    "cost": "",
+    "sets": "TalesOfAria",
+    "tcgplayerProductIds": [
+      "248522"
+    ],
+    "printings": [
+      {
+        "id": "248522",
+        "set": "TalesOfAria",
+        "identifier": "ELE223",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/248522?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Dyadic Carapace",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "DuskTillDawn, GEM, Promos",
+    "tcgplayerProductIds": [
+      "502744",
+      "503310",
+      "512842"
+    ],
+    "printings": [
+      {
+        "id": "502744",
+        "set": "DuskTillDawn",
+        "identifier": "DTD211",
+        "rarity": "Legendary",
+        "url": "https://www.tcgplayer.com/product/502744?Language=English&Printing=Rainbow+Foil"
+      },
+      {
+        "id": "503310",
+        "set": "DuskTillDawn",
+        "identifier": "DTD211",
+        "rarity": "Legendary",
+        "url": "https://www.tcgplayer.com/product/503310?Language=English&Printing=Cold+Foil"
+      },
+      {
+        "id": "512842",
+        "set": "Promos",
+        "identifier": "FAB142",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/512842?Language=English&Printing="
+      }
+    ]
+  },
+  {
+    "name": "Face Purgatory",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "578822",
+      "577734"
+    ],
+    "printings": [
+      {
+        "id": "578822",
+        "set": "Rosetta",
+        "identifier": "ROS114",
+        "rarity": "Legendary",
+        "url": "https://www.tcgplayer.com/product/578822?Language=English&Printing=Rainbow+Foil"
+      },
+      {
+        "id": "577734",
+        "set": "Rosetta",
+        "identifier": "ROS114",
+        "rarity": "Legendary",
+        "url": "https://www.tcgplayer.com/product/577734?Language=English&Printing=Cold+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Gauntlet of Sword and Sorcery",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "693442"
+    ],
+    "printings": [
+      {
+        "id": "693442",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN086",
+        "rarity": "Legendary",
+        "url": "https://www.tcgplayer.com/product/693442?Language=English&Printing=Cold+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Grasp of the Arknight",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "ArcaneRising, HistoryPack1, Promos",
+    "tcgplayerProductIds": [
+      "270963",
+      "225688",
+      "225509"
+    ],
+    "printings": [
+      {
+        "id": "270963",
+        "set": "HistoryPack1",
+        "identifier": "1HP262",
+        "rarity": "Legendary",
+        "url": "https://www.tcgplayer.com/product/270963?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225688",
+        "set": "ArcaneRising",
+        "identifier": "ARC078",
+        "rarity": "Legendary",
+        "url": "https://www.tcgplayer.com/product/225688?Language=English&Printing=1st+Edition+Cold+Foil"
+      },
+      {
+        "id": "225509",
+        "set": "Promos",
+        "identifier": "FAB010",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/225509?Language=English&Printing="
+      }
+    ]
+  },
+  {
+    "name": "Grimoire of Fellingsong",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "CompendiumOfRathe, GEM",
+    "tcgplayerProductIds": [
+      "664620"
+    ],
+    "printings": [
+      {
+        "id": "664620",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN092",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/664620?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Haunting Rendition",
+    "category": "Runeblade",
+    "type": "Block",
+    "pitch": 1,
+    "cost": "",
+    "sets": "Rosetta",
+    "tcgplayerProductIds": [
+      "577738"
+    ],
+    "printings": [
+      {
+        "id": "577738",
+        "set": "Rosetta",
+        "identifier": "ROS120",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/577738?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Helm of Might and Magic",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "CompendiumOfRathe",
+    "tcgplayerProductIds": [
+      "676319"
+    ],
+    "printings": [
+      {
+        "id": "676319",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN093",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676319?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Helm of the Arknight",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "ArmoryDeckLegendsViserai, GEM",
+    "tcgplayerProductIds": [],
+    "printings": []
+  },
+  {
+    "name": "Hit the High Notes",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "AuroraBlitzDeck, Rosetta, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676748",
+      "565583",
+      "577184",
+      "565584",
+      "577192",
+      "565585",
+      "577194"
+    ],
+    "printings": [
+      {
+        "id": "676748",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI012",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676748?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565583",
+        "set": "Rosetta",
+        "identifier": "ROS140",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565583?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577184",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA011",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577184?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565584",
+        "set": "Rosetta",
+        "identifier": "ROS141",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565584?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577192",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA019",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577192?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565585",
+        "set": "Rosetta",
+        "identifier": "ROS142",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565585?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577194",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA021",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577194?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Hocus Pocus",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "ArmoryDeckLegendsViserai, Rosetta",
+    "tcgplayerProductIds": [
+      "565423",
+      "565424",
+      "565425",
+      "577195"
+    ],
+    "printings": [
+      {
+        "id": "565423",
+        "set": "Rosetta",
+        "identifier": "ROS143",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565423?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565424",
+        "set": "Rosetta",
+        "identifier": "ROS144",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565424?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565425",
+        "set": "Rosetta",
+        "identifier": "ROS145",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565425?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577195",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA022",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577195?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Leech Memory",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695174"
+    ],
+    "printings": [
+      {
+        "id": "695174",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN091",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/695174?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Leech Renown",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695175"
+    ],
+    "printings": [
+      {
+        "id": "695175",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN092",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/695175?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Leech Vitality",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695176"
+    ],
+    "printings": [
+      {
+        "id": "695176",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN093",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/695176?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Looming Doom",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 3,
+    "cost": 3,
+    "sets": "Dynasty",
+    "tcgplayerProductIds": [
+      "453295",
+      "454268"
+    ],
+    "printings": [
+      {
+        "id": "453295",
+        "set": "Dynasty",
+        "identifier": "DYN175",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/453295?Language=English&Printing=Normal"
+      },
+      {
+        "id": "454268",
+        "set": "Dynasty",
+        "identifier": "DYN175",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/454268?Language=English&Printing=Rainbow+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Lord Sutcliffe",
+    "category": "Runeblade",
+    "type": "Mentor",
+    "pitch": "",
+    "cost": "",
+    "sets": "ChaneBlitzDeck, Promos",
+    "tcgplayerProductIds": [
+      "238424",
+      "260843"
+    ],
+    "printings": [
+      {
+        "id": "238424",
+        "set": "ChaneBlitzDeck",
+        "identifier": "CHN002",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/238424?Language=English&Printing=Normal"
+      },
+      {
+        "id": "260843",
+        "set": "Promos",
+        "identifier": "FAB046",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/260843?Language=English&Printing=Rainbow+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Machinations of Dominion",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "Rosetta",
+    "tcgplayerProductIds": [
+      "577736"
+    ],
+    "printings": [
+      {
+        "id": "577736",
+        "set": "Rosetta",
+        "identifier": "ROS118",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/577736?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Malefic Incantation",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "ArmoryDeckLegendsViserai, FlorianBlitzDeck, GEM, Rosetta, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676762",
+      "565420",
+      "577216",
+      "676763",
+      "565421",
+      "565422"
+    ],
+    "printings": [
+      {
+        "id": "676762",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI021",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676762?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565420",
+        "set": "Rosetta",
+        "identifier": "ROS130",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/565420?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577216",
+        "set": "FlorianBlitzDeck",
+        "identifier": "FLR015",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/577216?Language=English&Printing=Normal"
+      },
+      {
+        "id": "676763",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI025",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676763?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565421",
+        "set": "Rosetta",
+        "identifier": "ROS131",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/565421?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565422",
+        "set": "Rosetta",
+        "identifier": "ROS132",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/565422?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Mauvrion Skies",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "CrucibleOfWar, HistoryPack1, TournamentPack, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676765",
+      "271064",
+      "226053",
+      "271066",
+      "226055",
+      "676766",
+      "271069",
+      "226056"
+    ],
+    "printings": [
+      {
+        "id": "676765",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI022",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676765?Language=English&Printing=Normal"
+      },
+      {
+        "id": "271064",
+        "set": "HistoryPack1",
+        "identifier": "1HP276",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/271064?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226053",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU145",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/226053?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "271066",
+        "set": "HistoryPack1",
+        "identifier": "1HP277",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/271066?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226055",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU146",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/226055?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "676766",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI031",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676766?Language=English&Printing=Normal"
+      },
+      {
+        "id": "271069",
+        "set": "HistoryPack1",
+        "identifier": "1HP278",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/271069?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226056",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU147",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/226056?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Meat and Greet",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "AuroraBlitzDeck, CrucibleOfWar, HistoryPack1, Rosetta",
+    "tcgplayerProductIds": [
+      "565663",
+      "577187",
+      "271095",
+      "226063",
+      "565664",
+      "271097",
+      "226066",
+      "565665",
+      "271099",
+      "226068"
+    ],
+    "printings": [
+      {
+        "id": "565663",
+        "set": "Rosetta",
+        "identifier": "ROS146",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565663?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577187",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA014",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577187?Language=English&Printing=Normal"
+      },
+      {
+        "id": "271095",
+        "set": "HistoryPack1",
+        "identifier": "1HP285",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271095?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226063",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU151",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/226063?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "565664",
+        "set": "Rosetta",
+        "identifier": "ROS147",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565664?Language=English&Printing=Normal"
+      },
+      {
+        "id": "271097",
+        "set": "HistoryPack1",
+        "identifier": "1HP286",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271097?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226066",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU152",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/226066?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "565665",
+        "set": "Rosetta",
+        "identifier": "ROS148",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565665?Language=English&Printing=Normal"
+      },
+      {
+        "id": "271099",
+        "set": "HistoryPack1",
+        "identifier": "1HP287",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271099?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226068",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU153",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/226068?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Mordred Tide",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "ArcaneRising, ArmoryDeckLegendsViserai, HistoryPack1",
+    "tcgplayerProductIds": [
+      "271026",
+      "225698"
+    ],
+    "printings": [
+      {
+        "id": "271026",
+        "set": "HistoryPack1",
+        "identifier": "1HP268",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/271026?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225698",
+        "set": "ArcaneRising",
+        "identifier": "ARC081",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/225698?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Nebula Blade",
+    "category": "Runeblade",
+    "type": "Weapon",
+    "pitch": "",
+    "cost": "",
+    "sets": "ArcaneRising, ArmoryDeckLegendsViserai, CrucibleOfWar, HistoryPack1, Promos",
+    "tcgplayerProductIds": [
+      "270953",
+      "226040",
+      "225542",
+      "225612"
+    ],
+    "printings": [
+      {
+        "id": "270953",
+        "set": "HistoryPack1",
+        "identifier": "1HP260",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/270953?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226040",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU139",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/226040?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "225542",
+        "set": "ArcaneRising",
+        "identifier": "ARC077",
+        "rarity": "Token",
+        "url": "https://www.tcgplayer.com/product/225542?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "225612",
+        "set": "Promos",
+        "identifier": "LGS011",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/225612?Language=English&Printing=Cold+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Ninth Blade of the Blood Oath",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 2,
+    "cost": 9,
+    "sets": "ArcaneRising, ArmoryDeckLegendsViserai",
+    "tcgplayerProductIds": [
+      "225701"
+    ],
+    "printings": [
+      {
+        "id": "225701",
+        "set": "ArcaneRising",
+        "identifier": "ARC082",
+        "rarity": "SuperRare",
+        "url": "https://www.tcgplayer.com/product/225701?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Oath of the Arknight",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 2,
+    "sets": "ArcaneRising, FlorianBlitzDeck, HistoryPack1, Rosetta",
+    "tcgplayerProductIds": [
+      "565666",
+      "577217",
+      "271072",
+      "225736",
+      "565667",
+      "271074",
+      "225737",
+      "565668",
+      "271077",
+      "225738"
+    ],
+    "printings": [
+      {
+        "id": "565666",
+        "set": "Rosetta",
+        "identifier": "ROS158",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565666?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577217",
+        "set": "FlorianBlitzDeck",
+        "identifier": "FLR016",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577217?Language=English&Printing=Normal"
+      },
+      {
+        "id": "271072",
+        "set": "HistoryPack1",
+        "identifier": "1HP279",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/271072?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225736",
+        "set": "ArcaneRising",
+        "identifier": "ARC091",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/225736?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "565667",
+        "set": "Rosetta",
+        "identifier": "ROS159",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565667?Language=English&Printing=Normal"
+      },
+      {
+        "id": "271074",
+        "set": "HistoryPack1",
+        "identifier": "1HP280",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/271074?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225737",
+        "set": "ArcaneRising",
+        "identifier": "ARC092",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/225737?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "565668",
+        "set": "Rosetta",
+        "identifier": "ROS160",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565668?Language=English&Printing=Normal"
+      },
+      {
+        "id": "271077",
+        "set": "HistoryPack1",
+        "identifier": "1HP281",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/271077?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225738",
+        "set": "ArcaneRising",
+        "identifier": "ARC093",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/225738?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Rattle Bones",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 2,
+    "sets": "CrucibleOfWar",
+    "tcgplayerProductIds": [
+      "226049"
+    ],
+    "printings": [
+      {
+        "id": "226049",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU143",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/226049?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Read the Runes",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "ArcaneRising, ArmoryDeckLegendsViserai, HistoryPack1, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676791",
+      "271129",
+      "225796",
+      "271132",
+      "225797",
+      "271135",
+      "225799"
+    ],
+    "printings": [
+      {
+        "id": "676791",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI023",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676791?Language=English&Printing=Normal"
+      },
+      {
+        "id": "271129",
+        "set": "HistoryPack1",
+        "identifier": "1HP294",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271129?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225796",
+        "set": "ArcaneRising",
+        "identifier": "ARC109",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225796?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "271132",
+        "set": "HistoryPack1",
+        "identifier": "1HP295",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271132?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225797",
+        "set": "ArcaneRising",
+        "identifier": "ARC110",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225797?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "271135",
+        "set": "HistoryPack1",
+        "identifier": "1HP296",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271135?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225799",
+        "set": "ArcaneRising",
+        "identifier": "ARC111",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225799?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Reaping Blade",
+    "category": "Runeblade",
+    "type": "Weapon",
+    "pitch": "",
+    "cost": "",
+    "sets": "CrucibleOfWar, HistoryPack1, Promos, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676792",
+      "270957",
+      "226042"
+    ],
+    "printings": [
+      {
+        "id": "676792",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI002",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676792?Language=English&Printing=Normal"
+      },
+      {
+        "id": "270957",
+        "set": "HistoryPack1",
+        "identifier": "1HP261",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/270957?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226042",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU140",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/226042?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Reduce to Runechant",
+    "category": "Runeblade",
+    "type": "DefenseReaction",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "ArcaneRising, HistoryPack1, Promos, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676793",
+      "271053",
+      "225733",
+      "225622",
+      "238417",
+      "271055",
+      "225734",
+      "238418",
+      "271059",
+      "225735",
+      "229478"
+    ],
+    "printings": [
+      {
+        "id": "676793",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI018",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676793?Language=English&Printing=Normal"
+      },
+      {
+        "id": "271053",
+        "set": "HistoryPack1",
+        "identifier": "1HP273",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/271053?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225733",
+        "set": "ArcaneRising",
+        "identifier": "ARC088",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/225733?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "225622",
+        "set": "Promos",
+        "identifier": "LGS015",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/225622?Language=English&Printing=Normal"
+      },
+      {
+        "id": "238417",
+        "set": "Promos",
+        "identifier": "LGS038",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/238417?Language=English&Printing=Rainbow+Foil"
+      },
+      {
+        "id": "271055",
+        "set": "HistoryPack1",
+        "identifier": "1HP274",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/271055?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225734",
+        "set": "ArcaneRising",
+        "identifier": "ARC089",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/225734?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "238418",
+        "set": "Promos",
+        "identifier": "LGS039",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/238418?Language=English&Printing=Rainbow+Foil"
+      },
+      {
+        "id": "271059",
+        "set": "HistoryPack1",
+        "identifier": "1HP275",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/271059?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225735",
+        "set": "ArcaneRising",
+        "identifier": "ARC090",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/225735?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "229478",
+        "set": "Promos",
+        "identifier": "LGS040",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/229478?Language=English&Printing=Rainbow+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Reek of Corruption",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 2,
+    "sets": "Everfest",
+    "tcgplayerProductIds": [
+      "261398",
+      "261399",
+      "261400"
+    ],
+    "printings": [
+      {
+        "id": "261398",
+        "set": "Everfest",
+        "identifier": "EVR113",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/261398?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "261399",
+        "set": "Everfest",
+        "identifier": "EVR114",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/261399?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "261400",
+        "set": "Everfest",
+        "identifier": "EVR115",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/261400?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Revel in Runeblood",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "ArmoryDeckLegendsViserai, Everfest",
+    "tcgplayerProductIds": [
+      "261388"
+    ],
+    "printings": [
+      {
+        "id": "261388",
+        "set": "Everfest",
+        "identifier": "EVR106",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/261388?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Rosetta Thorn",
+    "category": "Runeblade",
+    "type": "Weapon",
+    "pitch": "",
+    "cost": "",
+    "sets": "BriarBlitzDeck, Promos, Rosetta, TalesOfAria",
+    "tcgplayerProductIds": [
+      "577790",
+      "250023",
+      "262532",
+      "497993",
+      "255978"
+    ],
+    "printings": [
+      {
+        "id": "577790",
+        "set": "Rosetta",
+        "identifier": "ROS256",
+        "rarity": "Marvel",
+        "url": "https://www.tcgplayer.com/product/577790?Language=English&Printing=Cold+Foil"
+      },
+      {
+        "id": "250023",
+        "set": "TalesOfAria",
+        "identifier": "ELE222",
+        "rarity": "Token",
+        "url": "https://www.tcgplayer.com/product/250023?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "262532",
+        "set": "BriarBlitzDeck",
+        "identifier": "BRI004",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/262532?Language=English&Printing=Normal"
+      },
+      {
+        "id": "497993",
+        "set": "Promos",
+        "identifier": "FAB099",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/497993?Language=English&Printing="
+      },
+      {
+        "id": "255978",
+        "set": "Promos",
+        "identifier": "LGS068",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/255978?Language=English&Printing=Cold+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Rune Flash",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 3,
+    "sets": "ArcaneRising, ArmoryDeckLegendsViserai, HistoryPack1, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676798",
+      "271103",
+      "225757",
+      "271106",
+      "225759",
+      "271110",
+      "225761"
+    ],
+    "printings": [
+      {
+        "id": "676798",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI013",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676798?Language=English&Printing=Normal"
+      },
+      {
+        "id": "271103",
+        "set": "HistoryPack1",
+        "identifier": "1HP288",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271103?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225757",
+        "set": "ArcaneRising",
+        "identifier": "ARC100",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225757?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "271106",
+        "set": "HistoryPack1",
+        "identifier": "1HP289",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271106?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225759",
+        "set": "ArcaneRising",
+        "identifier": "ARC101",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225759?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "271110",
+        "set": "HistoryPack1",
+        "identifier": "1HP290",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271110?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225761",
+        "set": "ArcaneRising",
+        "identifier": "ARC102",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225761?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Runebleed Robe",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "CompendiumOfRathe, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676799",
+      "676320"
+    ],
+    "printings": [
+      {
+        "id": "676799",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI006",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676799?Language=English&Printing=Normal"
+      },
+      {
+        "id": "676320",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN094",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676320?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Runeblood Barrier",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 2,
+    "cost": 3,
+    "sets": "CrucibleOfWar, HistoryPack1",
+    "tcgplayerProductIds": [
+      "271030",
+      "226050"
+    ],
+    "printings": [
+      {
+        "id": "271030",
+        "set": "HistoryPack1",
+        "identifier": "1HP269",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/271030?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226050",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU144",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/226050?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Runeblood Incantation",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "Everfest",
+    "tcgplayerProductIds": [
+      "261389",
+      "261394",
+      "261390",
+      "261393",
+      "261391",
+      "261392"
+    ],
+    "printings": [
+      {
+        "id": "261389",
+        "set": "Everfest",
+        "identifier": "EVR107",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/261389?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "261394",
+        "set": "Everfest",
+        "identifier": "EVR107",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/261394?Language=English&Printing=1st+Edition+Rainbow+Foil"
+      },
+      {
+        "id": "261390",
+        "set": "Everfest",
+        "identifier": "EVR108",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/261390?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "261393",
+        "set": "Everfest",
+        "identifier": "EVR108",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/261393?Language=English&Printing=1st+Edition+Rainbow+Foil"
+      },
+      {
+        "id": "261391",
+        "set": "Everfest",
+        "identifier": "EVR109",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/261391?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "261392",
+        "set": "Everfest",
+        "identifier": "EVR109",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/261392?Language=English&Printing=1st+Edition+Rainbow+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Runechant",
+    "category": "Runeblade",
+    "type": "Token",
+    "pitch": "",
+    "cost": "",
+    "sets": "ArcaneRising, ArmoryDeckLegendsViserai, AuroraBlitzDeck, BriarSilverAgeDeck, CrucibleOfWar, DuskTillDawn, Dynasty, Everfest, FlorianBlitzDeck, HistoryPack1, Promos, Rosetta, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "578823",
+      "578824",
+      "577229",
+      "577201",
+      "502753",
+      "453382",
+      "271151",
+      "261404",
+      "226077",
+      "225741",
+      "536217",
+      "578826",
+      "578827"
+    ],
+    "printings": [
+      {
+        "id": "578823",
+        "set": "Rosetta",
+        "identifier": "ROS162",
+        "rarity": "Token",
+        "url": "https://www.tcgplayer.com/product/578823?Language=English&Printing=Normal"
+      },
+      {
+        "id": "578824",
+        "set": "Rosetta",
+        "identifier": "ROS162",
+        "rarity": "Token",
+        "url": "https://www.tcgplayer.com/product/578824?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577229",
+        "set": "FlorianBlitzDeck",
+        "identifier": "FLR028",
+        "rarity": "Token",
+        "url": "https://www.tcgplayer.com/product/577229?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577201",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA028",
+        "rarity": "Token",
+        "url": "https://www.tcgplayer.com/product/577201?Language=English&Printing=Normal"
+      },
+      {
+        "id": "502753",
+        "set": "DuskTillDawn",
+        "identifier": "DTD214",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/502753?Language=English&Printing=Normal"
+      },
+      {
+        "id": "453382",
+        "set": "Dynasty",
+        "identifier": "DYN191",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/453382?Language=English&Printing=Normal"
+      },
+      {
+        "id": "271151",
+        "set": "HistoryPack1",
+        "identifier": "1HP300",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271151?Language=English&Printing=Normal"
+      },
+      {
+        "id": "261404",
+        "set": "Everfest",
+        "identifier": "EVR119",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/261404?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "226077",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU157",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/226077?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "225741",
+        "set": "ArcaneRising",
+        "identifier": "ARC112",
+        "rarity": "Token",
+        "url": "https://www.tcgplayer.com/product/225741?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "536217",
+        "set": "Promos",
+        "identifier": "FAB152",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/536217?Language=English&Printing=Cold+Foil"
+      },
+      {
+        "id": "578826",
+        "set": "Promos",
+        "identifier": "FAB265",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/578826?Language=English&Printing=Normal"
+      },
+      {
+        "id": "578827",
+        "set": "Promos",
+        "identifier": "FAB266",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/578827?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Runechant of Envy",
+    "category": "Runeblade",
+    "type": "Instant",
+    "pitch": 2,
+    "cost": 0,
+    "sets": "GEM, IAR",
+    "tcgplayerProductIds": [],
+    "printings": []
+  },
+  {
+    "name": "Runechant of Gluttony",
+    "category": "Runeblade",
+    "type": "Instant",
+    "pitch": 2,
+    "cost": 0,
+    "sets": "GEM, IAR",
+    "tcgplayerProductIds": [],
+    "printings": []
+  },
+  {
+    "name": "Runechant of Greed",
+    "category": "Runeblade",
+    "type": "Instant",
+    "pitch": 2,
+    "cost": 0,
+    "sets": "GEM, IAR",
+    "tcgplayerProductIds": [],
+    "printings": []
+  },
+  {
+    "name": "Runechant of Lust",
+    "category": "Runeblade",
+    "type": "Instant",
+    "pitch": 2,
+    "cost": 0,
+    "sets": "GEM, IAR",
+    "tcgplayerProductIds": [],
+    "printings": []
+  },
+  {
+    "name": "Runechant of Pride",
+    "category": "Runeblade",
+    "type": "Instant",
+    "pitch": 2,
+    "cost": 0,
+    "sets": "GEM, IAR",
+    "tcgplayerProductIds": [],
+    "printings": []
+  },
+  {
+    "name": "Runechant of Sloth",
+    "category": "Runeblade",
+    "type": "Instant",
+    "pitch": 2,
+    "cost": 0,
+    "sets": "GEM, IAR",
+    "tcgplayerProductIds": [],
+    "printings": []
+  },
+  {
+    "name": "Runechant of Wrath",
+    "category": "Runeblade",
+    "type": "Instant",
+    "pitch": 2,
+    "cost": 0,
+    "sets": "GEM, IAR",
+    "tcgplayerProductIds": [],
+    "printings": []
+  },
+  {
+    "name": "Runehold Release",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "AuroraBlitzDeck, FlorianBlitzDeck, Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "565573",
+      "577206",
+      "577178"
+    ],
+    "printings": [
+      {
+        "id": "565573",
+        "set": "Rosetta",
+        "identifier": "ROS116",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565573?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577206",
+        "set": "FlorianBlitzDeck",
+        "identifier": "FLR005",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577206?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577178",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA005",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577178?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Runerager Swarm",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "ArmoryDeckLegendsViserai, AuroraBlitzDeck, FlorianBlitzDeck, Promos, Rosetta, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676800",
+      "565586",
+      "577210",
+      "577188",
+      "565587",
+      "565588"
+    ],
+    "printings": [
+      {
+        "id": "676800",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI014",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676800?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565586",
+        "set": "Rosetta",
+        "identifier": "ROS149",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565586?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577210",
+        "set": "FlorianBlitzDeck",
+        "identifier": "FLR009",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577210?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577188",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA015",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577188?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565587",
+        "set": "Rosetta",
+        "identifier": "ROS150",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565587?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565588",
+        "set": "Rosetta",
+        "identifier": "ROS151",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565588?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Runic Fellingsong",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 3,
+    "sets": "CompendiumOfRathe, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676801",
+      "676324",
+      "676325",
+      "676326"
+    ],
+    "printings": [
+      {
+        "id": "676801",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI015",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676801?Language=English&Printing=Normal"
+      },
+      {
+        "id": "676324",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN100",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676324?Language=English&Printing=Normal"
+      },
+      {
+        "id": "676325",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN101",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676325?Language=English&Printing=Normal"
+      },
+      {
+        "id": "676326",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN102",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676326?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Runic Reaping",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "Dynasty",
+    "tcgplayerProductIds": [
+      "453341",
+      "453344",
+      "453349"
+    ],
+    "printings": [
+      {
+        "id": "453341",
+        "set": "Dynasty",
+        "identifier": "DYN185",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/453341?Language=English&Printing=Normal"
+      },
+      {
+        "id": "453344",
+        "set": "Dynasty",
+        "identifier": "DYN186",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/453344?Language=English&Printing=Normal"
+      },
+      {
+        "id": "453349",
+        "set": "Dynasty",
+        "identifier": "DYN187",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/453349?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Runic Reckoning",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "DuskTillDawn",
+    "tcgplayerProductIds": [
+      "502746"
+    ],
+    "printings": [
+      {
+        "id": "502746",
+        "set": "DuskTillDawn",
+        "identifier": "DTD213",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/502746?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Runic Reclamation",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 3,
+    "sets": "Everfest",
+    "tcgplayerProductIds": [
+      "261386"
+    ],
+    "printings": [
+      {
+        "id": "261386",
+        "set": "Everfest",
+        "identifier": "EVR104",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/261386?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Scepter of Pain",
+    "category": "Runeblade",
+    "type": "Weapon",
+    "pitch": "",
+    "cost": "",
+    "sets": "DuskTillDawn",
+    "tcgplayerProductIds": [
+      "502742"
+    ],
+    "printings": [
+      {
+        "id": "502742",
+        "set": "DuskTillDawn",
+        "identifier": "DTD210",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/502742?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Shrill of Skullform",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 2,
+    "sets": "Everfest, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676803",
+      "261401",
+      "676804",
+      "261402",
+      "676805",
+      "261403"
+    ],
+    "printings": [
+      {
+        "id": "676803",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI016",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676803?Language=English&Printing=Normal"
+      },
+      {
+        "id": "261401",
+        "set": "Everfest",
+        "identifier": "EVR116",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/261401?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "676804",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI024",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676804?Language=English&Printing=Normal"
+      },
+      {
+        "id": "261402",
+        "set": "Everfest",
+        "identifier": "EVR117",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/261402?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "676805",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI026",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676805?Language=English&Printing=Normal"
+      },
+      {
+        "id": "261403",
+        "set": "Everfest",
+        "identifier": "EVR118",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/261403?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Sigil of Deadwood",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "AuroraBlitzDeck, Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "563799",
+      "577746",
+      "577198"
+    ],
+    "printings": [
+      {
+        "id": "563799",
+        "set": "Rosetta",
+        "identifier": "ROS161",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/563799?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577746",
+        "set": "Rosetta",
+        "identifier": "ROS161",
+        "rarity": "Marvel",
+        "url": "https://www.tcgplayer.com/product/577746?Language=English&Printing=Cold+Foil"
+      },
+      {
+        "id": "577198",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA025",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577198?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Sigil of Gravespawning",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 3,
+    "cost": 1,
+    "sets": "CompendiumOfRathe",
+    "tcgplayerProductIds": [
+      "677623",
+      "677624"
+    ],
+    "printings": [
+      {
+        "id": "677623",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN098",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/677623?Language=English&Printing=Normal"
+      },
+      {
+        "id": "677624",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN098",
+        "rarity": "Marvel",
+        "url": "https://www.tcgplayer.com/product/677624?Language=English&Printing=Cold+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Sigil of Silphidae",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "CompendiumOfRathe, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676806",
+      "676323",
+      "677625"
+    ],
+    "printings": [
+      {
+        "id": "676806",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI032",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676806?Language=English&Printing=Normal"
+      },
+      {
+        "id": "676323",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN099",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676323?Language=English&Printing=Normal"
+      },
+      {
+        "id": "677625",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN099",
+        "rarity": "Marvel",
+        "url": "https://www.tcgplayer.com/product/677625?Language=English&Printing=Cold+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Sigil of Suffering",
+    "category": "Runeblade",
+    "type": "DefenseReaction",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "BriarSilverAgeDeck, TalesOfAria, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676807",
+      "248536",
+      "248539",
+      "248540"
+    ],
+    "printings": [
+      {
+        "id": "676807",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI019",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676807?Language=English&Printing=Normal"
+      },
+      {
+        "id": "248536",
+        "set": "TalesOfAria",
+        "identifier": "ELE227",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/248536?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "248539",
+        "set": "TalesOfAria",
+        "identifier": "ELE228",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/248539?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "248540",
+        "set": "TalesOfAria",
+        "identifier": "ELE229",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/248540?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Sigil of the Arknight",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "ArmoryDeckLegendsViserai, Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "563798"
+    ],
+    "printings": [
+      {
+        "id": "563798",
+        "set": "Rosetta",
+        "identifier": "ROS133",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/563798?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Singeing Steelblade",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "TalesOfAria",
+    "tcgplayerProductIds": [
+      "248543",
+      "248545",
+      "248547"
+    ],
+    "printings": [
+      {
+        "id": "248543",
+        "set": "TalesOfAria",
+        "identifier": "ELE230",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248543?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "248545",
+        "set": "TalesOfAria",
+        "identifier": "ELE231",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248545?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "248547",
+        "set": "TalesOfAria",
+        "identifier": "ELE232",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248547?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Sky Fire Lanterns",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "Dynasty",
+    "tcgplayerProductIds": [
+      "453357",
+      "453361",
+      "453372"
+    ],
+    "printings": [
+      {
+        "id": "453357",
+        "set": "Dynasty",
+        "identifier": "DYN188",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/453357?Language=English&Printing=Normal"
+      },
+      {
+        "id": "453361",
+        "set": "Dynasty",
+        "identifier": "DYN189",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/453361?Language=English&Printing=Normal"
+      },
+      {
+        "id": "453372",
+        "set": "Dynasty",
+        "identifier": "DYN190",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/453372?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Snuff Out",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "Rosetta",
+    "tcgplayerProductIds": [
+      "577735"
+    ],
+    "printings": [
+      {
+        "id": "577735",
+        "set": "Rosetta",
+        "identifier": "ROS117",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/577735?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Sonata Arcanix",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": "",
+    "sets": "ArmoryDeckLegendsViserai, Monarch",
+    "tcgplayerProductIds": [
+      "237926"
+    ],
+    "printings": [
+      {
+        "id": "237926",
+        "set": "Monarch",
+        "identifier": "MON231",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/237926?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Sonata Galaxia",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": "",
+    "sets": "HeavyHitters",
+    "tcgplayerProductIds": [
+      "533092"
+    ],
+    "printings": [
+      {
+        "id": "533092",
+        "set": "HeavyHitters",
+        "identifier": "HVY251",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/533092?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Spellblade Assault",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 2,
+    "sets": "ArcaneRising, HistoryPack1, ViseraiSilverAgeDeck",
+    "tcgplayerProductIds": [
+      "676810",
+      "271044",
+      "225716",
+      "271047",
+      "225718",
+      "676811",
+      "271051",
+      "225720"
+    ],
+    "printings": [
+      {
+        "id": "676810",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI017",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676810?Language=English&Printing=Normal"
+      },
+      {
+        "id": "271044",
+        "set": "HistoryPack1",
+        "identifier": "1HP270",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/271044?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225716",
+        "set": "ArcaneRising",
+        "identifier": "ARC085",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/225716?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "271047",
+        "set": "HistoryPack1",
+        "identifier": "1HP271",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/271047?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225718",
+        "set": "ArcaneRising",
+        "identifier": "ARC086",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/225718?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "676811",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI027",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676811?Language=English&Printing=Normal"
+      },
+      {
+        "id": "271051",
+        "set": "HistoryPack1",
+        "identifier": "1HP272",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/271051?Language=English&Printing=Normal"
+      },
+      {
+        "id": "225720",
+        "set": "ArcaneRising",
+        "identifier": "ARC087",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/225720?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Spellblade Strike",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "ArcaneRising",
+    "tcgplayerProductIds": [
+      "225785",
+      "225787",
+      "225788"
+    ],
+    "printings": [
+      {
+        "id": "225785",
+        "set": "ArcaneRising",
+        "identifier": "ARC103",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225785?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "225787",
+        "set": "ArcaneRising",
+        "identifier": "ARC104",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225787?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "225788",
+        "set": "ArcaneRising",
+        "identifier": "ARC105",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/225788?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Spellbound Creepers",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "Promos, TalesOfAria",
+    "tcgplayerProductIds": [
+      "248530",
+      "275534"
+    ],
+    "printings": [
+      {
+        "id": "248530",
+        "set": "TalesOfAria",
+        "identifier": "ELE224",
+        "rarity": "Legendary",
+        "url": "https://www.tcgplayer.com/product/248530?Language=English&Printing=1st+Edition+Cold+Foil"
+      },
+      {
+        "id": "275534",
+        "set": "Promos",
+        "identifier": "FAB051",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/275534?Language=English&Printing="
+      }
+    ]
+  },
+  {
+    "name": "Splintering Deadwood",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 3,
+    "sets": "Rosetta",
+    "tcgplayerProductIds": [
+      "565574",
+      "565575",
+      "565576",
+      "577224"
+    ],
+    "printings": [
+      {
+        "id": "565574",
+        "set": "Rosetta",
+        "identifier": "ROS121",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/565574?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565575",
+        "set": "Rosetta",
+        "identifier": "ROS122",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/565575?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565576",
+        "set": "Rosetta",
+        "identifier": "ROS123",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/565576?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577224",
+        "set": "FlorianBlitzDeck",
+        "identifier": "FLR023",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/577224?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Sting of Sorcery",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "TalesOfAria",
+    "tcgplayerProductIds": [
+      "248535"
+    ],
+    "printings": [
+      {
+        "id": "248535",
+        "set": "TalesOfAria",
+        "identifier": "ELE226",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/248535?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Succumb to Temptation",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 2,
+    "cost": 0,
+    "sets": "Rosetta",
+    "tcgplayerProductIds": [
+      "577737"
+    ],
+    "printings": [
+      {
+        "id": "577737",
+        "set": "Rosetta",
+        "identifier": "ROS119",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/577737?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Sutcliffe's Research Notes",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "CrucibleOfWar, HistoryPack1",
+    "tcgplayerProductIds": [
+      "271137",
+      "226073",
+      "271142",
+      "226074",
+      "271147",
+      "226075"
+    ],
+    "printings": [
+      {
+        "id": "271137",
+        "set": "HistoryPack1",
+        "identifier": "1HP297",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271137?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226073",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU154",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/226073?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "271142",
+        "set": "HistoryPack1",
+        "identifier": "1HP298",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271142?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226074",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU155",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/226074?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "271147",
+        "set": "HistoryPack1",
+        "identifier": "1HP299",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/271147?Language=English&Printing=Normal"
+      },
+      {
+        "id": "226075",
+        "set": "CrucibleOfWar",
+        "identifier": "CRU156",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/226075?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Sutcliffe's Suede Hides",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "ArmoryDeckLegendsViserai, BriarBlitzDeck, TalesOfAria",
+    "tcgplayerProductIds": [
+      "248534",
+      "262536"
+    ],
+    "printings": [
+      {
+        "id": "248534",
+        "set": "TalesOfAria",
+        "identifier": "ELE225",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248534?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "262536",
+        "set": "BriarBlitzDeck",
+        "identifier": "BRI008",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/262536?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Swarming Gloomveil",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "Everfest",
+    "tcgplayerProductIds": [
+      "261387"
+    ],
+    "printings": [
+      {
+        "id": "261387",
+        "set": "Everfest",
+        "identifier": "EVR105",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/261387?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Tome of the Arknight",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 3,
+    "cost": 1,
+    "sets": "ArcaneRising, ArmoryDeckLegendsViserai",
+    "tcgplayerProductIds": [
+      "225711"
+    ],
+    "printings": [
+      {
+        "id": "225711",
+        "set": "ArcaneRising",
+        "identifier": "ARC084",
+        "rarity": "SuperRare",
+        "url": "https://www.tcgplayer.com/product/225711?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Vantage Point",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 3,
+    "sets": "FlorianBlitzDeck, Rosetta",
+    "tcgplayerProductIds": [
+      "565577",
+      "577211",
+      "565578",
+      "565579"
+    ],
+    "printings": [
+      {
+        "id": "565577",
+        "set": "Rosetta",
+        "identifier": "ROS124",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/565577?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577211",
+        "set": "FlorianBlitzDeck",
+        "identifier": "FLR010",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/577211?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565578",
+        "set": "Rosetta",
+        "identifier": "ROS125",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/565578?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565579",
+        "set": "Rosetta",
+        "identifier": "ROS126",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/565579?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Vexing Malice",
+    "category": "Runeblade",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "ChaneBlitzDeck, Monarch, Promos",
+    "tcgplayerProductIds": [
+      "237881",
+      "238452",
+      "250025",
+      "237879",
+      "250026",
+      "676830",
+      "237878",
+      "250027"
+    ],
+    "printings": [
+      {
+        "id": "237881",
+        "set": "Monarch",
+        "identifier": "MON232",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/237881?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "238452",
+        "set": "ChaneBlitzDeck",
+        "identifier": "CHN026",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/238452?Language=English&Printing=Normal"
+      },
+      {
+        "id": "250025",
+        "set": "Promos",
+        "identifier": "LGS057",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/250025?Language=English&Printing=Rainbow+Foil"
+      },
+      {
+        "id": "237879",
+        "set": "Monarch",
+        "identifier": "MON233",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/237879?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "250026",
+        "set": "Promos",
+        "identifier": "LGS058",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/250026?Language=English&Printing=Rainbow+Foil"
+      },
+      {
+        "id": "676830",
+        "set": "ViseraiSilverAgeDeck",
+        "identifier": "SVI028",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676830?Language=English&Printing=Normal"
+      },
+      {
+        "id": "237878",
+        "set": "Monarch",
+        "identifier": "MON234",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/237878?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "250027",
+        "set": "Promos",
+        "identifier": "LGS059",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/250027?Language=English&Printing=Rainbow+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Vexing Quillhand",
+    "category": "Runeblade",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "ArmoryDeckLegendsViserai, Everfest, Promos",
+    "tcgplayerProductIds": [
+      "261385",
+      "497988"
+    ],
+    "printings": [
+      {
+        "id": "261385",
+        "set": "Everfest",
+        "identifier": "EVR103",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/261385?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "497988",
+        "set": "Promos",
+        "identifier": "FAB080",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/497988?Language=English&Printing="
+      }
+    ]
+  },
+  {
+    "name": "Weeping Battleground",
+    "category": "Runeblade",
+    "type": "DefenseReaction",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "CompendiumOfRathe, GEM",
+    "tcgplayerProductIds": [
+      "676327",
+      "676328",
+      "676329"
+    ],
+    "printings": [
+      {
+        "id": "676327",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN103",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676327?Language=English&Printing=Normal"
+      },
+      {
+        "id": "676328",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN104",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676328?Language=English&Printing=Normal"
+      },
+      {
+        "id": "676329",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN105",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676329?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Amulet of Lightning",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "LexiBlitzDeck, Promos, TalesOfAria",
+    "tcgplayerProductIds": [
+      "248429",
+      "262519",
+      "250031"
+    ],
+    "printings": [
+      {
+        "id": "248429",
+        "set": "TalesOfAria",
+        "identifier": "ELE201",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248429?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "262519",
+        "set": "LexiBlitzDeck",
+        "identifier": "LXI021",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/262519?Language=English&Printing=Normal"
+      },
+      {
+        "id": "250031",
+        "set": "Promos",
+        "identifier": "LGS065",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/250031?Language=English&Printing=Cold+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Astral Assault",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 2,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695214",
+      "695215",
+      "695216"
+    ],
+    "printings": [
+      {
+        "id": "695214",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN160",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695214?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695215",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN161",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695215?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695216",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN162",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695216?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Astral Strike",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge, Promos",
+    "tcgplayerProductIds": [
+      "682876"
+    ],
+    "printings": [
+      {
+        "id": "682876",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN145",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/682876?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Astravolt Elemental",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "CompendiumOfRathe",
+    "tcgplayerProductIds": [
+      "677655"
+    ],
+    "printings": [
+      {
+        "id": "677655",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN241",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/677655?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Ball Lightning",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "TalesOfAria",
+    "tcgplayerProductIds": [
+      "248396",
+      "248399",
+      "248567"
+    ],
+    "printings": [
+      {
+        "id": "248396",
+        "set": "TalesOfAria",
+        "identifier": "ELE186",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248396?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "248399",
+        "set": "TalesOfAria",
+        "identifier": "ELE187",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248399?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "248567",
+        "set": "TalesOfAria",
+        "identifier": "ELE188",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248567?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Beckoning Brilliance",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "GEM, OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "692520"
+    ],
+    "printings": [
+      {
+        "id": "692520",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN148",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/692520?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Blast to Oblivion",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "AuroraBlitzDeck, OscilioBlitzDeck, Rosetta",
+    "tcgplayerProductIds": [
+      "565407",
+      "577236",
+      "577180",
+      "565408",
+      "565409"
+    ],
+    "printings": [
+      {
+        "id": "565407",
+        "set": "Rosetta",
+        "identifier": "ROS079",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/565407?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577236",
+        "set": "OscilioBlitzDeck",
+        "identifier": "OSC007",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/577236?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577180",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA007",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/577180?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565408",
+        "set": "Rosetta",
+        "identifier": "ROS080",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/565408?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565409",
+        "set": "Rosetta",
+        "identifier": "ROS081",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/565409?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Blink",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "TalesOfAria",
+    "tcgplayerProductIds": [
+      "248373"
+    ],
+    "printings": [
+      {
+        "id": "248373",
+        "set": "TalesOfAria",
+        "identifier": "ELE176",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/248373?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Blitz Kicks",
+    "category": "Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "ArmoryDeckZyggy",
+    "tcgplayerProductIds": [],
+    "printings": []
+  },
+  {
+    "name": "Calmveil of Volthaven",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 1,
+    "cost": 2,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695238",
+      "695239",
+      "695240"
+    ],
+    "printings": [
+      {
+        "id": "695238",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN184",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695238?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695239",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN185",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695239?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695240",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN186",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695240?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Cap of Quick Thinking",
+    "category": "Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "ArmoryDeckAurora",
+    "tcgplayerProductIds": [],
+    "printings": []
+  },
+  {
+    "name": "Channel Lightning Valley",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 2,
+    "cost": 0,
+    "sets": "Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "561286"
+    ],
+    "printings": [
+      {
+        "id": "561286",
+        "set": "Rosetta",
+        "identifier": "ROS077",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/561286?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Channel Thunder Steppe",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 2,
+    "cost": 1,
+    "sets": "Promos, TalesOfAria",
+    "tcgplayerProductIds": [
+      "248366"
+    ],
+    "printings": [
+      {
+        "id": "248366",
+        "set": "TalesOfAria",
+        "identifier": "ELE175",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/248366?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Chromatic Refinement",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695247",
+      "695248",
+      "695249"
+    ],
+    "printings": [
+      {
+        "id": "695247",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN193",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695247?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695248",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN194",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695248?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695249",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN195",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695249?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Cloud Cover",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "BriarSilverAgeDeck, CompendiumOfRathe",
+    "tcgplayerProductIds": [
+      "676437",
+      "676438",
+      "561908",
+      "676439"
+    ],
+    "printings": [
+      {
+        "id": "676437",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN246",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676437?Language=English&Printing=Normal"
+      },
+      {
+        "id": "676438",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN247",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676438?Language=English&Printing=Normal"
+      },
+      {
+        "id": "561908",
+        "set": "FirstStrikeAurora",
+        "identifier": "AUR023",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/561908?Language=English&Printing=Normal"
+      },
+      {
+        "id": "676439",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN248",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676439?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Constella Tiara",
+    "category": "Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695206"
+    ],
+    "printings": [
+      {
+        "id": "695206",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN142",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695206?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Cosmic Flare",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695241"
+    ],
+    "printings": [
+      {
+        "id": "695241",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN187",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695241?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Current Funnel",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "Rosetta",
+    "tcgplayerProductIds": [
+      "577724"
+    ],
+    "printings": [
+      {
+        "id": "577724",
+        "set": "Rosetta",
+        "identifier": "ROS074",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/577724?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Eclectic Magnetism",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "Rosetta",
+    "tcgplayerProductIds": [
+      "577725"
+    ],
+    "printings": [
+      {
+        "id": "577725",
+        "set": "Rosetta",
+        "identifier": "ROS075",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/577725?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Electrify",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "LexiBlitzDeck, TalesOfAria",
+    "tcgplayerProductIds": [
+      "248421",
+      "262513",
+      "248424",
+      "262558",
+      "248426",
+      "262518",
+      "250511"
+    ],
+    "printings": [
+      {
+        "id": "248421",
+        "set": "TalesOfAria",
+        "identifier": "ELE198",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248421?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "262513",
+        "set": "LexiBlitzDeck",
+        "identifier": "LXI016",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/262513?Language=English&Printing=Normal"
+      },
+      {
+        "id": "248424",
+        "set": "TalesOfAria",
+        "identifier": "ELE199",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248424?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "262558",
+        "set": "BriarBlitzDeck",
+        "identifier": "BRI030",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/262558?Language=English&Printing=Normal"
+      },
+      {
+        "id": "248426",
+        "set": "TalesOfAria",
+        "identifier": "ELE200",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248426?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "262518",
+        "set": "LexiBlitzDeck",
+        "identifier": "LXI020",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/262518?Language=English&Printing=Normal"
+      },
+      {
+        "id": "250511",
+        "set": "Promos",
+        "identifier": "FAB048",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/250511?Language=English&Printing=Rainbow+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Electrolyze",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "GEM, OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695217",
+      "695218",
+      "695219"
+    ],
+    "printings": [
+      {
+        "id": "695217",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN163",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695217?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695218",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN164",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695218?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695219",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN165",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695219?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Electromagnetic Somersault",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "ArmoryDeckAurora, Rosetta",
+    "tcgplayerProductIds": [
+      "577729",
+      "577730",
+      "577731"
+    ],
+    "printings": [
+      {
+        "id": "577729",
+        "set": "Rosetta",
+        "identifier": "ROS085",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/577729?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577730",
+        "set": "Rosetta",
+        "identifier": "ROS086",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/577730?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577731",
+        "set": "Rosetta",
+        "identifier": "ROS087",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/577731?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Electrostatic Discharge",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "ArmoryDeckAurora, AuroraBlitzDeck, OscilioBlitzDeck, Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "565416",
+      "577249",
+      "577191",
+      "565417",
+      "565418",
+      "577197"
+    ],
+    "printings": [
+      {
+        "id": "565416",
+        "set": "Rosetta",
+        "identifier": "ROS110",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565416?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577249",
+        "set": "OscilioBlitzDeck",
+        "identifier": "OSC020",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577249?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577191",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA018",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577191?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565417",
+        "set": "Rosetta",
+        "identifier": "ROS111",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565417?Language=English&Printing=Rainbow+Foil"
+      },
+      {
+        "id": "565418",
+        "set": "Rosetta",
+        "identifier": "ROS112",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565418?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577197",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA024",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577197?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Embodiment of Lightning",
+    "category": "Lightning",
+    "type": "Token",
+    "pitch": "",
+    "cost": "",
+    "sets": "FirstStrikeAurora, ArmoryDeckAurora, ArmoryDeckZyggy, AuroraBlitzDeck, BriarBlitzDeck, BriarSilverAgeDeck, DuskTillDawn, OmensOfTheThirdAge, OscilioBlitzDeck, Promos, Rosetta, TalesOfAria",
+    "tcgplayerProductIds": [
+      "695258",
+      "565402",
+      "577256",
+      "577200",
+      "561912",
+      "502711",
+      "250021",
+      "262531",
+      "454855"
+    ],
+    "printings": [
+      {
+        "id": "695258",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN202",
+        "rarity": "Basic",
+        "url": "https://www.tcgplayer.com/product/695258?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565402",
+        "set": "Rosetta",
+        "identifier": "ROS026",
+        "rarity": "Token",
+        "url": "https://www.tcgplayer.com/product/565402?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577256",
+        "set": "OscilioBlitzDeck",
+        "identifier": "OSC027",
+        "rarity": "Token",
+        "url": "https://www.tcgplayer.com/product/577256?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577200",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA027",
+        "rarity": "Token",
+        "url": "https://www.tcgplayer.com/product/577200?Language=English&Printing=Normal"
+      },
+      {
+        "id": "561912",
+        "set": "FirstStrikeAurora",
+        "identifier": "AUR027",
+        "rarity": "Token",
+        "url": "https://www.tcgplayer.com/product/561912?Language=English&Printing=Normal"
+      },
+      {
+        "id": "502711",
+        "set": "DuskTillDawn",
+        "identifier": "DTD195",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/502711?Language=English&Printing=Normal"
+      },
+      {
+        "id": "250021",
+        "set": "TalesOfAria",
+        "identifier": "ELE110",
+        "rarity": "Token",
+        "url": "https://www.tcgplayer.com/product/250021?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "262531",
+        "set": "BriarBlitzDeck",
+        "identifier": "BRI002",
+        "rarity": "Token",
+        "url": "https://www.tcgplayer.com/product/262531?Language=English&Printing=Normal"
+      },
+      {
+        "id": "454855",
+        "set": "Promos",
+        "identifier": "FAB119",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/454855?Language=English&Printing=Cold+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Flash",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "OscilioBlitzDeck, Rosetta, TalesOfAria",
+    "tcgplayerProductIds": [
+      "567096",
+      "577245",
+      "248375",
+      "567097",
+      "248377",
+      "262559",
+      "567098",
+      "248379"
+    ],
+    "printings": [
+      {
+        "id": "567096",
+        "set": "Rosetta",
+        "identifier": "ROS107",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/567096?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577245",
+        "set": "OscilioBlitzDeck",
+        "identifier": "OSC016",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577245?Language=English&Printing=Normal"
+      },
+      {
+        "id": "248375",
+        "set": "TalesOfAria",
+        "identifier": "ELE177",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/248375?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "567097",
+        "set": "Rosetta",
+        "identifier": "ROS108",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/567097?Language=English&Printing=Normal"
+      },
+      {
+        "id": "248377",
+        "set": "TalesOfAria",
+        "identifier": "ELE178",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/248377?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "262559",
+        "set": "BriarBlitzDeck",
+        "identifier": "BRI031",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/262559?Language=English&Printing=Normal"
+      },
+      {
+        "id": "567098",
+        "set": "Rosetta",
+        "identifier": "ROS109",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/567098?Language=English&Printing=Normal"
+      },
+      {
+        "id": "248379",
+        "set": "TalesOfAria",
+        "identifier": "ELE179",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/248379?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Flash of Brilliance",
+    "category": "Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "AuroraBlitzDeck, OscilioBlitzDeck, Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "565568",
+      "577232",
+      "577176"
+    ],
+    "printings": [
+      {
+        "id": "565568",
+        "set": "Rosetta",
+        "identifier": "ROS072",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565568?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577232",
+        "set": "OscilioBlitzDeck",
+        "identifier": "OSC003",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577232?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577176",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA003",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577176?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Flittering Charge",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "ArmoryDeckAurora, AuroraBlitzDeck, OscilioBlitzDeck, Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "565569",
+      "577237",
+      "577181",
+      "565570",
+      "565571"
+    ],
+    "printings": [
+      {
+        "id": "565569",
+        "set": "Rosetta",
+        "identifier": "ROS089",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565569?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577237",
+        "set": "OscilioBlitzDeck",
+        "identifier": "OSC008",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577237?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577181",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA008",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577181?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565570",
+        "set": "Rosetta",
+        "identifier": "ROS090",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565570?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565571",
+        "set": "Rosetta",
+        "identifier": "ROS091",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565571?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Flittering Forcefield",
+    "category": "Lightning",
+    "type": "DefenseReaction",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "GEM, OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695235",
+      "695236",
+      "695237"
+    ],
+    "printings": [
+      {
+        "id": "695235",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN181",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695235?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695236",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN182",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695236?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695237",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN183",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695237?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Flittering Spike",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695220",
+      "695221",
+      "695222"
+    ],
+    "printings": [
+      {
+        "id": "695220",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN166",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695220?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695221",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN167",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695221?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695222",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN168",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695222?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Flow Through",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695212"
+    ],
+    "printings": [
+      {
+        "id": "695212",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN158",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/695212?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Flowing Stormstrike",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "ArmoryDeckZyggy, OmensOfTheThirdAge, Promos",
+    "tcgplayerProductIds": [
+      "682874"
+    ],
+    "printings": [
+      {
+        "id": "682874",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN152",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/682874?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Flowshard Elemental",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "GEM, OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695209"
+    ],
+    "printings": [
+      {
+        "id": "695209",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN149",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/695209?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Flowstate Embodiment",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "OmensOfTheThirdAge, Promos",
+    "tcgplayerProductIds": [
+      "684316"
+    ],
+    "printings": [
+      {
+        "id": "684316",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN146",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/684316?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Fry",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "FirstStrikeAurora, AuroraBlitzDeck, BriarSilverAgeDeck, OscilioBlitzDeck, Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "563812",
+      "577238",
+      "577182",
+      "561893",
+      "563813",
+      "561901",
+      "563814"
+    ],
+    "printings": [
+      {
+        "id": "563812",
+        "set": "Rosetta",
+        "identifier": "ROS092",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/563812?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577238",
+        "set": "OscilioBlitzDeck",
+        "identifier": "OSC009",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577238?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577182",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA009",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577182?Language=English&Printing=Normal"
+      },
+      {
+        "id": "561893",
+        "set": "FirstStrikeAurora",
+        "identifier": "AUR008",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/561893?Language=English&Printing=Normal"
+      },
+      {
+        "id": "563813",
+        "set": "Rosetta",
+        "identifier": "ROS093",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/563813?Language=English&Printing=Normal"
+      },
+      {
+        "id": "561901",
+        "set": "FirstStrikeAurora",
+        "identifier": "AUR016",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/561901?Language=English&Printing=Normal"
+      },
+      {
+        "id": "563814",
+        "set": "Rosetta",
+        "identifier": "ROS094",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/563814?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Glide Through Starlight",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge, Promos",
+    "tcgplayerProductIds": [
+      "695223",
+      "695224",
+      "695225"
+    ],
+    "printings": [
+      {
+        "id": "695223",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN169",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695223?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695224",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN170",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695224?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695225",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN171",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695225?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Gone in a Flash",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "Rosetta",
+    "tcgplayerProductIds": [
+      "577726",
+      "577727"
+    ],
+    "printings": [
+      {
+        "id": "577726",
+        "set": "Rosetta",
+        "identifier": "ROS076",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/577726?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577727",
+        "set": "Rosetta",
+        "identifier": "ROS076",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/577727?Language=English&Printing=Rainbow+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Heaven's Claws",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "FirstStrikeAurora, AuroraBlitzDeck, LexiBlitzDeck, OmensOfTheThirdAge, Rosetta, TalesOfAria",
+    "tcgplayerProductIds": [
+      "695226",
+      "565657",
+      "577183",
+      "561894",
+      "248411",
+      "262511",
+      "695227",
+      "565658",
+      "561902",
+      "248414",
+      "262516",
+      "695228",
+      "565659",
+      "577193",
+      "248416"
+    ],
+    "printings": [
+      {
+        "id": "695226",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN172",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695226?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565657",
+        "set": "Rosetta",
+        "identifier": "ROS095",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565657?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577183",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA010",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577183?Language=English&Printing=Normal"
+      },
+      {
+        "id": "561894",
+        "set": "FirstStrikeAurora",
+        "identifier": "AUR009",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/561894?Language=English&Printing=Normal"
+      },
+      {
+        "id": "248411",
+        "set": "TalesOfAria",
+        "identifier": "ELE192",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248411?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "262511",
+        "set": "LexiBlitzDeck",
+        "identifier": "LXI014",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/262511?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695227",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN173",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695227?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565658",
+        "set": "Rosetta",
+        "identifier": "ROS096",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565658?Language=English&Printing=Normal"
+      },
+      {
+        "id": "561902",
+        "set": "FirstStrikeAurora",
+        "identifier": "AUR017",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/561902?Language=English&Printing=Normal"
+      },
+      {
+        "id": "248414",
+        "set": "TalesOfAria",
+        "identifier": "ELE193",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248414?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "262516",
+        "set": "LexiBlitzDeck",
+        "identifier": "LXI019",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/262516?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695228",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN174",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695228?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565659",
+        "set": "Rosetta",
+        "identifier": "ROS097",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565659?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577193",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA020",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577193?Language=English&Printing=Normal"
+      },
+      {
+        "id": "248416",
+        "set": "TalesOfAria",
+        "identifier": "ELE194",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248416?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "High Voltage",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "Rosetta",
+    "tcgplayerProductIds": [
+      "577728"
+    ],
+    "printings": [
+      {
+        "id": "577728",
+        "set": "Rosetta",
+        "identifier": "ROS078",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/577728?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Ion Charged",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 2,
+    "cost": 0,
+    "sets": "CompendiumOfRathe, GEM",
+    "tcgplayerProductIds": [
+      "676433"
+    ],
+    "printings": [
+      {
+        "id": "676433",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN242",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676433?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Laced Lightning",
+    "category": "Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695208"
+    ],
+    "printings": [
+      {
+        "id": "695208",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN144",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695208?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Lightning Flow",
+    "category": "Lightning",
+    "type": "Token",
+    "pitch": "",
+    "cost": "",
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "682884"
+    ],
+    "printings": [
+      {
+        "id": "682884",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN203",
+        "rarity": "Marvel",
+        "url": "https://www.tcgplayer.com/product/682884?Language=English&Printing=Cold+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Lightning Form",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "AuroraBlitzDeck, OmensOfTheThirdAge, Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "695210",
+      "561287",
+      "577185",
+      "561288",
+      "561290"
+    ],
+    "printings": [
+      {
+        "id": "695210",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN150",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/695210?Language=English&Printing=Normal"
+      },
+      {
+        "id": "561287",
+        "set": "Rosetta",
+        "identifier": "ROS082",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/561287?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577185",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA012",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/577185?Language=English&Printing=Normal"
+      },
+      {
+        "id": "561288",
+        "set": "Rosetta",
+        "identifier": "ROS083",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/561288?Language=English&Printing=Normal"
+      },
+      {
+        "id": "561290",
+        "set": "Rosetta",
+        "identifier": "ROS084",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/561290?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Lightning Greaves",
+    "category": "Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "577723"
+    ],
+    "printings": [
+      {
+        "id": "577723",
+        "set": "Rosetta",
+        "identifier": "ROS071",
+        "rarity": "Legendary",
+        "url": "https://www.tcgplayer.com/product/577723?Language=English&Printing=Rainbow+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Lightning Press",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "ArmoryDeckAurora, BriarSilverAgeDeck, LexiBlitzDeck, Promos, TalesOfAria",
+    "tcgplayerProductIds": [
+      "248390",
+      "262515",
+      "248391",
+      "561911",
+      "248395"
+    ],
+    "printings": [
+      {
+        "id": "248390",
+        "set": "TalesOfAria",
+        "identifier": "ELE183",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/248390?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "262515",
+        "set": "LexiBlitzDeck",
+        "identifier": "LXI018",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/262515?Language=English&Printing=Normal"
+      },
+      {
+        "id": "248391",
+        "set": "TalesOfAria",
+        "identifier": "ELE184",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/248391?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "561911",
+        "set": "FirstStrikeAurora",
+        "identifier": "AUR026",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/561911?Language=English&Printing=Normal"
+      },
+      {
+        "id": "248395",
+        "set": "TalesOfAria",
+        "identifier": "ELE185",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/248395?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Lightning Surge",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "FirstStrikeAurora, ArmoryDeckAurora, AuroraBlitzDeck, BriarSilverAgeDeck, OscilioBlitzDeck, Rosetta, TalesOfAria",
+    "tcgplayerProductIds": [
+      "565660",
+      "577239",
+      "577186",
+      "561895",
+      "248402",
+      "565661",
+      "561903",
+      "248405",
+      "262557",
+      "565662",
+      "248407"
+    ],
+    "printings": [
+      {
+        "id": "565660",
+        "set": "Rosetta",
+        "identifier": "ROS098",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565660?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577239",
+        "set": "OscilioBlitzDeck",
+        "identifier": "OSC010",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577239?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577186",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA013",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577186?Language=English&Printing=Normal"
+      },
+      {
+        "id": "561895",
+        "set": "FirstStrikeAurora",
+        "identifier": "AUR010",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/561895?Language=English&Printing=Normal"
+      },
+      {
+        "id": "248402",
+        "set": "TalesOfAria",
+        "identifier": "ELE189",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248402?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "565661",
+        "set": "Rosetta",
+        "identifier": "ROS099",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565661?Language=English&Printing=Normal"
+      },
+      {
+        "id": "561903",
+        "set": "FirstStrikeAurora",
+        "identifier": "AUR018",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/561903?Language=English&Printing=Normal"
+      },
+      {
+        "id": "248405",
+        "set": "TalesOfAria",
+        "identifier": "ELE190",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248405?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "262557",
+        "set": "BriarBlitzDeck",
+        "identifier": "BRI029",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/262557?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565662",
+        "set": "Rosetta",
+        "identifier": "ROS100",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565662?Language=English&Printing=Normal"
+      },
+      {
+        "id": "248407",
+        "set": "TalesOfAria",
+        "identifier": "ELE191",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248407?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Livewire Press",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695213"
+    ],
+    "printings": [
+      {
+        "id": "695213",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN159",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/695213?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Mark of Lightning",
+    "category": "Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "LexiBlitzDeck, TalesOfAria",
+    "tcgplayerProductIds": [
+      "248363",
+      "262499"
+    ],
+    "printings": [
+      {
+        "id": "248363",
+        "set": "TalesOfAria",
+        "identifier": "ELE174",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248363?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "262499",
+        "set": "LexiBlitzDeck",
+        "identifier": "LXI005",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/262499?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Meteoric Rise",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge, Promos",
+    "tcgplayerProductIds": [
+      "682871"
+    ],
+    "printings": [
+      {
+        "id": "682871",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN153",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/682871?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Overcharge",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "CompendiumOfRathe",
+    "tcgplayerProductIds": [
+      "676434",
+      "676435",
+      "676436"
+    ],
+    "printings": [
+      {
+        "id": "676434",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN243",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676434?Language=English&Printing=Normal"
+      },
+      {
+        "id": "676435",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN244",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676435?Language=English&Printing=Normal"
+      },
+      {
+        "id": "676436",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN245",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/676436?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Plutonic Starplate",
+    "category": "Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "694949"
+    ],
+    "printings": [
+      {
+        "id": "694949",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN141",
+        "rarity": "Legendary",
+        "url": "https://www.tcgplayer.com/product/694949?Language=English&Printing=Cold+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Rift Breaker",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 2,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "692509",
+      "692511",
+      "692512"
+    ],
+    "printings": [
+      {
+        "id": "692509",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN155",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/692509?Language=English&Printing=Normal"
+      },
+      {
+        "id": "692511",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN156",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/692511?Language=English&Printing=Normal"
+      },
+      {
+        "id": "692512",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN157",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/692512?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Second Strike",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "AuroraBlitzDeck, BriarSilverAgeDeck, Rosetta",
+    "tcgplayerProductIds": [
+      "565410",
+      "577189",
+      "565411",
+      "565412"
+    ],
+    "printings": [
+      {
+        "id": "565410",
+        "set": "Rosetta",
+        "identifier": "ROS101",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565410?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577189",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA016",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577189?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565411",
+        "set": "Rosetta",
+        "identifier": "ROS102",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565411?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565412",
+        "set": "Rosetta",
+        "identifier": "ROS103",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565412?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Shock Charmers",
+    "category": "Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "Promos, TalesOfAria",
+    "tcgplayerProductIds": [
+      "248359",
+      "275537"
+    ],
+    "printings": [
+      {
+        "id": "248359",
+        "set": "TalesOfAria",
+        "identifier": "ELE173",
+        "rarity": "Legendary",
+        "url": "https://www.tcgplayer.com/product/248359?Language=English&Printing=1st+Edition+Cold+Foil"
+      },
+      {
+        "id": "275537",
+        "set": "Promos",
+        "identifier": "FAB054",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/275537?Language=English&Printing="
+      }
+    ]
+  },
+  {
+    "name": "Shock Frock",
+    "category": "Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "ArmoryDeckAurora",
+    "tcgplayerProductIds": [],
+    "printings": []
+  },
+  {
+    "name": "Shock Striker",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "LexiBlitzDeck, TalesOfAria",
+    "tcgplayerProductIds": [
+      "248417",
+      "262512",
+      "248418",
+      "248419"
+    ],
+    "printings": [
+      {
+        "id": "248417",
+        "set": "TalesOfAria",
+        "identifier": "ELE195",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248417?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "262512",
+        "set": "LexiBlitzDeck",
+        "identifier": "LXI015",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/262512?Language=English&Printing=Normal"
+      },
+      {
+        "id": "248418",
+        "set": "TalesOfAria",
+        "identifier": "ELE196",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248418?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "248419",
+        "set": "TalesOfAria",
+        "identifier": "ELE197",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/248419?Language=English&Printing=1st+Edition+Normal"
+      }
+    ]
+  },
+  {
+    "name": "Sigil of Astral Flow",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "ArmoryDeckZyggy, OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695253"
+    ],
+    "printings": [
+      {
+        "id": "695253",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN199",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695253?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Sigil of Conductivity",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "OscilioBlitzDeck, Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "563797",
+      "577253"
+    ],
+    "printings": [
+      {
+        "id": "563797",
+        "set": "Rosetta",
+        "identifier": "ROS088",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/563797?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577253",
+        "set": "OscilioBlitzDeck",
+        "identifier": "OSC024",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/577253?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Sigil of Lightning",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "AuroraBlitzDeck, OmensOfTheThirdAge, OscilioBlitzDeck, Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "695255",
+      "565419",
+      "577255",
+      "577199"
+    ],
+    "printings": [
+      {
+        "id": "695255",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN200",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695255?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565419",
+        "set": "Rosetta",
+        "identifier": "ROS113",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565419?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577255",
+        "set": "OscilioBlitzDeck",
+        "identifier": "OSC026",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577255?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577199",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA026",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577199?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Sizzle",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "FirstStrikeAurora, ArmoryDeckAurora, BriarSilverAgeDeck, Promos",
+    "tcgplayerProductIds": [
+      "561899",
+      "561906"
+    ],
+    "printings": [
+      {
+        "id": "561899",
+        "set": "FirstStrikeAurora",
+        "identifier": "AUR014",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/561899?Language=English&Printing=Normal"
+      },
+      {
+        "id": "561906",
+        "set": "FirstStrikeAurora",
+        "identifier": "AUR021",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/561906?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Skyzyk",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "ArmoryDeckAurora",
+    "tcgplayerProductIds": [],
+    "printings": []
+  },
+  {
+    "name": "Spark Spray",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "ArmoryDeckAurora",
+    "tcgplayerProductIds": [
+      "561907",
+      "561910"
+    ],
+    "printings": [
+      {
+        "id": "561907",
+        "set": "FirstStrikeAurora",
+        "identifier": "AUR022",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/561907?Language=English&Printing=Normal"
+      },
+      {
+        "id": "561910",
+        "set": "FirstStrikeAurora",
+        "identifier": "AUR025",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/561910?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Spellbane Sigil",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695256"
+    ],
+    "printings": [
+      {
+        "id": "695256",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN201",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695256?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Starflow Robes",
+    "category": "Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695207"
+    ],
+    "printings": [
+      {
+        "id": "695207",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN143",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695207?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Starlight Road",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 3,
+    "cost": 0,
+    "sets": "GEM, OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695243"
+    ],
+    "printings": [
+      {
+        "id": "695243",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN189",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695243?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Starworld Warning",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 2,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695242"
+    ],
+    "printings": [
+      {
+        "id": "695242",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN188",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695242?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Static Shelter",
+    "category": "Lightning",
+    "type": "DefenseReaction",
+    "pitch": 2,
+    "cost": 0,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "692519"
+    ],
+    "printings": [
+      {
+        "id": "692519",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN147",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/692519?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Stellar Glide",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 2,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695229",
+      "695230",
+      "695231"
+    ],
+    "printings": [
+      {
+        "id": "695229",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN175",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695229?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695230",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN176",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695230?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695231",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN177",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695231?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Stormshard",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge, Promos",
+    "tcgplayerProductIds": [
+      "695244"
+    ],
+    "printings": [
+      {
+        "id": "695244",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN190",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695244?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Stormshatter",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 2,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695245"
+    ],
+    "printings": [
+      {
+        "id": "695245",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN191",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695245?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Stormweaver's Aegis",
+    "category": "Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "CompendiumOfRathe",
+    "tcgplayerProductIds": [
+      "677654"
+    ],
+    "printings": [
+      {
+        "id": "677654",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN239",
+        "rarity": "Majestic",
+        "url": "https://www.tcgplayer.com/product/677654?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Stormwhirl",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 3,
+    "cost": 1,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695246"
+    ],
+    "printings": [
+      {
+        "id": "695246",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN192",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695246?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Thunderous Retort",
+    "category": "Lightning",
+    "type": "Instant",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695250",
+      "695251",
+      "695252"
+    ],
+    "printings": [
+      {
+        "id": "695250",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN196",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695250?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695251",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN197",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695251?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695252",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN198",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695252?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Trip the Light Fantastic",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 1,
+    "sets": "Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "565413",
+      "565414",
+      "565415",
+      "577196"
+    ],
+    "printings": [
+      {
+        "id": "565413",
+        "set": "Rosetta",
+        "identifier": "ROS104",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565413?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565414",
+        "set": "Rosetta",
+        "identifier": "ROS105",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565414?Language=English&Printing=Normal"
+      },
+      {
+        "id": "565415",
+        "set": "Rosetta",
+        "identifier": "ROS106",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565415?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577196",
+        "set": "AuroraBlitzDeck",
+        "identifier": "AUA023",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577196?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Twinkle Toes",
+    "category": "Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "OscilioBlitzDeck, Promos, Rosetta",
+    "tcgplayerProductIds": [
+      "565656",
+      "577235"
+    ],
+    "printings": [
+      {
+        "id": "565656",
+        "set": "Rosetta",
+        "identifier": "ROS073",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/565656?Language=English&Printing=Normal"
+      },
+      {
+        "id": "577235",
+        "set": "OscilioBlitzDeck",
+        "identifier": "OSC006",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/577235?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Visionary of Orbits",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 3,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695211"
+    ],
+    "printings": [
+      {
+        "id": "695211",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN151",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/695211?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Volatile Fluxor",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695232",
+      "695233",
+      "695234"
+    ],
+    "printings": [
+      {
+        "id": "695232",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN178",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695232?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695233",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN179",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695233?Language=English&Printing=Normal"
+      },
+      {
+        "id": "695234",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN180",
+        "rarity": "Common",
+        "url": "https://www.tcgplayer.com/product/695234?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Voltaris",
+    "category": "Lightning",
+    "type": "Resource",
+    "pitch": 3,
+    "cost": "",
+    "sets": "OmensOfTheThirdAge",
+    "tcgplayerProductIds": [
+      "695141"
+    ],
+    "printings": [
+      {
+        "id": "695141",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN000",
+        "rarity": "Fabled",
+        "url": "https://www.tcgplayer.com/product/695141?Language=English&Printing=Cold+Foil"
+      }
+    ]
+  },
+  {
+    "name": "Voltic Impact",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 2,
+    "sets": "OmensOfTheThirdAge, Promos",
+    "tcgplayerProductIds": [
+      "682866"
+    ],
+    "printings": [
+      {
+        "id": "682866",
+        "set": "OmensOfTheThirdAge",
+        "identifier": "OMN154",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/682866?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Voltic Vanguard",
+    "category": "Lightning",
+    "type": "Equipment",
+    "pitch": "",
+    "cost": "",
+    "sets": "CompendiumOfRathe",
+    "tcgplayerProductIds": [
+      "676432"
+    ],
+    "printings": [
+      {
+        "id": "676432",
+        "set": "CompendiumOfRathe",
+        "identifier": "PEN240",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/676432?Language=English&Printing=Normal"
+      }
+    ]
+  },
+  {
+    "name": "Weave Lightning",
+    "category": "Lightning",
+    "type": "Action",
+    "pitch": 1,
+    "cost": 0,
+    "sets": "BriarSilverAgeDeck, LexiBlitzDeck, Promos, TalesOfAria",
+    "tcgplayerProductIds": [
+      "248383",
+      "262514",
+      "251176",
+      "248385",
+      "251177",
+      "248387",
+      "251178"
+    ],
+    "printings": [
+      {
+        "id": "248383",
+        "set": "TalesOfAria",
+        "identifier": "ELE180",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/248383?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "262514",
+        "set": "LexiBlitzDeck",
+        "identifier": "LXI017",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/262514?Language=English&Printing=Normal"
+      },
+      {
+        "id": "251176",
+        "set": "Promos",
+        "identifier": "LGS075",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/251176?Language=English&Printing=Rainbow+Foil"
+      },
+      {
+        "id": "248385",
+        "set": "TalesOfAria",
+        "identifier": "ELE181",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/248385?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "251177",
+        "set": "Promos",
+        "identifier": "LGS076",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/251177?Language=English&Printing=Rainbow+Foil"
+      },
+      {
+        "id": "248387",
+        "set": "TalesOfAria",
+        "identifier": "ELE182",
+        "rarity": "Rare",
+        "url": "https://www.tcgplayer.com/product/248387?Language=English&Printing=1st+Edition+Normal"
+      },
+      {
+        "id": "251178",
+        "set": "Promos",
+        "identifier": "LGS077",
+        "rarity": "Promo",
+        "url": "https://www.tcgplayer.com/product/251178?Language=English&Printing=Rainbow+Foil"
+      }
+    ]
+  }
+]

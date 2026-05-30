@@ -1,0 +1,9 @@
+[package]
+name = "fab-engine"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "A simplified, simulatable Flesh and Blood rules engine in Rust."
+
+[dependencies]
+fab-cards = { path = "../fab-cards" }

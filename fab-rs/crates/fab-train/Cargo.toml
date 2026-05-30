@@ -1,0 +1,14 @@
+[package]
+name = "fab-train"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "Self-play evolution-strategy trainer for the linear FaB policy."
+
+[[bin]]
+name = "fab-train"
+path = "src/main.rs"
+
+[dependencies]
+fab-cards = { path = "../fab-cards" }
+fab-engine = { path = "../fab-engine" }

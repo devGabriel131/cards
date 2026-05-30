@@ -1,0 +1,1024 @@
+adrenaline-rush-red	Adrenaline Rush	1	2	4	2	Action	Attack	Generic		When you play this, if you have less {h} than an opposing hero, this gets +3{p}.
+adrenaline-rush-yellow	Adrenaline Rush	2	2	3	2	Action	Attack	Generic		When you play this, if you have less {h} than an opposing hero, this gets +3{p}.
+adrenaline-rush-blue	Adrenaline Rush	3	2	2	2	Action	Attack	Generic		When you play this, if you have less {h} than an opposing hero, this gets +3{p}.
+aether-crackers	Aether Crackers				0	Equipment	Arms	Runeblade		When an attack you control hits a hero, you may destroy this. If you do, deal 1 arcane damage to them.
+aether-ironweave	Aether Ironweave				1	Equipment	Chest	Runeblade		**Action** - Destroy Aether Ironweave: Gain {r}{r}. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. **Go again** **Battleworn**
+aether-slash-red	Aether Slash	1	1	4	3	Action	Attack	Runeblade		When Aether Slash attacks, if a 'non-attack' action card was pitched to play it, deal 1 arcane damage to any target.
+aether-slash-yellow	Aether Slash	2	1	3	3	Action	Attack	Runeblade		When Aether Slash attacks, if a 'non-attack' action card was pitched to play it, deal 1 arcane damage to any target.
+aether-slash-blue	Aether Slash	3	1	2	3	Action	Attack	Runeblade		When Aether Slash attacks, if a 'non-attack' action card was pitched to play it, deal 1 arcane damage to any target.
+agility	Agility					Token	Aura	Generic		At the start of your turn, destroy this, then your next attack this turn gets **go again**.
+amethyst-amulet-blue	Amethyst Amulet	3	0			Action	Item|NonAttack	Generic		**Instant** - Destroy this: Your next attack this turn gets +2{p}. **Legend of the Watery Grave**
+amethyst-tiara	Amethyst Tiara				1	Equipment	Head	Runeblade		**Instant** - Destroy Amethyst Tiara: Runechants you control have **spellvoid 1** this turn. **Blade Break**
+amnesia-red	Amnesia	1	2	6	3	Action	Attack	Generic		When this hits a hero, cards and tokens they own lose and can't gain names until the start of your next turn.
+amplify-the-arknight-red	Amplify the Arknight	1	3	6	3	Action	Attack	Runeblade		This costs {r} less to play for each Runechant you control.
+amplify-the-arknight-yellow	Amplify the Arknight	2	3	5	3	Action	Attack	Runeblade		Amplify the Arknight costs {r} less to play for each Runechant you control.
+amplify-the-arknight-blue	Amplify the Arknight	3	3	4	3	Action	Attack	Runeblade		This costs {r} less to play for each Runechant you control.
+amulet-of-assertiveness-yellow	Amulet of Assertiveness	2	0			Action	Item|NonAttack	Generic		**Go again** **Attack Reaction** - Destroy Amulet of Assertiveness: Target attack gains "When this hits, banish the top card of your deck. If it's an attack action card, you may play it this turn." Activate this ability only if you have 4 or more cards in hand.
+amulet-of-echoes-blue	Amulet of Echoes	3	0			Action	Item|NonAttack	Generic		**Go again** **Instant** - Destroy Amulet of Echoes: Target hero discards 2 cards. Activate this ability only if they have played 2 or more cards with the same name this turn.
+amulet-of-havencall-blue	Amulet of Havencall	3	0			Action	Item|NonAttack	Generic		**Go again** **Defense Reaction** - Destroy Amulet of Havencall: Search your deck for a card named Rally the Rearguard, add it to this chain link as a defending card, then shuffle. Activate this ability only if you have no cards in hand.
+amulet-of-ignition-yellow	Amulet of Ignition	2	0			Action	Item|NonAttack	Generic		**Go again** **Instant** - Destroy Amulet of Ignition: The next ability you activate this turn costs {r} less. Activate this ability only if you haven't played a card or activated an ability this turn.
+amulet-of-intervention-blue	Amulet of Intervention	3	0			Action	Item|NonAttack	Generic		**Go again** **Instant** - Destroy Amulet of Intervention: Prevent the next 1 damage that would be dealt to your hero this turn. Activate this ability only while your hero is the target of a source that would deal damage equal to or greater than your hero's {h}.
+amulet-of-lightning-blue	Amulet of Lightning	3	0			Action	Item|NonAttack	NotClassed	Lightning	**Go again** **Instant** - Destroy Amulet of Lightning: Target action card gains **go again**. Activate this ability only if you have Lightning **fused** this turn.
+amulet-of-oblation-blue	Amulet of Oblation	3	0			Action	Item|NonAttack	Generic		**Go again** **Instant** - Destroy Amulet of Oblation: Until end of turn, target attack action gains "If this would be put into a graveyard, instead put it on the bottom of its owner's deck." Activate this ability only if a card has entered a graveyard this turn.
+annals-of-sutcliffe	Annals of Sutcliffe					Weapon	TwoHanded|Book	Runeblade		**Once per Turn Action** - {r}{r}{r}: Draw a card. If an attack action card and a 'non-attack' action card were pitched this way, create a Runechant token.
+arc-lightning-yellow	Arc Lightning	2	0		2	Action	NonAttack	Runeblade	Lightning	**Aurora Specialization** Whenever you **go again** this turn, deal 1 arcane damage to any target. The next action card you play this turn gets **go again**. **Go again**
+arcane-compliance-blue	Arcane Compliance	3	0			Instant		Generic		Until end of turn, effects can't increase arcane damage that target action card on the stack would deal.
+arcane-cussing-red	Arcane Cussing	1	1		2	Action	Aura|NonAttack	Runeblade		**Go again** When you deal or are dealt damage, destroy this. When this leaves the arena during your turn, create 3 Runechant tokens.
+arcane-cussing-yellow	Arcane Cussing	2	1		2	Action	Aura|NonAttack	Runeblade		**Go again** When you deal or are dealt damage, destroy this. When this leaves the arena during your turn, create 2 Runechant tokens.
+arcane-cussing-blue	Arcane Cussing	3	1		2	Action	Aura|NonAttack	Runeblade		**Go again** When you deal or are dealt damage, destroy this. When this leaves the arena during your turn, create a Runechant token.
+arcane-lantern	Arcane Lantern					Equipment	OffHand	Generic		**Arcane Barrier 1**
+arcane-polarity-red	Arcane Polarity	1	0			Instant		Generic		Gain 1{h} If you've been dealt arcane damage this turn, instead gain 4{h}.
+arcane-polarity-yellow	Arcane Polarity	2	0			Instant		Generic		Gain 1{h} If you've been dealt arcane damage this turn, instead gain 3{h}.
+arcane-polarity-blue	Arcane Polarity	3	0			Instant		Generic		Gain 1{h} If you've been dealt arcane damage this turn, instead gain 2{h}.
+arcanic-crackle-red	Arcanic Crackle	1	0	3	3	Action	Attack	Runeblade		Deal 1 arcane damage to target hero.
+arcanic-crackle-yellow	Arcanic Crackle	2	0	2	3	Action	Attack	Runeblade		Deal 1 arcane damage to target hero.
+arcanic-crackle-blue	Arcanic Crackle	3	0	1	3	Action	Attack	Runeblade		Deal 1 arcane damage to target hero.
+arcanic-cunning-red	Arcanic Cunning	1	0	4	3	Action	Attack	Runeblade		While this is attacking, defending, or on the stack, if you would be dealt arcane damage, prevent 1 of that damage.
+arcanic-cunning-yellow	Arcanic Cunning	2	0	3	3	Action	Attack	Runeblade		While this is attacking, defending, or on the stack, if you would be dealt arcane damage, prevent 1 of that damage.
+arcanic-cunning-blue	Arcanic Cunning	3	0	2	3	Action	Attack	Runeblade		While this is attacking, defending, or on the stack, if you would be dealt arcane damage, prevent 1 of that damage.
+arcanic-reproach-blue	Arcanic Reproach	3	0		3	Instant	Aura	Runeblade	Lightning	The first time an opposing hero deals damage to you each turn, you may reveal a Lightning card from your hand. If you do, deal 1 arcane damage to them. At the start of your action phase, destroy an aura you control.
+arcanic-spike-red	Arcanic Spike	1	2	5	3	Action	Attack	Runeblade		If you've dealt arcane damage this turn, this gets +2{p}.
+arcanic-spike-yellow	Arcanic Spike	2	2	4	3	Action	Attack	Runeblade		If you've dealt arcane damage this turn, this gets +2{p}.
+arcanic-spike-blue	Arcanic Spike	3	2	3	3	Action	Attack	Runeblade		If you've dealt arcane damage this turn, this gets +2{p}.
+arcanite-fortress	Arcanite Fortress					Equipment	Chest	Generic		This card's {d} is equal to the number of equipment you control with Arcanite in their name. **Spellvoid X**, where X is the number of equipment you control with Arcanite in their name. **Guardwell**
+arcanite-skullcap	Arcanite Skullcap				1	Equipment	Head	Generic		If you have less {h} than your opponent, Arcanite Skullcap gains +1{d} and **Arcane Barrier 3**. **Battleworn**
+art-of-war-yellow	Art of War	2	1			Instant		Generic		Choose 2; - Attack action cards you control gain +1{p} and +1{d} this turn. - The next attack action card you play this turn gains **go again**. - Until end of turn, you may defend with attack action cards from arsenal. - You may banish an attack action card from your hand. If you do, draw 2 cards.
+astral-assault-red	Astral Assault	1	2	5	2	Action	Attack	NotClassed	Lightning	When this attacks, you may destroy a Lightning Flow you control. If you do, this gets +2{p}.
+astral-assault-yellow	Astral Assault	2	2	4	2	Action	Attack	NotClassed	Lightning	When this attacks, you may destroy a Lightning Flow you control. If you do, this gets +2{p}.
+astral-assault-blue	Astral Assault	3	2	3	2	Action	Attack	NotClassed	Lightning	When this attacks, you may destroy a Lightning Flow you control. If you do, this gets +2{p}.
+astral-strike-red	Astral Strike	1	1	5	3	Action	Attack	NotClassed	Lightning	When this attacks, if you've destroyed a Lightning Flow this turn, choose 1; - Draw a card. - This gets +2{p}. - This gets **go again**.
+astravolt-elemental-red	Astravolt Elemental	1	0	3	3	Action	Attack	NotClassed	Lightning	When this attacks, you may discard an instant card. If you do, draw a card and create an Embodiment of Lightning token.
+aurora-emissary-of-lightning	Aurora, Emissary of Lightning					Hero	Young	Runeblade	Lightning	**Instant** - {r}{r}, {t}, destroy a Lightning Flow you control: Create an Embodiment of Lightning token.
+aurora-legacy-of-tempest	Aurora, Legacy of Tempest					Hero		Runeblade	Lightning	**Instant** - {r}{r}, {t}, destroy a Lightning Flow you control: Create an Embodiment of Lightning token.
+authority-of-ataya-blue	Authority of Ataya	3				Resource	Gem	Generic		**Legendary** When this is pitched, defense reaction cards cost opponents an additional {r} to play this turn.
+back-alley-breakline-red	Back Alley Breakline	1	1	5	2	Action	Attack	Generic		If an activated ability or action card effect puts Back Alley Breakline face up into a zone from your deck, gain 1 action point.
+back-alley-breakline-yellow	Back Alley Breakline	2	1	4	2	Action	Attack	Generic		If an activated ability or action card effect puts Back Alley Breakline face up into a zone from your deck, gain 1 action point.
+back-alley-breakline-blue	Back Alley Breakline	3	1	3	2	Action	Attack	Generic		If an activated ability or action card effect puts Back Alley Breakline face up into a zone from your deck, gain 1 action point.
+balance-of-justice	Balance of Justice				2	Equipment	Head	Generic		**Instant** - Destroy this: Draw a card. Activate this only if an opponent has drawn 2 or more cards this turn. **Guardwell**
+ball-lightning-red	Ball Lightning	1	0	3	0	Action	Attack	NotClassed	Lightning	Whenever a Lightning or Elemental action card would deal damage this combat chain, instead it deals that much damage plus 1. **Go again**
+ball-lightning-yellow	Ball Lightning	2	0	2	0	Action	Attack	NotClassed	Lightning	Whenever a Lightning or Elemental action card would deal damage this combat chain, instead it deals that much damage plus 1. **Go again**
+ball-lightning-blue	Ball Lightning	3	0	1	0	Action	Attack	NotClassed	Lightning	Whenever a Lightning or Elemental action card would deal damage this combat chain, instead it deals that much damage plus 1. **Go again**
+bandana-of-the-blue-beyond	Bandana of the Blue Beyond				0	Equipment	Head	Generic		**Action** - Discard a card, destroy this: Put a blue card from your graveyard on the bottom of your deck. **Go again**
+barraging-brawnhide-red	Barraging Brawnhide	1	3	7	2	Action	Attack	Generic		While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.
+barraging-brawnhide-yellow	Barraging Brawnhide	2	3	6	2	Action	Attack	Generic		While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.
+barraging-brawnhide-blue	Barraging Brawnhide	3	3	5	2	Action	Attack	Generic		While Barraging Brawnhide is defended by less than 2 non-equipment cards, it has +1{p}.
+base-of-the-mountain	Base of the Mountain					Equipment	Legs	Generic		When this defends, banish any number of action cards from your hand, then add them to the chain link as defending cards. This card's {d} is equal to the number of action cards defending on the active chain link. **Blade Break**
+battlefront-bastion-red	Battlefront Bastion	1	3	7	2	Action	Attack	Generic		When this defends alone, prevent the next 1 damage that would be dealt to you this turn.
+battlefront-bastion-yellow	Battlefront Bastion	2	3	6	2	Action	Attack	Generic		When this defends alone, prevent the next 1 damage that would be dealt to you this turn.
+battlefront-bastion-blue	Battlefront Bastion	3	3	5	2	Action	Attack	Generic		When this defends alone, prevent the next 1 damage that would be dealt to you this turn.
+beat-the-same-drum-blue	Beat the Same Drum	3	0		3	Action	NonAttack	Generic		If you've controlled an Agility token this turn, create an Agility token, then repeat for Confidence, Might, Toughness, and Vigor. **Go again**
+beckoning-brilliance-red	Beckoning Brilliance	1	0	4	2	Action	Attack	NotClassed	Lightning	When this attacks, the next instant card you play this chain link costs {r} less to play.
+beckoning-haunt	Beckoning Haunt				2	Equipment	Arms	Runeblade		**Action** - {x}{x}{r}, destroy this: Return target aura with cost X from your graveyard to your hand. **Guardwell**
+belittle-red	Belittle	1	1	3	2	Action	Attack	Generic		As an additional cost to play Belittle, you may reveal an attack action card with 3 or less base {p} from your hand. If you do, search your deck for a card named Minnowism, reveal it, put it into your hand, then shuffle your deck. **Go again**
+belittle-yellow	Belittle	2	1	2	2	Action	Attack	Generic		As an additional cost to play Belittle, you may reveal an attack action card with 3 or less base {p} from your hand. If you do, search your deck for a card named Minnowism, reveal it, put it into your hand, then shuffle your deck. **Go again**
+belittle-blue	Belittle	3	1	1	2	Action	Attack	Generic		As an additional cost to play Belittle, you may reveal an attack action card with 3 or less base {p} from your hand. If you do, search your deck for a card named Minnowism, reveal it, put it into your hand, then shuffle your deck. **Go again**
+bingo-red	Bingo	1	1	5	3	Action	Attack	Generic		When Bingo hits a hero, they reveal a card from their hand. If an attack action card is revealed this way, Bingo gains **go again**. If a 'non-attack' action card is revealed this way, draw a card.
+blackstone-greaves	Blackstone Greaves				1	Equipment	Legs	Runeblade		If you've dealt arcane damage this turn, this gets +1{d}. **Temper**
+blade-beckoner-boots	Blade Beckoner Boots				1	Equipment	Legs	Generic		This gets +1{d} while defending a weapon attack. **Guardwell**
+blade-beckoner-gauntlets	Blade Beckoner Gauntlets				1	Equipment	Arms	Generic		This gets +1{d} while defending a weapon attack. **Guardwell**
+blade-beckoner-helm	Blade Beckoner Helm				1	Equipment	Head	Generic		This gets +1{d} while defending a weapon attack. **Guardwell**
+blade-beckoner-plating	Blade Beckoner Plating				1	Equipment	Chest	Generic		This gets +1{d} while defending a weapon attack. **Guardwell**
+blade-flash-blue	Blade Flash	3	1		2	AttackReaction		Generic		Target sword attack gets **go again**.
+blanch-red	Blanch	1	3	7	2	Action	Attack	Generic		When this hits a hero, cards they own lose all colors until the end of their next turn.
+blanch-yellow	Blanch	2	3	6	2	Action	Attack	Generic		When this hits a hero, cards they own lose all colors until the end of their next turn.
+blanch-blue	Blanch	3	3	5	2	Action	Attack	Generic		When this hits a hero, cards they own lose all colors until the end of their next turn.
+blast-to-oblivion-red	Blast to Oblivion	1	0	4	2	Action	Attack	NotClassed	Lightning	When this attacks, the next time you play an instant card this chain link, you may return target aura permanent with cost 1 or less or target aura token to it's owner's hand.
+blast-to-oblivion-yellow	Blast to Oblivion	2	0	3	2	Action	Attack	NotClassed	Lightning	When this attacks, the next time you play an instant card this chain link, you may return target aura permanent with cost 1 or less or target aura token to it's owner's hand.
+blast-to-oblivion-blue	Blast to Oblivion	3	0	2	2	Action	Attack	NotClassed	Lightning	When this attacks, the next time you play an instant card this chain link, you may return target aura permanent with cost 1 or less or target aura token to it's owner's hand.
+blessing-of-occult-red	Blessing of Occult	1	1		2	Action	Aura|NonAttack	Runeblade		At the start of your turn, destroy Blessing of Occult then create 3 Runechant tokens.
+blessing-of-occult-yellow	Blessing of Occult	2	1		2	Action	Aura|NonAttack	Runeblade		At the start of your turn, destroy Blessing of Occult then create 2 Runechant tokens.
+blessing-of-occult-blue	Blessing of Occult	3	1		2	Action	Aura|NonAttack	Runeblade		At the start of your turn, destroy Blessing of Occult then create a Runechant token.
+blink-blue	Blink	3	0			Instant		NotClassed	Lightning	Gain 1 action point.
+blitz-kicks	Blitz Kicks				0	Equipment	Legs	NotClassed	Lightning	**Instant** - {r}, destroy this: Create an Embodiment of Lightning token. Activate this only if you've played an instant card this turn. **Arcane Barrier 1**
+blood-drop-brocade	Blood Drop Brocade				0	Equipment	Chest	Generic		**Instant** - Destroy Blood Drop Brocade: Gain {r}. Activate this ability only if you have dealt or been dealt {p} damage this turn.
+bloodied-oval	Bloodied Oval					Equipment	OffHand	Generic		Bloodied Oval's {d} is equal to the number of opposing heroes with greater {h} than you. **Blade Break**
+bloodrot-pox	Bloodrot Pox					Token	Aura	Generic		At the beginning of your end phase, destroy Bloodrot Pox, then it deals 2 damage to you unless you pay {r}{r}{r}.
+bloodsheath-skeleta	Bloodsheath Skeleta				2	Equipment	Chest	Runeblade		**Instant** - Destroy this: The next attack action card and non-attack action card you play this turn get "This card costs {r} less to play for each Runechant you control." **Temper**
+bloodspill-invocation-red	Bloodspill Invocation	1	1		2	Action	Aura|NonAttack	Runeblade		**Go again** When an attack action card you control hits, destroy Bloodspill Invocation then create 3 Runechant tokens. When your hero is dealt damage, destroy Bloodspill Invocation.
+bloodspill-invocation-yellow	Bloodspill Invocation	2	1		2	Action	Aura|NonAttack	Runeblade		**Go again** When an attack action card you control hits, destroy Bloodspill Invocation then create 2 Runechant tokens. When your hero is dealt damage, destroy Bloodspill Invocation.
+bloodspill-invocation-blue	Bloodspill Invocation	3	1		2	Action	Aura|NonAttack	Runeblade		**Go again** When an attack action card you control hits, destroy Bloodspill Invocation then create a Runechant token. When your hero is dealt damage, destroy Bloodspill Invocation.
+bloodtorn-bodice	Bloodtorn Bodice				0	Equipment	Chest	Runeblade		**Action** - Destroy this and an aura you control: Gain {r}. **Go again**
+blossom-of-spring	Blossom of Spring				0	Equipment	Chest	Generic		**Action** - Destroy this: Gain {r}. **Go again**
+blow-for-a-blow-red	Blow for a Blow	1	2	4	2	Action	Attack	Generic		When this is played, if you have less {h} than an opposing hero, it gets **go again**. When this hits, deal 1 damage to any target.
+bluster-buff-red	Bluster Buff	1	1	6	3	Action	Attack	Generic		When this attacks, it gets -1{p} unless you pay {r}.
+boots-of-astral-sanctuary	Boots of Astral Sanctuary				0	Equipment	Legs	Generic		**Instant** - {t} your hero, destroy this: Prevent the next 1 damage that would be dealt to you this turn.
+boots-of-omnis-ward	Boots of Omnis Ward				1	Equipment	Legs	Generic		If you've been dealt arcane damage this turn, this gets +1{d}. **Instant** - {t} your hero, destroy this: Prevent the next 1 damage that would be dealt to you this turn.
+bracers-of-belief	Bracers of Belief				0	Equipment	Arms	Generic		**Action** - Destroy Bracers of Belief: Reveal the top card of your deck. If you do, the next attack action card you play this turn, gains +X{p}, where X is 3 minus the pitch value of the card revealed this way. **Go again**
+brandish-red	Brandish	1	1	3	2	Action	Attack	Generic		If Brandish hits, your next weapon attack this turn gains +1{p}. **Go again**
+brandish-yellow	Brandish	2	1	2	2	Action	Attack	Generic		If Brandish hits, your next weapon attack this turn gains +1{p}. **Go again**
+brandish-blue	Brandish	3	1	1	2	Action	Attack	Generic		If Brandish hits, your next weapon attack this turn gains +1{p}. **Go again**
+brothers-in-arms-red	Brothers in Arms	1	2	6	2	Action	Attack	Generic		When this defends, you may pay {r}. If you do, it gets +2{d}.
+brothers-in-arms-yellow	Brothers in Arms	2	2	5	2	Action	Attack	Generic		When this defends, you may pay {r}. If you do, it gets +2{d}.
+brothers-in-arms-blue	Brothers in Arms	3	2	4	2	Action	Attack	Generic		When this defends, you may pay {r}. If you do, it gets +2{d}.
+browbeat-blue	Browbeat	3	0	1	3	Action	Attack	Generic		This gets +1{p} for each card in your hand.
+bruised-leather	Bruised Leather				0	Equipment	Chest	Generic		**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this only if you've been dealt damage this turn.
+brush-off-red	Brush Off	1	0			Instant		Generic		The next time you would be dealt 3 or less damage this turn, prevent it.
+brush-off-yellow	Brush Off	2	0			Instant		Generic		The next time you would be dealt 2 or less damage this turn, prevent it.
+brush-off-blue	Brush Off	3	0			Instant		Generic		The next time you would be dealt 1 damage this turn, prevent it.
+brutal-assault-red	Brutal Assault	1	2	6	3	Action	Attack	Generic		
+brutal-assault-yellow	Brutal Assault	2	2	5	3	Action	Attack	Generic		
+brutal-assault-blue	Brutal Assault	3	2	4	3	Action	Attack	Generic		
+bunker-beard	Bunker Beard				0	Equipment	Head	Generic		**Defense Reaction** - Destroy this: You may add an action card from your arsenal to the active chain link as a defending card.
+burdens-of-the-past-blue	Burdens of the Past	3	0		3	Action	NonAttack	Generic		Until end of turn, target hero can't play defense reaction cards with the same name as a card in their graveyard. If there are 10 or more defense reaction cards in their graveyard, draw a card. **Go again**
+burn-up--shock-red	Burn Up // Shock	1	0		3	Action|Instant	NonAttack	Runeblade	Lightning	**Meld** The next time an attack you control hits a hero this turn, deal 4 arcane damage to them. **Go again** // Deal 1 arcane damage to any target.
+burnished-bunkerplate	Burnished Bunkerplate				0	Equipment	Chest	Generic		**Defense Reaction** - Destroy this: You may add an action card from your arsenal to the active chain link as a defending card.
+cadaverous-contraband-red	Cadaverous Contraband	1	2	6	2	Action	Attack	Generic		If Cadaverous Contraband hits, you may put a 'non-attack' action card from your graveyard on top of your deck.
+cadaverous-contraband-yellow	Cadaverous Contraband	2	2	5	2	Action	Attack	Generic		If Cadaverous Contraband hits, you may put a 'non-attack' action card from your graveyard on top of your deck.
+cadaverous-contraband-blue	Cadaverous Contraband	3	2	4	2	Action	Attack	Generic		If Cadaverous Contraband hits, you may put a 'non-attack' action card from your graveyard on top of your deck.
+call-for-backup-red	Call for Backup	1	3	7	2	Action	Attack	Generic		When this defends, choose 2 attack action cards with different names in your graveyard. An opponent chooses 1 of them. Banish that card and put the other on top of your deck.
+call-to-the-grave-blue	Call to the Grave	3	0		2	Action	NonAttack	Generic		Search your deck for a card, put it into your graveyard, then shuffle. **Go again**
+calming-breeze-red	Calming Breeze	1	0			Instant		Generic		The next 3 times you would be dealt damage this turn, prevent 1 of that damage.
+calmveil-of-volthaven-red	Calmveil of Volthaven	1	2			Instant		NotClassed	Lightning	Prevent the next 3 damage that would be dealt to you this turn. The first time you prevent damage this way, create a Lightning Flow token.
+calmveil-of-volthaven-yellow	Calmveil of Volthaven	2	2			Instant		NotClassed	Lightning	Prevent the next 2 damage that would be dealt to you this turn. The first time you prevent damage this way, create a Lightning Flow token.
+calmveil-of-volthaven-blue	Calmveil of Volthaven	3	2			Instant		NotClassed	Lightning	Prevent the next 1 damage that would be dealt to you this turn. The first time you prevent damage this way, create a Lightning Flow token.
+cap-of-quick-thinking	Cap of Quick Thinking					Equipment	Head	NotClassed	Lightning	**Instant** - Destroy this: If you would be dealt damage by a source an opponent controls this turn, you may discard an instant card to prevent 1 of that damage and draw a card.
+captain-of-the-guard-blue	Captain of the Guard	3	3	5	2	Action	Attack	Generic		While this is defending, cards with {p} greater than the attack they are defending get +1{d}.
+captains-call-red	Captain's Call	1	0		2	Action	NonAttack	Generic		Choose 1; The next attack action card with cost 2 or less you play this turn gains +2{p}. The next attack action card with cost 2 or less you play this turn gains **go again**. **Go again**
+captains-call-yellow	Captain's Call	2	0		2	Action	NonAttack	Generic		Choose 1; The next attack action card with cost 1 or less you play this turn gains +2{p}. The next attack action card with cost 1 or less you play this turn gains **go again**. **Go again**
+captains-call-blue	Captain's Call	3	0		2	Action	NonAttack	Generic		Choose 1; The next attack action card with cost 0 you play this turn gains +2{p}. The next attack action card with cost 0 you play this turn gains **go again**. **Go again**
+captains-coat	Captain's Coat				0	Equipment	Chest	Generic		**Action** - Destroy this: Gain {r}. Activate this only if you've drawn a card this turn. **Go again**
+caress-of-the-reaper-red	Caress of the Reaper	1	1	5	3	Action	Attack	Runeblade		Whenever this deals damage to a hero, destroy target aura they control.
+cash-in-yellow	Cash In	2	4		2	Action	NonAttack	Generic		You may destroy 4 Coppers, 2 Silvers, or 1 Gold you control rather than pay Cash In's {r} cost. Draw 2 cards. **Go again**
+cash-out-blue	Cash Out	3	0		2	Action	NonAttack	Generic		As an additional cost to play Cash Out, you may destroy any number of weapons, equipment and/or non-token items you control. Create a Silver token for each permanent destroyed this way. **Go again**
+censor-red	Censor	1	1	5	3	Action	Attack	Generic		When this hits a hero, name a card. They can't play the named card until the end of their next turn.
+chains-of-eminence-red	Chains of Eminence	1	0		2	Action	Aura|NonAttack	Generic		**Go again** When Chains of Eminence enters the arena, name a card. The named card can't be pitched, played or used to defend while Chains of Eminence is in the arena. At the beginning of your action phase, destroy Chains of Eminence
+channel-lightning-valley-yellow	Channel Lightning Valley	2	0			Instant	Aura	NotClassed	Lightning	The first time you deal damage to an opposing hero each turn, draw a card. **Channel Lightning** - At the beginning of your end phase, put a flow counter on this, then destroy it unless you put a Lightning card from your pitch zone on the bottom of your deck for each flow counter on it.
+channel-thunder-steppe-yellow	Channel Thunder Steppe	2	1		3	Action	Aura|NonAttack	NotClassed	Lightning	**Go again** Whenever you play an action card, you may pay {r}. If you do, it gains **go again**. **Channel Lightning** - At the beginning of your end phase, put a flow counter on Channel Thunder Steppe then destroy it unless you put a Lightning card from your pitch zone on the bottom of your deck for each flow counter on it.
+chest-puff-red	Chest Puff	1	2	7	3	Action	Attack	Generic		When this attacks, it gets -1{p} unless you pay {r}.
+chromatic-refinement-red	Chromatic Refinement	1	0			Instant	Aura	NotClassed	Lightning	At the beginning of your action phase, destroy this, then the next red card you play this turn costs {r} less to play. The first time that card would deal damage this turn, instead it deals that much plus 1.
+chromatic-refinement-yellow	Chromatic Refinement	2	0			Instant	Aura	NotClassed	Lightning	At the beginning of your action phase, destroy this, then the next yellow card you play this turn costs {r} less to play. The first time that card would deal damage this turn, instead it deals that much plus 1.
+chromatic-refinement-blue	Chromatic Refinement	3	0			Instant	Aura	NotClassed	Lightning	At the beginning of your action phase, destroy this, then the next blue card you play this turn costs {r} less to play. The first time that card would deal damage this turn, instead it deals that much plus 1.
+clap-em-in-irons-blue	Clap 'Em in Irons	3	0			Action	Item|NonAttack	Generic		**Go again** When this enters the arena, {t} target Pirate hero or ally. It can't {u} while this is in the arena. At the start of your turn, destroy this.
+clarity-potion-blue	Clarity Potion	3	0			Action	Item|NonAttack	Generic		**Instant** - Destroy Clarity Potion: **Opt 2**
+clearwater-elixir-red	Clearwater Elixir	1	1		3	Action	NonAttack	Generic		Your next attack this turn gets +3{p}. You may destroy a Bloodrot Pox token you control. If you do, gain 1{h}. **Go again**
+cloud-cover-red	Cloud Cover	1	0			Instant		NotClassed	Lightning	The next time you would be dealt damage this turn, prevent 3 of that damage.
+cloud-cover-yellow	Cloud Cover	2	0			Instant		NotClassed	Lightning	The next time you would be dealt damage this turn, prevent 2 of that damage.
+cloud-cover-blue	Cloud Cover	3	0			Instant		NotClassed	Lightning	The next time you would be dealt damage this turn, prevent 1 of that damage.
+coax-a-commotion-red	Coax a Commotion	1	0	4	2	Action	Attack	Generic		When this hits, choose any number: - Each hero creates a Quicken token. - Each hero draws a card. - Each hero gains 1{h}.
+come-to-fight-red	Come to Fight	1	1		3	Action	NonAttack	Generic		The next attack action card you play this turn gains +3{p}. **Go again**
+come-to-fight-yellow	Come to Fight	2	1		3	Action	NonAttack	Generic		The next attack action card you play this turn gains +2{p}. **Go again**
+come-to-fight-blue	Come to Fight	3	1		3	Action	NonAttack	Generic		The next attack action card you play this turn gains +1{p}. **Go again**
+command-and-conquer-red	Command and Conquer	1	2	6	3	Action	Attack	Generic		Defense reaction cards can't be played this chain link. When this hits a hero, destroy all cards in their arsenal.
+condemn-to-slaughter-red	Condemn to Slaughter	1	1		3	Action	NonAttack	Runeblade		Your next Runeblade attack this turn gets +3{p}. You may destroy an aura you control. If you do, each opponent destroys an aura permanent they control. **Go again**
+condemn-to-slaughter-yellow	Condemn to Slaughter	2	1		3	Action	NonAttack	Runeblade		Your next Runeblade attack this turn gets +2{p}. You may destroy an aura you control. If you do, each opponent destroys an aura permanent they control. **Go again**
+condemn-to-slaughter-blue	Condemn to Slaughter	3	1		3	Action	NonAttack	Runeblade		Your next Runeblade attack this turn gets +1{p}. You may destroy an aura you control. If you do, each opponent destroys an aura permanent they control. **Go again**
+confidence	Confidence					Token	Aura	Generic		At the start of your turn, destroy this, then the next attack card you play this turn can't be defended by more than 2 non-block cards.
+conflicting-thoughts-red	Conflicting Thoughts	1	0	4	3	Action	Attack	Generic		When this attacks, **opt 1**.
+conflicting-thoughts-yellow	Conflicting Thoughts	2	0	3	3	Action	Attack	Generic		When this attacks, **opt 1**.
+conflicting-thoughts-blue	Conflicting Thoughts	3	0	2	3	Action	Attack	Generic		When this attacks, **opt 1**.
+confront-adversity	Confront Adversity				2	Equipment	Chest	Generic		This may only defend an attack if the attack's controller has destroyed a Vigor token this turn. **Blade Break**
+constella-tiara	Constella Tiara				0	Equipment	Head	NotClassed	Lightning	**Instant** - {r}{r}, destroy this: Prevent the next 1 damage that would be dealt to you this turn. If you prevent damage this way, create a Ponder token.
+consuming-volition-red	Consuming Volition	1	1	4	3	Action	Attack	Runeblade		If you've dealt arcane damage this turn, this gets "When this hits a hero, they discard a card."
+consuming-volition-yellow	Consuming Volition	2	1	3	3	Action	Attack	Runeblade		If you've dealt arcane damage this turn, this gets "When this hits a hero, they discard a card."
+consuming-volition-blue	Consuming Volition	3	1	2	3	Action	Attack	Runeblade		If you've dealt arcane damage this turn, this gets "When this hits a hero, they discard a card."
+copper	Copper					Token	Item	Generic		**Action** - {r}{r}{r}{r}, destroy this: Draw a card. **Go again**
+cosmic-flare-red	Cosmic Flare	1	0			Instant		NotClassed	Lightning	Gain {r}{r}{r}
+count-your-blessings-red	Count Your Blessings	1	2			Instant		Generic		Gain X{h}, where X is 3 plus the number of Count Your Blessings in your graveyard.
+count-your-blessings-yellow	Count Your Blessings	2	2			Instant		Generic		Gain X{h}, where X is 2 plus the number of Count Your Blessings in your graveyard.
+count-your-blessings-blue	Count Your Blessings	3	2			Instant		Generic		Gain X{h}, where X is 1 plus the number of Count Your Blessings in your graveyard.
+courage	Courage					Token	Aura	Generic		When you play an attack action card or activate a weapon attack, destroy this and the attack gets +1{p}.
+cracked-bauble-yellow	Cracked Bauble	2				Resource		Generic		*(A player may add any number of Cracked Baubles to their card-pool in sealed deck or booster draft formats.)*
+cracker-bauble-yellow	Cracker Bauble	2	0			Resource		Generic		When this is pitched, you and target opponent randomly choose opposite ends of this and pull them until this breaks in half. Then each hero creates the token on the back of their half, and this ceases to exist.
+cracker-jax	Cracker Jax				0	Equipment	Arms	Generic		**Action** - Destroy this: The next attack action card you play this turn gets +1{p}. **Go again**
+crash-down-the-gates-red	Crash Down the Gates	1	3	6	2	Action	Attack	Generic		When this attacks a hero, they reveal the top card of their deck. If this has {p} greater than the revealed card, this gets +2{p}. When this hits a hero, destroy the top card of their deck.
+crash-down-the-gates-yellow	Crash Down the Gates	2	3	5	2	Action	Attack	Generic		When this attacks a hero, they reveal the top card of their deck. If this has {p} greater than the revealed card, this gets +2{p}. When this hits a hero, destroy the top card of their deck.
+crash-down-the-gates-blue	Crash Down the Gates	3	3	4	2	Action	Attack	Generic		When this attacks a hero, they reveal the top card of their deck. If this has {p} greater than the revealed card, this gets +2{p}. When this hits a hero, destroy the top card of their deck.
+crazy-brew-blue	Crazy Brew	3	0			Action	Item|NonAttack	Generic		**Action** - Destroy this: Roll a 6 sided die. On; - 1 or 2 - Lose 2{h}. **Go again** - 3 or 4 - Gain 2{h}. **Go again** - 5 or 6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.
+critical-strike-red	Critical Strike	1	1	5	3	Action	Attack	Generic		
+critical-strike-yellow	Critical Strike	2	1	4	3	Action	Attack	Generic		
+critical-strike-blue	Critical Strike	3	1	3	3	Action	Attack	Generic		
+crown-of-dichotomy	Crown of Dichotomy				0	Equipment	Head	Runeblade		**Action** - {r}, destroy Crown of Dichotomy: Put target Runeblade attack action card and target Runeblade 'non-attack' action card from your graveyard on top of your deck in any order. **Arcane Barrier 1**
+crown-of-dominion	Crown of Dominion					Equipment	Head	Generic		Your hero is Royal. When you equip Crown of Dominion, create a Gold token.
+crown-of-providence	Crown of Providence				2	Equipment	Head	Generic		When you defend with Crown of Providence, you may put a card from your hand or arsenal on the bottom of your deck. If you do, draw a card. **Blade Break**
+cryptic-crossing-yellow	Cryptic Crossing	2	3	6	3	Action	Attack	Runeblade		If an attack action card and a 'non-attack' action card were pitched to play Cryptic Crossing, it has "The first time this deals damage to the defending hero, they discard a card and you draw a card."
+current-funnel-blue	Current Funnel	3	0	2	3	Action	Attack	NotClassed	Lightning	If the last action card you played this turn was Lightning, this and the next action card you play this turn get **go again**.
+cut-down-to-size-red	Cut Down to Size	1	2	6	2	Action	Attack	Generic		When this hits a hero, if they have 4 or more cards in hand, they discard a card.
+cut-down-to-size-yellow	Cut Down to Size	2	2	5	2	Action	Attack	Generic		When this hits a hero, if they have 4 or more cards in hand, they discard a card.
+cut-down-to-size-blue	Cut Down to Size	3	2	4	2	Action	Attack	Generic		When this hits a hero, if they have 4 or more cards in hand, they discard a card.
+cut-through-the-facade-red	Cut Through the Facade	1	3	7	2	Action	Attack	Generic		This can't be defended by auras. When this hits a hero, you may destroy an aura they control.
+cutting-retort-red	Cutting Retort	1	0	4	3	Action	Attack	Generic		When this attacks a hero, you may pay up to {r}{r}{r}. Destroy that many aura tokens with different names they control. If you do, this gets +1{p} for each aura destroyed this way.
+dashing-flashfoot-yellow	Dashing Flashfoot	2	1	3	3	Action	Attack	Runeblade	Lightning	**Quickstrike** - If this has go again, it gets +1{p} and "When this attacks a hero, deal 1 arcane damage to them." The first time this deals damage to a hero, create an Embodiment of Lightning token.
+deadwood-dirge-red	Deadwood Dirge	1	0		2	Action	NonAttack	Runeblade		Destroy an aura you control. If you do, create 3 Runechant tokens. **Go again**
+deadwood-dirge-yellow	Deadwood Dirge	2	0		2	Action	NonAttack	Runeblade		Destroy an aura you control. If you do, create 2 Runechant tokens. **Go again**
+deadwood-dirge-blue	Deadwood Dirge	3	0		2	Action	NonAttack	Runeblade		Destroy an aura you control. If you do, create a Runechant token. **Go again**
+deathly-duet-red	Deathly Duet	1	2	4	3	Action	Attack	Runeblade		When Deathly Duet attacks, if an attack action card was pitched to play it, it gains +2{p}. If a 'non-attack' action card was pitched to play it, create 2 Runechant tokens.
+deathly-duet-yellow	Deathly Duet	2	2	3	3	Action	Attack	Runeblade		When Deathly Duet attacks, if an attack action card was pitched to play it, it gains +2{p}. If a 'non-attack' action card was pitched to play it, create 2 Runechant tokens.
+deathly-duet-blue	Deathly Duet	3	2	2	3	Action	Attack	Runeblade		When Deathly Duet attacks, if an attack action card was pitched to play it, it gains +2{p}. If a 'non-attack' action card was pitched to play it, create 2 Runechant tokens.
+deathmatch-arena	Deathmatch Arena		0			Action	Landmark|NonAttack	Generic		**Legendary** **Go again** Heroes can attack any opposing hero. When a hero deals lethal damage to another hero, they create Gold tokens equal to the number of heroes who started this game.
+deep-blue	Deep Blue				0	Equipment	Chest	Generic		**Action** - Put a card from your hand on the bottom of your deck, destroy Deep Blue: Gain {r}{r}{r}. **Go again**
+demolition-crew-red	Demolition Crew	1	2	6	2	Action	Attack	Generic		As an additional cost to play Demolition Crew, reveal a card in your hand with cost 2 or greater. **Dominate**
+demolition-crew-yellow	Demolition Crew	2	2	5	2	Action	Attack	Generic		As an additional cost to play Demolition Crew, reveal a card in your hand with cost 2 or greater. **Dominate**
+demolition-crew-blue	Demolition Crew	3	2	4	2	Action	Attack	Generic		As an additional cost to play Demolition Crew, reveal a card in your hand with cost 2 or greater. **Dominate**
+deny-redemption-red	Deny Redemption	1	0	3	3	Action	Attack	Runeblade		When this attacks a hero with more {h} than you, deal 1 arcane damage to them. This damage can't be prevented. **Instant** - Discard this: Heroes can't gain {h} this turn.
+destructive-deliberation-red	Destructive Deliberation	1	2	5	2	Action	Attack	Generic		When this hits a hero, create a Ponder token.
+destructive-deliberation-yellow	Destructive Deliberation	2	2	4	2	Action	Attack	Generic		When this hits a hero, create a Ponder token.
+destructive-deliberation-blue	Destructive Deliberation	3	2	3	2	Action	Attack	Generic		When this hits a hero, create a Ponder token.
+destructive-fleetfoot-red	Destructive Fleetfoot	1	0	3	3	Action	Attack	Runeblade	Lightning	**Quickstrike** - If this has go again, it gets +1{p}. When this hits a hero, destroy an aura token they control.
+destructive-fleetfoot-yellow	Destructive Fleetfoot	2	0	2	3	Action	Attack	Runeblade	Lightning	**Quickstrike** - If this has go again, it gets +1{p}. When this hits a hero, destroy an aura token they control.
+destructive-fleetfoot-blue	Destructive Fleetfoot	3	0	1	3	Action	Attack	Runeblade	Lightning	**Quickstrike** - If this has go again, it gets +1{p}. When this hits a hero, destroy an aura token they control.
+destructive-tendencies-blue	Destructive Tendencies	3	0			Instant		Generic		Choose 1 or both; - Remove all counters from target item token. - Remove all counters from target aura token.
+diabolic-ultimatum-red	Diabolic Ultimatum	1	3		2	Action	NonAttack	Runeblade		If an attack action card was pitched to play Diabolic Ultimatum, each hero chooses and destroys an ally they control. If a 'non-attack' action card was pitched to play Diabolic Ultimatum, each hero chooses and destroys an aura they control.
+diamond	Diamond					Token	Item	Generic		**Action** - Destroy Diamond: Draw a card. **Go again**
+diamond-amulet-blue	Diamond Amulet	3	0			Action	Item|NonAttack	Generic		**Instant** - Destroy this: gain 1 action point. **Legend of the Watery Grave**
+dodge-blue	Dodge	3	0		2	DefenseReaction		Generic		
+doomsaying-red	Doomsaying	1	0		3	Action	Aura|NonAttack	Runeblade		**Go again** At the beginning of your end phase, put a doom counter on this, then each hero destroys X auras they control, where X is the number of doom counters on this.
+douse-in-runeblood-red	Douse in Runeblood	1	1	4	3	Action	Attack	Runeblade		When this attacks, create Runechant tokens equal to the number of non-attack action cards you've played this turn. If 3 or more Runechants are created this way, this gets **go again**.
+down-and-dirty-red	Down and Dirty	1	2	6	2	Action	Attack	Generic		While Down and Dirty is in your arsenal, you may defend with it.
+down-but-not-out-red	Down But Not Out	1	3	5	3	Action	Attack	Generic		When this attacks a hero, if you have less {h} and control fewer equipment and tokens than them, this gets +3{p}, **overpower**, and "When this hits, create an Agility, Might, and Vigor token."
+down-but-not-out-yellow	Down But Not Out	2	3	4	3	Action	Attack	Generic		When this attacks a hero, if you have less {h} and control fewer equipment and tokens than them, this gets +3{p}, **overpower**, and "When this hits, create an Agility, Might, and Vigor token."
+down-but-not-out-blue	Down But Not Out	3	3	3	3	Action	Attack	Generic		When this attacks a hero, if you have less {h} and control fewer equipment and tokens than them, this gets +3{p}, **overpower**, and "When this hits, create an Agility, Might, and Vigor token."
+drag-down-red	Drag Down	1	0		0	DefenseReaction		Generic		When this defends an attack, it gets -3{p}.
+drag-down-yellow	Drag Down	2	0		0	DefenseReaction		Generic		When this defends an attack, it gets -2{p}.
+drag-down-blue	Drag Down	3	0		0	DefenseReaction		Generic		When this defends an attack, it gets -1{p}.
+drawn-to-the-dark-dimension-red	Drawn to the Dark Dimension	1	2	3	3	Action	Attack	Runeblade		This costs {r} less to play for each Runechant you control. When this attacks, draw a card.
+drawn-to-the-dark-dimension-yellow	Drawn to the Dark Dimension	2	2	2	3	Action	Attack	Runeblade		Drawn to the Dark Dimension costs {r} less to play for each Runechant you control. Draw a card.
+drawn-to-the-dark-dimension-blue	Drawn to the Dark Dimension	3	2	1	3	Action	Attack	Runeblade		Drawn to the Dark Dimension costs {r} less to play for each Runechant you control. Draw a card.
+dread-scythe	Dread Scythe			3		Weapon	TwoHanded|Scythe	Runeblade		**Once per Turn Action** - {r}{r}{r}: **Attack** Whenever you attack with Dread Scythe, deal 1 arcane damage to the defending hero. A hero dealt damage by Dread Scythe can't gain {h} during their next action phase.
+dread-triptych-blue	Dread Triptych	3	3	4	3	Action	Attack	Runeblade		When you attack with Dread Triptych, if you've played a 'non-attack' action card this turn, create a Runechant token. When you attack with Dread Triptych, if you've dealt arcane damage this turn, create a Runechant token. If Dread Triptych hits, create a Runechant token.
+drinking-buddy-red	Drinking Buddy	1	2	6	3	Action	Attack	Generic		When this attacks, each hero may search their deck for an item with Potion or Brew in its name and put it into the arena. Each hero that does, shuffles their deck. If two or more heroes put a card into the arena this way, this gets **go again**.
+drone-of-brutality-red	Drone of Brutality	1	2	6	2	Action	Attack	Generic		If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.
+drone-of-brutality-yellow	Drone of Brutality	2	2	5	2	Action	Attack	Generic		If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.
+drone-of-brutality-blue	Drone of Brutality	3	2	4	2	Action	Attack	Generic		If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.
+drowning-dire-red	Drowning Dire	1	2	5	3	Action	Attack	Runeblade		If you have played or created an aura this turn, Drowning Dire gains **dominate**. When Drowning Dire hits, you may put a 'non-attack' action card from your graveyard on the bottom of your deck.
+drowning-dire-yellow	Drowning Dire	2	2	4	3	Action	Attack	Runeblade		If you have played or created an aura this turn, Drowning Dire gains **dominate**. When Drowning Dire hits, you may put a 'non-attack' action card from your graveyard on the bottom of your deck.
+drowning-dire-blue	Drowning Dire	3	2	3	3	Action	Attack	Runeblade		If you have played or created an aura this turn, Drowning Dire gains **dominate**. When Drowning Dire hits, you may put a 'non-attack' action card from your graveyard on the bottom of your deck.
+dual-threat-yellow	Dual Threat	2	0		3	Action	NonAttack	Generic		If you've attacked with a weapon this turn, the next attack action card you play this turn gets +3{p}. If you've attacked with an attack action card this turn, your next weapon attack this turn gets +3{p}. **Go again**
+duskblade	Duskblade			2		Weapon	TwoHanded|Sword	Runeblade		**Once per Turn Action** - {r}: **Attack** Whenever you attack with Duskblade, if you've played an attack action card and a 'non-attack' action card this turn, put a +1{p} counter on Duskblade. At the beginning of your end phase, if you haven't played an attack action card and a 'non-attack' action card this turn, remove all +1{p} counters from Duskblade.
+dyadic-carapace	Dyadic Carapace				2	Equipment	Chest	Runeblade		**Arcane Barrier 2** **Temper**
+eclectic-magnetism-red	Eclectic Magnetism	1	1	5	3	Action	Attack	NotClassed	Lightning	When this attacks, you may play a non-attack action card this chain link as though it were an instant.
+eirinas-prayer-red	Eirina's Prayer	1	1			Instant		Generic		Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to your hero this turn, where X is 6 minus the pitch value of the card revealed this way.
+eirinas-prayer-yellow	Eirina's Prayer	2	1			Instant		Generic		Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to your hero this turn, where X is 5 minus the pitch value of the card revealed this way.
+eirinas-prayer-blue	Eirina's Prayer	3	1			Instant		Generic		Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to your hero this turn, where X is 4 minus the pitch value of the card revealed this way.
+electrify-red	Electrify	1	1		2	Action	NonAttack	NotClassed	Lightning	The next time an attack action card hits a hero this turn, it deals 3 damage to them. If Electrify is played from arsenal, draw a card. **Go again**
+electrify-yellow	Electrify	2	1		2	Action	NonAttack	NotClassed	Lightning	The next time an attack action card hits a hero this turn, it deals 2 damage to them. If Electrify is played from arsenal, draw a card. **Go again**
+electrify-blue	Electrify	3	1		2	Action	NonAttack	NotClassed	Lightning	The next time an attack action card hits a hero this turn, it deals 1 damage to them. If Electrify is played from arsenal, draw a card. **Go again**
+electrolyze-red	Electrolyze	1	1	4	0	Action	Attack	NotClassed	Lightning	**Go again**
+electrolyze-yellow	Electrolyze	2	1	3	0	Action	Attack	NotClassed	Lightning	**Go again**
+electrolyze-blue	Electrolyze	3	1	2	0	Action	Attack	NotClassed	Lightning	**Go again**
+electromagnetic-somersault-red	Electromagnetic Somersault	1	0			Instant		NotClassed	Lightning	Choose up to 2 attack action cards with cost 0 or more on the active chain link. Return them to their owner's hand when the chain link resolves.
+electromagnetic-somersault-yellow	Electromagnetic Somersault	2	0			Instant		NotClassed	Lightning	Choose up to 2 attack action cards with cost 1 or more on the active chain link. Return them to their owner's hand when the chain link resolves.
+electromagnetic-somersault-blue	Electromagnetic Somersault	3	0			Instant		NotClassed	Lightning	Choose up to 2 attack action cards with cost 2 or more on the active chain link. Return them to their owner's hand when the chain link resolves.
+electrostatic-discharge-red	Electrostatic Discharge	1	0			Instant		NotClassed	Lightning	The next attack action card you play this turn with cost 1 or less gets +3{p}.
+electrostatic-discharge-yellow	Electrostatic Discharge	2	0			Instant		NotClassed	Lightning	The next attack action card you play this turn with cost 1 or less gets +2{p}.
+electrostatic-discharge-blue	Electrostatic Discharge	3	0			Instant		NotClassed	Lightning	The next attack action card you play this turn with cost 1 or less gets +1{p}.
+electryn-joltstep-red	Electryn Joltstep	1	1		3	Action	NonAttack	Runeblade	Lightning	Your next Runeblade or Lightning attack this turn gets +3{p}. Create a Lightning Flow token. **Go again**
+electryn-joltstep-yellow	Electryn Joltstep	2	1		3	Action	NonAttack	Runeblade	Lightning	Your next Runeblade or Lightning attack this turn gets +2{p}. Create a Lightning Flow token. **Go again**
+electryn-joltstep-blue	Electryn Joltstep	3	1		3	Action	NonAttack	Runeblade	Lightning	Your next Runeblade or Lightning attack this turn gets +1{p}. Create a Lightning Flow token. **Go again**
+electryn-mindmeld-yellow	Electryn Mindmeld	2	1	3	3	Action	Attack	Runeblade	Lightning	**Quickstrike** - If this has go again, it gets +1{p} and "When this attacks a hero, deal 1 arcane damage to them." The first time this deals damage to a hero, you may put an instant card from your graveyard on the bottom of your deck.
+eloquence	Eloquence					Token	Aura	Generic		When you play a non-attack action card, destroy this and the card gets **go again**.
+embodiment-of-lightning	Embodiment of Lightning					Token	Aura	NotClassed	Elemental	When you play an attack action card, destroy this and the attack gets **go again**.
+embrace-adversity	Embrace Adversity				2	Equipment	Arms	Generic		This may only defend an attack if the attack's controller has destroyed a Might token this turn. **Blade Break**
+emissary-of-moon-red	Emissary of Moon	1	0	4	2	Action	Attack	Generic		When this attacks, you may put a card from your hand on the bottom of your deck. If you do, draw a card.
+emissary-of-tides-red	Emissary of Tides	1	0	4	2	Action	Attack	Generic		When this attacks, you may put a card from your hand on the bottom of your deck. If you do, this gets +2{p}.
+emissary-of-wind-red	Emissary of Wind	1	0	4	2	Action	Attack	Generic		When this attacks, you may put a card from your hand on the bottom of your deck. If you do, this gets **go again**.
+enchanting-melody-red	Enchanting Melody	1	2		2	Action	Aura|NonAttack	Generic		**Go again** If your hero would be dealt damage, instead destroy Enchanting Melody and prevent 4 damage that source would deal. At the beginning of your end phase, destroy Enchanting Melody unless you have played a 'non-attack' action card this turn.
+enchanting-melody-yellow	Enchanting Melody	2	2		2	Action	Aura|NonAttack	Generic		**Go again** If your hero would be dealt damage, instead destroy Enchanting Melody and prevent 3 damage that source would deal. At the beginning of your end phase, destroy Enchanting Melody unless you have played a 'non-attack' action card this turn.
+enchanting-melody-blue	Enchanting Melody	3	2		2	Action	Aura|NonAttack	Generic		**Go again** If your hero would be dealt damage, instead destroy Enchanting Melody and prevent 2 damage that source would deal. At the beginning of your end phase, destroy Enchanting Melody unless you have played a 'non-attack' action card this turn.
+energy-potion-blue	Energy Potion	3	0			Action	Item|NonAttack	Generic		**Instant** - Destroy this: Gain {r}{r}
+enlightened-strike-red	Enlightened Strike	1	0	5	3	Action	Attack	Generic		As an additional cost to play Enlightened Strike, put a card from your hand on the bottom of your deck. Choose 1; - When you attack with Enlightened Strike, draw a card. - Enlightened Strike gains +2{p}. - Enlightened Strike gains **go again**.
+erase-face-red	Erase Face	1	2	6	2	Action	Attack	Generic		When this hits a hero, cards they own lose all class and talent types until the end of their next turn.
+evasive-leap-red	Evasive Leap	1	0		3	DefenseReaction		Generic		
+evasive-leap-yellow	Evasive Leap	2	0		2	DefenseReaction		Generic		
+evasive-leap-blue	Evasive Leap	3	0		1	DefenseReaction		Generic		
+even-bigger-than-that-red	Even Bigger Than That!	1	0			Instant		Generic		Play Even Bigger Than That! only if you've dealt {p} this turn. **Opt 3**, then reveal the top card of your deck. If it has {p} greater than the amount of damage you've dealt this turn, create a Quicken token and draw a card.
+even-bigger-than-that-yellow	Even Bigger Than That!	2	0			Instant		Generic		Play Even Bigger Than That! only if you've dealt {p} this turn. **Opt 2**, then reveal the top card of your deck. If it has {p} greater than the amount of damage you've dealt this turn, create a Quicken token and draw a card.
+even-bigger-than-that-blue	Even Bigger Than That!	3	0			Instant		Generic		Play Even Bigger Than That! only if you've dealt {p} this turn. **Opt 1**, then reveal the top card of your deck. If it has {p} greater than the amount of damage you've dealt this turn, create a Quicken token and draw a card.
+exposed-blue	Exposed	3	0			AttackReaction		Generic		If you are **marked**, you can't play this. Target attack gets +1{p}. **Mark** the defending hero.
+exude-confidence-red	Exude Confidence	1	0	4	2	Action	Attack	Generic		While Exude Confidence isn't defended by a card with equal or greater {p}, the defending hero can't play or activate instants or defense reactions this combat chain. **Instant** - {r}{r}{r}: Exude Confidence gains +2{p}. Activate this ability only while Exude Confidence is attacking.
+eye-of-ophidia-blue	Eye of Ophidia	3				Resource	Gem	Generic		**Legendary** When you pitch Eye of Ophidia, **opt 2**.
+fabric-of-blossoms-blue	Fabric of Blossoms	3	0		2	Action	Construct|NonAttack	Generic		Equip Blossom of Spring. If you don't, **negate this**.
+fabric-of-hope-red	Fabric of Hope	1	0		2	Action	Construct|NonAttack	Generic		Equip Hope Merchant's Hood. If you don't, **negate** this.
+fabric-of-providence-red	Fabric of Providence	1	0		2	Action	Construct|NonAttack	Generic		**Legendary** Equip Crown of Providence. If you don't, **negate** this.
+fabric-of-scales-blue	Fabric of Scales	3	0		2	Action	Construct|NonAttack	Generic		Equip Snapdragon Scalers. If you don't, **negate** this.
+fabric-of-spring-yellow	Fabric of Spring	2	0		2	Action	Construct|NonAttack	Generic		Equip Fyendal's Spring Tunic. If you don't, **negate this**.
+face-adversity	Face Adversity				2	Equipment	Head	Generic		This may only defend an attack if the attack's controller has drawn a card this turn. **Blade Break**
+face-purgatory	Face Purgatory				2	Equipment	Head	Runeblade		When this defends together with an attack action card and a non-attack action card, the attacking hero discards a card and you draw a card. **Blade Break**
+fact-finding-mission-red	Fact-Finding Mission	1	2	6	2	Action	Attack	Generic		When this hits a hero, you may look at a face-down card in their arsenal or equipment zones.
+fact-finding-mission-yellow	Fact-Finding Mission	2	2	5	2	Action	Attack	Generic		When this hits a hero, you may look at a face-down card in their arsenal or equipment zones.
+fact-finding-mission-blue	Fact-Finding Mission	3	2	4	2	Action	Attack	Generic		When this hits a hero, you may look at a face-down card in their arsenal or equipment zones.
+fate-foreseen-red	Fate Foreseen	1	0		4	DefenseReaction		Generic		**Opt 1**
+fate-foreseen-yellow	Fate Foreseen	2	0		3	DefenseReaction		Generic		**Opt 1**
+fate-foreseen-blue	Fate Foreseen	3	0		2	DefenseReaction		Generic		**Opt 1**
+fearless-confrontation-blue	Fearless Confrontation	3	3	5	3	Action	Attack	Generic		**Instant** - Discard this: Target attack gets -1{p} and loses and can't gain **dominate**.
+feisty-locals-red	Feisty Locals	1	0	3	2	Action	Attack	Generic		If this is defended by an action card, this gets +2{p}.
+feisty-locals-yellow	Feisty Locals	2	0	2	2	Action	Attack	Generic		If this is defended by an action card, this gets +2{p}.
+feisty-locals-blue	Feisty Locals	3	0	1	2	Action	Attack	Generic		If this is defended by an action card, this gets +2{p}.
+fervent-forerunner-red	Fervent Forerunner	1	0	3	2	Action	Attack	Generic		If Fervent Forerunner hits, **opt 2**. If Fervent Forerunner is played from arsenal, it gains **go again**.
+fervent-forerunner-yellow	Fervent Forerunner	2	0	2	2	Action	Attack	Generic		If Fervent Forerunner hits, **opt 2**. If Fervent Forerunner is played from arsenal, it gains **go again**.
+fervent-forerunner-blue	Fervent Forerunner	3	0	1	2	Action	Attack	Generic		If Fervent Forerunner hits, **opt 2**. If Fervent Forerunner is played from arsenal, it gains **go again**.
+fiddlers-green-red	Fiddler's Green	1			1	Block		Generic		When this is put into your graveyard from anywhere, gain 3{h}.
+fiddlers-green-yellow	Fiddler's Green	2			1	Block		Generic		When this is put into your graveyard from anywhere, gain 2{h}.
+fiddlers-green-blue	Fiddler's Green	3			1	Block		Generic		When this is put into your graveyard from anywhere, gain 1{h}.
+firebreathing-red	Firebreathing	1	2	3	3	Action	Attack	Generic		**Instant** - {r}: Firebreathing gains +1{p}. Activate this ability only while Firebreathing is attacking.
+fisticuffs	Fisticuffs					Equipment	Arms	Generic		**Attack Reaction** - {r}{r}, destroy Fisticuffs: Target attack action card gains +1{p}.
+flash-of-brilliance	Flash of Brilliance				1	Equipment	Head	NotClassed	Lightning	When this defends, you may discard a Lightning card. If you do, return an aura you control to its owner's hand. **Blade Break**
+flash-red	Flash	1	0		2	Action	NonAttack	NotClassed	Lightning	The next action card you play this turn with cost 0 or greater gets **go again**. **Go again**
+flash-yellow	Flash	2	0		2	Action	NonAttack	NotClassed	Lightning	The next action card you play this turn with cost 1 or greater gets **go again**. **Go again**
+flash-blue	Flash	3	0		2	Action	NonAttack	NotClassed	Lightning	The next action card you play this turn with cost 2 or greater gets **go again**. **Go again**
+fleet-foot-sandals	Fleet Foot Sandals					Equipment	Legs	Generic		**Attack Reaction** - Destroy Fleet Foot Sandals: Target attack with 1 or less base {p} gains **go again**.
+flex-red	Flex	1	0	4	2	Action	Attack	Generic		When you attack or defend with Flex, you may pay {r}{r}. If you do, it gains +2{p}.
+flex-yellow	Flex	2	0	3	2	Action	Attack	Generic		When you attack or defend with Flex, you may pay {r}{r}. If you do, it gains +2{p}.
+flex-blue	Flex	3	0	2	2	Action	Attack	Generic		When you attack or defend with Flex, you may pay {r}{r}. If you do, it gains +2{p}.
+flittering-charge-red	Flittering Charge	1	0	4	2	Action	Attack	NotClassed	Lightning	If you've played an instant card this chain link, this gets **go again**.
+flittering-charge-yellow	Flittering Charge	2	0	3	2	Action	Attack	NotClassed	Lightning	If you've played an instant card this chain link, this gets **go again**.
+flittering-charge-blue	Flittering Charge	3	0	2	2	Action	Attack	NotClassed	Lightning	If you've played an instant card this chain link, this gets **go again**.
+flittering-forcefield-red	Flittering Forcefield	1	0		3	DefenseReaction		NotClassed	Lightning	While this is defending, if you've played an instant card this chain link, this gets +1{d}.
+flittering-forcefield-yellow	Flittering Forcefield	2	0		2	DefenseReaction		NotClassed	Lightning	While this is defending, if you've played an instant card this chain link, this gets +1{d}.
+flittering-forcefield-blue	Flittering Forcefield	3	0		1	DefenseReaction		NotClassed	Lightning	While this is defending, if you've played an instant card this chain link, this gets +1{d}.
+flittering-spike-red	Flittering Spike	1	1	4	3	Action	Attack	NotClassed	Lightning	If you've played an instant card this chain link, this gets +2{p}. When this hits, create a Lightning Flow token.
+flittering-spike-yellow	Flittering Spike	2	1	3	3	Action	Attack	NotClassed	Lightning	If you've played an instant card this chain link, this gets +2{p}. When this hits, create a Lightning Flow token.
+flittering-spike-blue	Flittering Spike	3	1	2	3	Action	Attack	NotClassed	Lightning	If you've played an instant card this chain link, this gets +2{p}. When this hits, create a Lightning Flow token.
+flock-of-the-feather-walkers-red	Flock of the Feather Walkers	1	1	5	2	Action	Attack	Generic		As an additional cost to play Flock of the Feather Walkers, reveal a card in your hand with cost 1 or less. When you attack with Flock of the Feather Walkers, create a Quicken token.
+flock-of-the-feather-walkers-yellow	Flock of the Feather Walkers	2	1	4	2	Action	Attack	Generic		As an additional cost to play Flock of the Feather Walkers, reveal a card in your hand with cost 1 or less. When you attack with Flock of the Feather Walkers, create a Quicken token.
+flock-of-the-feather-walkers-blue	Flock of the Feather Walkers	3	1	3	2	Action	Attack	Generic		As an additional cost to play Flock of the Feather Walkers, reveal a card in your hand with cost 1 or less. When you attack with Flock of the Feather Walkers, create a Quicken token.
+flow-through-blue	Flow Through	3	0			Instant		NotClassed	Lightning	Target Lightning attack gets +1{p} and "When this hits, create a Lightning Flow token."
+flowing-stormstrike-red	Flowing Stormstrike	1	0	4	2	Action	Attack	NotClassed	Lightning	**Twice per Turn Instant** - {r}: This gets +1{p}. When this hits, create a Lightning Flow token.
+flowshard-elemental-red	Flowshard Elemental	1	0	4	2	Action	Attack	NotClassed	Lightning	When this attacks, you may discard an instant card. If you do, create a Lightning Flow token and this gets **go again**.
+flowstate-embodiment-red	Flowstate Embodiment	1	0	4	3	Action	Attack	NotClassed	Lightning	Whenever you play an instant card this chain link, create an Embodiment of Lightning or Lightning Flow token.
+flying-high-red	Flying High	1	0		2	Action	NonAttack	Generic		Your next attack this turn gets **go again**. If it's red, it gets +1{p}. **Go again**
+flying-high-yellow	Flying High	2	0		2	Action	NonAttack	Generic		Your next attack this turn gets **go again**. If it's yellow, it gets +1{p}. **Go again**
+flying-high-blue	Flying High	3	0		2	Action	NonAttack	Generic		Your next attack this turn gets **go again**. If it's blue, it gets +1{p}. **Go again**
+fog-down-yellow	Fog Down	2	3		3	Action	Aura|NonAttack	Generic		'Non-attack' action cards lose and can't gain **go again**. At the beginning of your action phase, destroy Fog Down.
+fools-gold-yellow	Fool's Gold	2				Resource		Generic		When this is discarded, create a Gold token.
+force-sight-red	Force Sight	1	1		2	Action	NonAttack	Generic		The next attack action card you play this turn gains +3{p}. If Force Sight is played from arsenal, **opt 2**. **Go again**
+force-sight-yellow	Force Sight	2	1		2	Action	NonAttack	Generic		The next attack action card you play this turn gains +2{p}. If Force Sight is played from arsenal, **opt 2**. **Go again**
+force-sight-blue	Force Sight	3	1		2	Action	NonAttack	Generic		The next attack action card you play this turn gains +1{p}. If Force Sight is played from arsenal, **opt 2**. **Go again**
+four-finger-gloves	Four Finger Gloves				0	Equipment	Arms	Generic		**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this only if you've been dealt damage this turn.
+frailty	Frailty					Token	Aura	Generic		Your attack action cards played from arsenal and weapon attacks have -1{p}. At the beginning of your end phase destroy Frailty.
+freewheeling-renegades-red	Freewheeling Renegades	1	1	6	2	Action	Attack	Generic		If this is defended by an action card, this has -2{p}.
+freewheeling-renegades-yellow	Freewheeling Renegades	2	1	5	2	Action	Attack	Generic		If this is defended by an action card, this has -2{p}.
+freewheeling-renegades-blue	Freewheeling Renegades	3	1	4	2	Action	Attack	Generic		If this is defended by an action card, this has -2{p}.
+frontline-gauntlets	Frontline Gauntlets				2	Equipment	Arms	Generic		At the beginning of your end phase, put a -1{d} counter on this. **Blade Break**
+frontline-helm	Frontline Helm				2	Equipment	Head	Generic		At the beginning of your end phase, put a -1{d} counter on this. **Blade Break**
+frontline-legs	Frontline Legs				2	Equipment	Legs	Generic		At the beginning of your end phase, put a -1{d} counter on this. **Blade Break**
+frontline-plating	Frontline Plating				2	Equipment	Chest	Generic		At the beginning of your end phase, put a -1{d} counter on this. **Blade Break**
+frontline-scout-red	Frontline Scout	1	0	3	2	Action	Attack	Generic		You may look at the defending hero's hand. If Frontline Scout is played from arsenal, it gains **go again**.
+frontline-scout-yellow	Frontline Scout	2	0	2	2	Action	Attack	Generic		You may look at the defending hero's hand. If Frontline Scout is played from arsenal, it gains **go again**.
+frontline-scout-blue	Frontline Scout	3	0	1	2	Action	Attack	Generic		You may look at the defending hero's hand. If Frontline Scout is played from arsenal, it gains **go again**.
+fry-red	Fry	1	0	3	0	Action	Attack	NotClassed	Lightning	**Go again**
+fry-yellow	Fry	2	0	2	0	Action	Attack	NotClassed	Lightning	**Go again**
+fry-blue	Fry	3	0	1	0	Action	Attack	NotClassed	Lightning	**Go again**
+fyendals-fighting-spirit-red	Fyendal's Fighting Spirit	1	3	7	2	Action	Attack	Generic		When this attacks or defends, if you have less {h} than an opposing hero, gain 1{h}.
+fyendals-fighting-spirit-yellow	Fyendal's Fighting Spirit	2	3	6	2	Action	Attack	Generic		When this attacks or defends, if you have less {h} than an opposing hero, gain 1{h}.
+fyendals-fighting-spirit-blue	Fyendal's Fighting Spirit	3	3	5	2	Action	Attack	Generic		When this attacks or defends, if you have less {h} than an opposing hero, gain 1{h}.
+fyendals-spring-tunic	Fyendal's Spring Tunic				1	Equipment	Chest	Generic		At the start of your turn, if this has fewer than 3 energy counters, you may put an energy counter on it. **Instant** - Remove 3 energy counters from this: Gain {r} **Blade Break**
+gamblers-gloves	Gambler's Gloves				0	Equipment	Arms	Generic		If a hero would roll one or more 6 sided dice, instead after the roll you may destroy Gambler's Gloves. If you do, that hero rerolls all 6 sided dice rolled this way.
+garland-of-spring	Garland of Spring				0	Equipment	Chest	Generic		**Action** - Destroy this: Gain {r}. **Go again**
+gauntlet-of-sword-and-sorcery	Gauntlet of Sword and Sorcery				0	Equipment	Arms	Runeblade		**Action** - {r}{r}, {t} this and your hero: The next attack action card you play this turn gets "When this attacks, deal 1 arcane damage to any opposing target. If damage is dealt this way, this gets +1{p}." **Go again** **Arcane Barrier 1**
+gesture-of-goodwill-blue	Gesture of Goodwill	3			3	Block		Generic		**Protect** When this **protects** another hero, they may give you a token they control.
+give-and-take-red	Give and Take	1	1	3	3	Action	Attack	Generic		Whenever an action card defends this, you may put an action card with cost less than this card's {p} from your graveyard on top of your deck. **Go again**
+glide-through-starlight-red	Glide Through Starlight	1	1	5	2	Action	Attack	NotClassed	Lightning	**Instant** - {r}, discard this: Prevent the next 1 damage that would be dealt to you this turn. If you prevent damage this way, create a Lightning Flow token.
+glide-through-starlight-yellow	Glide Through Starlight	2	1	4	2	Action	Attack	NotClassed	Lightning	**Instant** - {r}, discard this: Prevent the next 1 damage that would be dealt to you this turn. If you prevent damage this way, create a Lightning Flow token.
+glide-through-starlight-blue	Glide Through Starlight	3	1	3	2	Action	Attack	NotClassed	Lightning	**Instant** - {r}, discard this: Prevent the next 1 damage that would be dealt to you this turn. If you prevent damage this way, create a Lightning Flow token.
+glory-seeker	Glory Seeker					Equipment	Head	Generic		**Instant** - {r}{r}{r}, destroy this: Draw a card.
+gloves-of-astral-sanctuary	Gloves of Astral Sanctuary				0	Equipment	Arms	Generic		**Instant** - {t} your hero, destroy this: Prevent the next 1 damage that would be dealt to you this turn.
+go-bananas-yellow	Go Bananas	2	0			Instant		Generic		Name an action card. Open and reveal a booster pack of Flesh and Blood and put all cards with the chosen name into your hand. If the booster pack does not contain a card with the chosen name, you may repeat this process.
+gold	Gold					Token	Item	Generic		**Action** - {r}{r}, destroy this: Draw a card. **Go again**
+goldkiss-rum	Goldkiss Rum					Token	Item	Generic		**Instant** - {t} your hero, destroy this: Your next action this turn gets **go again**. Your hero can't {u} this turn unless they're a Pirate.
+goliath-gauntlet	Goliath Gauntlet				0	Equipment	Arms	Generic		**Action** - Destroy this: The next attack action card with cost 2 or more you play this turn gets +2{p}. **Go again**
+gone-in-a-flash-red	Gone in a Flash	1	0	4	3	Action	Attack	NotClassed	Lightning	When this attacks, the next time you play an instant card this chain link, you may return this to it's owner's hand.
+good-deeds-dont-go-unnoticed-yellow	Good Deeds Don't Go Unnoticed	2	0		3	Action	Aura|NonAttack	Generic		At the start of each other hero's turn, choose 1; they draw a card, they gain {r}, they gain 1{h}, or their next attack this turn gains +1{p}. At the start of your turn, destroy this. If another hero drew a card from this, you draw a card, then repeat for {r}, {h}, and {p}.
+gore-belching-red	Gore Belching	1	0	7		Action	Attack	Generic		When this attacks, reveal cards from the top of your deck until you reveal an attack action card. If you do, banish it and this gets -X{p}, where X is the {p} of the card banished this way. Otherwise, this gets -7{p}. Shuffle.
+gorganian-tome	Gorganian Tome		0			Action	NonAttack	Generic		**Legendary** Draw X cards, where X is 1 plus the number of Gorganian Tomes in all graveyards. **Go again**
+grandstand-legplates	Grandstand Legplates					Equipment	Legs	Generic		Grandstand Legplates' {d} is equal to the number of opposing heroes with greater {h} than you. **Blade Break**
+grasp-of-the-arknight	Grasp of the Arknight				2	Equipment	Arms	Runeblade		**Once per Turn Action** - {r}{r}: Create a Runechant token. This ability costs an additional {r} to activate for each Runechant you control. **Go again** **Battleworn**
+gravekeeping-red	Gravekeeping	1	1	5	2	Action	Attack	Generic		When this attacks a hero, you may banish a card from their graveyard.
+gravekeeping-yellow	Gravekeeping	2	1	4	2	Action	Attack	Generic		When this attacks a hero, you may banish a card from their graveyard.
+gravekeeping-blue	Gravekeeping	3	1	3	2	Action	Attack	Generic		When this attacks a hero, you may banish a card from their graveyard.
+grimoire-of-fellingsong	Grimoire of Fellingsong					Equipment	OffHand	Runeblade		**Instant** - {r}, destroy this: Create a Runechant token.
+hack-to-reality-yellow	Hack to Reality	2	1		2	Action	NonAttack	Generic		Your next attack this turn gets +2{p}. The next time you hit a hero this turn, destroy a non-token aura they own with cost less than or equal to the damage dealt this way. **Go again**
+hand-behind-the-pen-red	Hand Behind the Pen	1	2	6	2	Action	Attack	Generic		When this hits a hero, turn a card in their arsenal face-up, then banish a non-attack action card from their arsenal.
+hard-knuckle	Hard Knuckle				0	Equipment	Arms	Generic		When you play an attack action card, you may destroy this. If you do, the attack gets +1{p}.
+haunting-rendition-red	Haunting Rendition	1			4	Block		Runeblade		**Instant** - Discard this: Prevent the next 2 damage that would be dealt to you this turn. The first time you prevent damage this way, create a Runechant token.
+headliner-helm	Headliner Helm					Equipment	Head	Generic		Headliner Helm's {d} is equal to the number of opposing heroes with greater {h} than you. **Blade Break**
+healing-balm-red	Healing Balm	1	0		2	Action	NonAttack	Generic		Gain 3{h}
+healing-balm-yellow	Healing Balm	2	0		2	Action	NonAttack	Generic		Gain 2{h}
+healing-balm-blue	Healing Balm	3	0		2	Action	NonAttack	Generic		Gain 1{h}
+healing-potion-blue	Healing Potion	3	0			Action	Item|NonAttack	Generic		**Action** - Destroy this: Gain 2{h}. **Go again**
+heart-of-fyendal-blue	Heart of Fyendal	3				Resource	Gem	Generic		**Legendary** When you pitch Heart of Fyendal, if you have less {h} than an opposing hero, gain 1{h}.
+heartened-cross-strap	Heartened Cross Strap				0	Equipment	Chest	Generic		**Action** - Destroy this: The next attack action card you play this turn costs {r}{r} less to play. **Go again**
+heavens-claws-red	Heaven's Claws	1	1	5	3	Action	Attack	NotClassed	Lightning	
+heavens-claws-yellow	Heaven's Claws	2	1	4	3	Action	Attack	NotClassed	Lightning	
+heavens-claws-blue	Heaven's Claws	3	1	3	3	Action	Attack	NotClassed	Lightning	
+helios-mitre	Helio's Mitre				0	Equipment	Head	Generic		*(A player may add a Helio's Mitre to their card pool in an Uprising limited format.)* **Instant** - {r}{r}: Prevent the next 1 damage that would be dealt to your hero this turn by a source of your choice. Destroy Helio's Mitre at the beginning of the end phase.
+helm-of-astral-sanctuary	Helm of Astral Sanctuary				0	Equipment	Head	Generic		**Instant** - {t} your hero, destroy this: Prevent the next 1 damage that would be dealt to you this turn.
+helm-of-hindsight	Helm of Hindsight				0	Equipment	Head	Generic		**Instant** - {r}{r}{r}, destroy this: Put target attack action card from your graveyard on top of your deck.
+helm-of-might-and-magic	Helm of Might and Magic				1	Equipment	Head	Runeblade		**Blade Break** **Spellvoid 1**
+helm-of-safe-haven	Helm of Safe Haven				2	Equipment	Head	Generic		When this defends, reveal the top card of your deck. If it's an attack action card, add it to this chain link as a defending card and discard a card. **Blade Break**
+helm-of-the-arknight	Helm of the Arknight				2	Equipment	Head	Runeblade		**Temper**
+helmsmans-peak	Helmsman's Peak				1	Equipment	Head	Generic		When this defends, look at the top card of your deck. **Blade Break**
+high-current-currency-blue	High Current Currency	3	0		3	Action	NonAttack	Generic		Remove all energy counters from target non-hero permanent an opponent controls. Create that many Gold tokens.
+high-striker-red	High Striker	1	0		2	Action	NonAttack	Generic		The next time an attack you control hits this turn, create 6 Copper tokens. **Go again**
+high-striker-yellow	High Striker	2	0		2	Action	NonAttack	Generic		The next time an attack you control hits this turn, create 4 Copper tokens. **Go again**
+high-striker-blue	High Striker	3	0		2	Action	NonAttack	Generic		The next time an attack you control hits this turn, create 2 Copper tokens. **Go again**
+high-voltage-blue	High Voltage	3	0			Instant		NotClassed	Lightning	**Amp 1**
+hit-the-high-notes-red	Hit the High Notes	1	1	4	3	Action	Attack	Runeblade		If you've played or created an aura this turn, this gets +2{p}.
+hit-the-high-notes-yellow	Hit the High Notes	2	1	3	3	Action	Attack	Runeblade		If you've played or created an aura this turn, this gets +2{p}.
+hit-the-high-notes-blue	Hit the High Notes	3	1	2	3	Action	Attack	Runeblade		If you've played or created an aura this turn, this gets +2{p}.
+hocus-pocus-red	Hocus Pocus	1	0	3	3	Action	Attack	Runeblade		When this attacks, create a Runechant token.
+hocus-pocus-yellow	Hocus Pocus	2	0	2	3	Action	Attack	Runeblade		When this attacks, create a Runechant token.
+hocus-pocus-blue	Hocus Pocus	3	0	1	3	Action	Attack	Runeblade		When this attacks, create a Runechant token.
+hold-the-line-blue	Hold the Line	3	0		2	DefenseReaction		Generic		If the attacking hero has drawn 2 or more cards this turn, prevent the next 3 damage that would be dealt to your hero this turn.
+hood-of-second-thoughts	Hood of Second Thoughts				0	Equipment	Head	Generic		**Instant** - Destroy this: Prevent the next 1 damage that would be dealt to you this turn. Activate this only if you've been dealt damage this turn.
+hope-merchants-hood	Hope Merchant's Hood				0	Equipment	Head	Generic		**Instant** - Destroy this: Shuffle any number of cards from your hand into your deck, then draw that many cards.
+humble-red	Humble	1	2	6	2	Action	Attack	Generic		When this hits a hero, they lose all hero card abilities until the end of their next turn.
+humble-yellow	Humble	2	2	5	2	Action	Attack	Generic		When this hits a hero, they lose all hero card abilities until the end of their next turn.
+humble-blue	Humble	3	2	4	2	Action	Attack	Generic		When this hits a hero, they lose all hero card abilities until the end of their next turn.
+imperial-edict-red	Imperial Edict	1	1			Action	Item|NonAttack	Generic		**Legendary** **Action** - Destroy Imperial Edict: Name a card. The named card can't be played until the start of your next turn. If you are Royal, instead each opponent reveals their hand, then name a card. **Go again**
+imperial-ledger-red	Imperial Ledger	1	0			Action	Item|NonAttack	Generic		**Legendary** **Action** - Shuffle Imperial Ledger into its owner's deck: Create a Copper token. If you are Royal, instead create a Gold token.
+imperial-seal-of-command-red	Imperial Seal of Command	1	0			Action	Item|NonAttack	Generic		**Legendary** **Action** - Destroy this: Defense reaction cards can't be played this turn. If you are Royal, the next time you hit a hero this turn, destroy all cards in their arsenal. **Go again**
+imperial-warhorn-red	Imperial Warhorn	1	2			Action	Item|NonAttack	Generic		**Legendary** **Action** - {r}, destroy Imperial Warhorn: Choose any number of heroes. Each of them chooses an ally, aura, item, or landmark permanent they control. Destroy each permanent chosen this way. If you are Royal, instead you choose the permanents.
+inertia	Inertia					Token	Aura	Generic		At the beginning of your end phase, destroy Inertia, then put all cards from your hand and arsenal on the bottom of your deck.
+infectious-host-red	Infectious Host	1	0	4	2	Action	Attack	Generic		When this attacks a hero, if you control a Frailty token, create a Frailty token under their control, then repeat for Inertia and Bloodrot Pox.
+infectious-host-yellow	Infectious Host	2	0	3	2	Action	Attack	Generic		When this attacks a hero, if you control a Frailty token, create a Frailty token under their control, then repeat for Inertia and Bloodrot Pox.
+infectious-host-blue	Infectious Host	3	0	2	2	Action	Attack	Generic		When this attacks a hero, if you control a Frailty token, create a Frailty token under their control, then repeat for Inertia and Bloodrot Pox.
+ion-charged-yellow	Ion Charged	2	0			Instant		NotClassed	Lightning	Until end of turn, Lightning and Elemental attacks get +1{p} while they have go again.
+ironhide-gauntlet	Ironhide Gauntlet				0	Equipment	Arms	Generic		When you defend with Ironhide Gauntlet, you may pay {r}. If you do, it gains +2{d} and "When the combat chain closes, destroy Ironhide Gauntlet."
+ironhide-helm	Ironhide Helm				0	Equipment	Head	Generic		When you defend with Ironhide Helm, you may pay {r}. If you do, it gains +2{d} and "When the combat chain closes, destroy Ironhide Helm."
+ironhide-legs	Ironhide Legs				0	Equipment	Legs	Generic		When you defend with Ironhide Legs, you may pay {r}. If you do, it gains +2{d} and "When the combat chain closes, destroy Ironhide Legs."
+ironhide-plate	Ironhide Plate				0	Equipment	Chest	Generic		When you defend with Ironhide Plate, you may pay {r}. If you do, it gains +2{d} and destroy it when the combat chain closes.
+ironrot-gauntlet	Ironrot Gauntlet				1	Equipment	Arms	Generic		**Blade Break**
+ironrot-helm	Ironrot Helm				1	Equipment	Head	Generic		**Blade Break**
+ironrot-legs	Ironrot Legs				1	Equipment	Legs	Generic		**Blade Break**
+ironrot-plate	Ironrot Plate				1	Equipment	Chest	Generic		**Blade Break**
+jack-be-nimble-red	Jack Be Nimble	1	0	3	3	Action	Attack	Generic		When this attacks, you may banish a Nimblism from your graveyard. If you do, this gets +1{p} and **go again**. When this hits a hero, steal an item they control until the end of this action phase.
+jack-be-quick-red	Jack Be Quick	1	0	3	3	Action	Attack	Generic		When this attacks, you may banish a Nimblism from your graveyard. If you do, this gets +1{p} and **go again**. When this hits a hero, {u} an ally they control, then steal it until the end of this action phase.
+kick-the-hornets-nest-yellow	Kick the Hornet's Nest	2	3	6	3	Action	Attack	Generic		When an opponent's effect puts this into your graveyard from anywhere, create a Confidence, Might, Toughness, and Vigor token.
+knick-knack-bric-a-brac-red	Knick Knack Bric-a-brac	1	3		2	Action	NonAttack	Generic		As an additional cost to play Knick Knack Bric-a-brac, you may destroy any number of Copper, Silver, and/or Gold you control. Search your deck for a card with Amulet, Potion, or Talisman in its name, put it into the arena, then shuffle. For each 4 Copper, 2 Silver, and/or 1 Gold destroyed this way, repeat this process.
+laced-lightning	Laced Lightning				0	Equipment	Legs	NotClassed	Lightning	**Instant** - {r}{r}, destroy this: Prevent the next 1 damage that would be dealt to you this turn. If you prevent damage this way, create an Embodiment of Lightning token.
+last-ditch-effort-blue	Last Ditch Effort	3	3	4	3	Action	Attack	Generic		When you play Last Ditch Effort, if you have no cards in your deck, it gains +4{p} and **go again**.
+lay-low-yellow	Lay Low	2	0		3	DefenseReaction		Generic		If you are **marked**, you can't play this. If the defending hero is **marked**, their next attack this turn gets -1{p}.
+lead-the-charge-red	Lead the Charge	1	0		2	Action	NonAttack	Generic		The next time you play an action card with cost 0 or greater this turn, gain 1 action point. **Go again**
+lead-the-charge-yellow	Lead the Charge	2	0		2	Action	NonAttack	Generic		The next time you play an action card with cost 1 or greater this turn, gain 1 action point. **Go again**
+lead-the-charge-blue	Lead the Charge	3	0		2	Action	NonAttack	Generic		The next time you play an action card with cost 2 or greater this turn, gain 1 action point. **Go again**
+leech-memory-red	Leech Memory	1	1		3	Action	NonAttack	Runeblade		The next attack action card you play this turn gets +3{p} and "Whenever this deals damage to a hero, you may put an attack action card from your graveyard on the bottom of your deck." **Go again**
+leech-renown-red	Leech Renown	1	1		3	Action	NonAttack	Runeblade		The next attack action card you play this turn gets +3{p} and "Whenever this deals damage to a hero, destroy an aura token they control." **Go again**
+leech-vitality-red	Leech Vitality	1	1		3	Action	NonAttack	Runeblade		The next attack action card you play this turn gets +3{p} and "Whenever this deals damage to a hero, gain 1{h}." **Go again**
+life-for-a-life-red	Life for a Life	1	1	4	2	Action	Attack	Generic		When this is played, if you have less {h} than an opposing hero, it gets **go again**. When this hits, gain 1{h}.
+life-for-a-life-yellow	Life for a Life	2	1	3	2	Action	Attack	Generic		When this is played, if you have less {h} than an opposing hero, it gets **go again**. When this hits, gain 1{h}.
+life-for-a-life-blue	Life for a Life	3	1	2	2	Action	Attack	Generic		When this is played, if you have less {h} than an opposing hero, it gets **go again**. When this hits, gain 1{h}.
+life-of-the-party-red	Life of the Party	1	2	4	2	Action	Attack	Generic		You may discard or destroy a card you control named Crazy Brew rather than pay Life of the Party's {r} cost. If you do, choose all modes, otherwise choose 1 at random; - This gets "When this hits, gain life 2{h}." - This gets +2{p}. - This gets **go again**.
+life-of-the-party-yellow	Life of the Party	2	2	3	2	Action	Attack	Generic		You may discard or destroy a card you control named Crazy Brew rather than pay Life of the Party's {r} cost. If you do, choose all modes, otherwise choose 1 at random; - This gets "When this hits, gain life 2{h}." - This gets +2{p}. - This gets **go again**.
+life-of-the-party-blue	Life of the Party	3	2	2	2	Action	Attack	Generic		You may discard or destroy a card you control named Crazy Brew rather than pay Life of the Party's {r} cost. If you do, choose all modes, otherwise choose 1 at random; - This gets "When this hits, gain life 2{h}." - This gets +2{p}. - This gets **go again**.
+light-fingers	Light Fingers				1	Equipment	Arms	Generic		When this defends, if you are a Thief, **steal** a Gold token the attacking hero controls. **Blade Break**
+lightning-flow	Lightning Flow					Token	Aura	NotClassed	Elemental	
+lightning-form-red	Lightning Form	1	1	5	2	Action	Attack	NotClassed	Lightning	When this hits, create an Embodiment of Lightning token.
+lightning-form-yellow	Lightning Form	2	1	4	2	Action	Attack	NotClassed	Lightning	When this hits, create an Embodiment of Lightning token.
+lightning-form-blue	Lightning Form	3	1	3	2	Action	Attack	NotClassed	Lightning	When this hits, create an Embodiment of Lightning token.
+lightning-greaves	Lightning Greaves				1	Equipment	Legs	NotClassed	Lightning	**Instant** - {r}, destroy this: Instant cards you play this turn get **go again**. **Arcane Barrier 1** **Battleworn**
+lightning-press-red	Lightning Press	1	0			Instant		NotClassed	Lightning	Target attack action card with cost 1 or less gains +3{p}.
+lightning-press-yellow	Lightning Press	2	0			Instant		NotClassed	Lightning	Target attack action card with cost 1 or less gains +2{p}.
+lightning-press-blue	Lightning Press	3	0			Instant		NotClassed	Lightning	Target attack action card with cost 1 or less gains +1{p}.
+lightning-surge-red	Lightning Surge	1	0	4	2	Action	Attack	NotClassed	Lightning	If this was played from arsenal, it gets **go again**.
+lightning-surge-yellow	Lightning Surge	2	0	3	2	Action	Attack	NotClassed	Lightning	If this was played from arsenal, it gets **go again**.
+lightning-surge-blue	Lightning Surge	3	0	2	2	Action	Attack	NotClassed	Lightning	If this was played from arsenal, it gets **go again**.
+livewire-press-red	Livewire Press	1	1			Instant		NotClassed	Lightning	Target Lightning attack action card gets "When this hits a hero, deal 4 damage to them."
+look-tuff-red	Look Tuff	1	3	8	3	Action	Attack	Generic		When this attacks, it gets -1{p} unless you pay {r}.
+looking-for-a-scrap-red	Looking for a Scrap	1	1	4	2	Action	Attack	Generic		As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.
+looking-for-a-scrap-yellow	Looking for a Scrap	2	1	3	2	Action	Attack	Generic		As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.
+looking-for-a-scrap-blue	Looking for a Scrap	3	1	2	2	Action	Attack	Generic		As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.
+looming-doom-blue	Looming Doom	3	3		3	Action	Aura|NonAttack	Runeblade		When Looming Doom enters the arena, destroy all Runechants you control and put that many doom counters on Looming Doom. At the beginning of your end phase, remove a doom counter from Looming Doom. If you do, deal 2 arcane damage to any target. Otherwise, destroy Looming Doom.
+lord-sutcliffe	Lord Sutcliffe				3	Mentor		Runeblade		While Sutcliffe is face down in arsenal, at the start of your turn, you may turn him face up. While Sutcliffe is face up in arsenal, whenever you play a 'non-attack' action card, deal 1 arcane damage to each hero and put a lesson counter on Sutcliffe for each damage dealt this way. Then if there are 3 or more lesson counters on him, banish him, search your deck for a **specialization** card, put it face up into arsenal, and shuffle.
+lunging-press-blue	Lunging Press	3	0		2	AttackReaction		Generic		Target attack action card gains +1{p}.
+machinations-of-dominion-blue	Machinations of Dominion	3	0		3	Action	NonAttack	Runeblade		The next Runeblade attack action card you play this turn gets **overpower** and "If you've played or created an aura this turn, this gets **go again**." **Go again**
+mage-master-boots	Mage Master Boots				0	Equipment	Legs	Generic		**Action** - {r}, destroy this: The next non-attack action card you play this turn gets **go again**. **Go again**
+malefic-incantation-red	Malefic Incantation	1	0		2	Action	Aura|NonAttack	Runeblade		**Go again** This enters the arena with 3 verse counters. When it has none, destroy it. Once per turn, when you play an attack action card, remove a verse counter from this. If you do, create a Runechant token.
+malefic-incantation-yellow	Malefic Incantation	2	0		2	Action	Aura|NonAttack	Runeblade		**Go again** This enters the arena with 2 verse counters. When it has none, destroy it. Once per turn, when you play an attack action card, remove a verse counter from this. If you do, create a Runechant token.
+malefic-incantation-blue	Malefic Incantation	3	0		2	Action	Aura|NonAttack	Runeblade		**Go again** This enters the arena with a verse counter. When it has none, destroy it. Once per turn, when you play an attack action card, remove a verse counter from this. If you do, create a Runechant token.
+mark-of-lightning	Mark of Lightning				0	Equipment	Arms	NotClassed	Lightning	Whenever a Lightning or Elemental attack you control is defended by a card from hand, you may destroy Mark of Lightning. If you do, the attack deals 1 damage to the defending hero.
+marked	Marked					Token		Generic		You are **marked** until an opponent hits you
+mauvrion-skies-red	Mauvrion Skies	1	0		2	Action	NonAttack	Runeblade		The next runeblade attack action card you play this turn gains **go again** and "If this hits, create 3 Runechant tokens." **Go again**
+mauvrion-skies-yellow	Mauvrion Skies	2	0		2	Action	NonAttack	Runeblade		The next runeblade attack action card you play this turn gains **go again** and "If this hits, create 2 Runechant tokens." **Go again**
+mauvrion-skies-blue	Mauvrion Skies	3	0		2	Action	NonAttack	Runeblade		The next Runeblade attack action card you play this turn gets **go again** and "When this hits, create a Runechant token." **Go again**
+meat-and-greet-red	Meat and Greet	1	1	4	3	Action	Attack	Runeblade		When this hits, create a Runechant token. If you've dealt arcane damage to an opposing hero this turn, this gets **go again**.
+meat-and-greet-yellow	Meat and Greet	2	1	3	3	Action	Attack	Runeblade		When this hits, create a Runechant token. If you've dealt arcane damage to an opposing hero this turn, this gets **go again**.
+meat-and-greet-blue	Meat and Greet	3	1	2	3	Action	Attack	Runeblade		When this hits, create a Runechant token. If you've dealt arcane damage to an opposing hero this turn, this gets **go again**.
+memorial-ground-red	Memorial Ground	1	0			Instant		Generic		Put target attack action card with cost 2 or less from your graveyard on top of your deck.
+memorial-ground-yellow	Memorial Ground	2	0			Instant		Generic		Put target attack action card with cost 1 or less from your graveyard on top of your deck.
+memorial-ground-blue	Memorial Ground	3	0			Instant		Generic		Put target attack action card with cost 0 from your graveyard on top of your deck.
+mercurial-skies-red	Mercurial Skies	1	0		2	Action	NonAttack	Runeblade	Lightning	The next Runeblade or Lightning attack action card you play this turn gets **go again** and "The first time this deals damage to a hero, you may destroy a Lightning Flow you control. If you do, deal 3 arcane damage to them." **Go again**
+mercurial-skies-yellow	Mercurial Skies	2	0		2	Action	NonAttack	Runeblade	Lightning	The next Runeblade or Lightning attack action card you play this turn gets **go again** and "The first time this deals damage to a hero, you may destroy a Lightning Flow you control. If you do, deal 2 arcane damage to them." **Go again**
+mercurial-skies-blue	Mercurial Skies	3	0		2	Action	NonAttack	Runeblade	Lightning	The next Runeblade or Lightning attack action card you play this turn gets **go again** and "The first time this deals damage to a hero, you may destroy a Lightning Flow you control. If you do, deal 1 arcane damage to them." **Go again**
+meteoric-rise-red	Meteoric Rise	1	1	5	2	Action	Attack	NotClassed	Lightning	**Twice per Turn Instant** - {r}: This gets +1{p}. When this hits, create a Lightning Flow token.
+midas-touch-yellow	Midas Touch	2	1		3	Action	NonAttack	Generic		Destroy target ally. Its controller creates Gold tokens equal to its cost. **Go again**
+might	Might					Token	Aura	Generic		At the start of your turn, destroy this, then your next attack this turn gets +1{p}.
+minnowism-red	Minnowism	1	0		2	Action	NonAttack	Generic		The next attack action card with 3 or less base {p} you play this turn gains +3{p}. **Go again**
+minnowism-yellow	Minnowism	2	0		2	Action	NonAttack	Generic		The next attack action card with 3 or less base {p} you play this turn gains +2{p}. **Go again**
+minnowism-blue	Minnowism	3	0		2	Action	NonAttack	Generic		The next attack action card with 3 or less base {p} you play this turn gains +1{p}. **Go again**
+mischievous-meeps-red	Mischievous Meeps	1	1	2	2	Action	Attack	Generic		When this hits a hero, gain control of an item with cost 2 or less they control. Otherwise, draw a card. **Go again**
+money-or-your-life-red	Money or Your Life?	1	3	6	2	Action	Attack	Generic		When this hits a hero, deal 2 damage to them unless they give you a Gold token they control. If you are a Thief, repeat this process once.
+money-or-your-life-yellow	Money or Your Life?	2	3	5	2	Action	Attack	Generic		When this hits a hero, deal 2 damage to them unless they give you a Gold token they control. If you are a Thief, repeat this process once.
+money-or-your-life-blue	Money or Your Life?	3	3	4	2	Action	Attack	Generic		When this hits a hero, deal 2 damage to them unless they give you a Gold token they control. If you are a Thief, repeat this process once.
+money-where-ya-mouth-is-red	Money Where Ya Mouth Is	1	1		2	Action	NonAttack	Generic		Your next attack this turn gets +3{p} and "When this attacks a hero, you may **wager** a Gold token with them."
+money-where-ya-mouth-is-yellow	Money Where Ya Mouth Is	2	1		2	Action	NonAttack	Generic		Your next attack this turn gets +2{p} and "When this attacks a hero, you may **wager** a Gold token with them."
+money-where-ya-mouth-is-blue	Money Where Ya Mouth Is	3	1		2	Action	NonAttack	Generic		Your next attack this turn gets +1{p} and "When this attacks a hero, you may **wager** a Gold token with them."
+moon-wish-red	Moon Wish	1	2	5	2	Action	Attack	Generic		You may put a card from your hand on top of your deck rather than pay Moon Wish's {r} cost. If Moon Wish hits, search your deck for a card named Sun Kiss, reveal it, put it into your hand, then shuffle your deck.
+moon-wish-yellow	Moon Wish	2	2	4	2	Action	Attack	Generic		You may put a card from your hand on top of your deck rather than pay Moon Wish's {r} cost. If Moon Wish hits, search your deck for a card named Sun Kiss, reveal it, put it into your hand, then shuffle your deck.
+moon-wish-blue	Moon Wish	3	2	3	2	Action	Attack	Generic		You may put a card from your hand on top of your deck rather than pay Moon Wish's {r} cost. If Moon Wish hits, search your deck for a card named Sun Kiss, reveal it, put it into your hand, then shuffle your deck.
+mordred-tide-red	Mordred Tide	1	0		3	Action	NonAttack	Runeblade		Until end of turn, if you would create one or more Runechant tokens, instead create that many plus 1. **Go again**
+muscle-mutt-yellow	Muscle Mutt	2	3	6	2	Action	Attack	Generic		
+myrkhellir-helm	Myrkhellir Helm				1	Equipment	Head	Generic		If you control a Gold, this gets +1{d}. **Action** - {r}{r}, destroy this: The next time you would draw a card from a Gold token this turn, instead draw 2 cards. **Go again** **Temper**
+nasty-surprise-blue	Nasty Surprise	3	0	2	3	Action	Attack	Generic		When an opponent's effect puts this into your graveyard from anywhere, create an Agility, Might, and Vigor token.
+nebula-blade	Nebula Blade			1		Weapon	TwoHanded|Sword	Runeblade		**Once per Turn Action** - {r}{r}: **Attack** When this hits, create a Runechant token. If you've played a non-attack action card this turn, this gets +3{p}.
+nimble-strike-red	Nimble Strike	1	1	4	2	Action	Attack	Generic		As an additional cost to play Nimble Strike, you may banish a card named Nimblism from your graveyard. If you do, Nimble Strike gain +1{p} and **go again**.
+nimble-strike-yellow	Nimble Strike	2	1	3	2	Action	Attack	Generic		As an additional cost to play Nimble Strike, you may banish a card named Nimblism from your graveyard. If you do, Nimble Strike gain +1{p} and **go again**.
+nimble-strike-blue	Nimble Strike	3	1	2	2	Action	Attack	Generic		As an additional cost to play Nimble Strike, you may banish a card named Nimblism from your graveyard. If you do, Nimble Strike gain +1{p} and **go again**.
+nimblism-red	Nimblism	1	0		2	Action	NonAttack	Generic		The next attack action card with cost 1 or less you play this turn gains +3{p}. **Go again**
+nimblism-yellow	Nimblism	2	0		2	Action	NonAttack	Generic		The next attack action card with cost 1 or less you play this turn gains +2{p}. **Go again**
+nimblism-blue	Nimblism	3	0		2	Action	NonAttack	Generic		The next attack action card with cost 1 or less you play this turn gains +1{p}. **Go again**
+nimby-red	Nimby	1	0	3	2	Action	Attack	Generic		When this attacks, you may search your deck for a Nimblism, reveal it, put it into your hand, then shuffle.
+nimby-yellow	Nimby	2	0	2	2	Action	Attack	Generic		When this attacks, you may search your deck for a Nimblism, reveal it, put it into your hand, then shuffle.
+nimby-blue	Nimby	3	0	1	2	Action	Attack	Generic		When this attacks, you may search your deck for a Nimblism, reveal it, put it into your hand, then shuffle.
+ninth-blade-of-the-blood-oath-yellow	Ninth Blade of the Blood Oath	2	9	9	3	Action	Attack	Runeblade		This costs {r} less to play for each Runechant you control.
+nip-at-the-heels-blue	Nip at the Heels	3	0		3	AttackReaction		Generic		Target attack with 3 or less base {p} gets +1{p}.
+nourishing-emptiness-red	Nourishing Emptiness	1	2	6	3	Action	Attack	Generic		While there are no attack action cards in your graveyard, Nourishing Emptiness has **dominate** and "If this hits, your hero gains +1{i} until end of turn."
+nullrune-boots	Nullrune Boots				0	Equipment	Legs	Generic		**Arcane Barrier 1**
+nullrune-gloves	Nullrune Gloves				0	Equipment	Arms	Generic		**Arcane Barrier 1**
+nullrune-hood	Nullrune Hood				0	Equipment	Head	Generic		**Arcane Barrier 1**
+nullrune-robe	Nullrune Robe				0	Equipment	Chest	Generic		**Arcane Barrier 1**
+oasis-respite-red	Oasis Respite	1	1			Instant		Generic		Prevent the next 4 damage that would be dealt to target hero this turn by a source of your choice. If they have less life than each other hero, they may gain 1{h}.
+oasis-respite-yellow	Oasis Respite	2	1			Instant		Generic		Prevent the next 3 damage that would be dealt to target hero this turn by a source of your choice. If they have less life than each other hero, they may gain 1{h}.
+oasis-respite-blue	Oasis Respite	3	1			Instant		Generic		Prevent the next 2 damage that would be dealt to target hero this turn by a source of your choice. If they have less life than each other hero, they may gain 1{h}.
+oath-of-the-arknight-red	Oath of the Arknight	1	2		3	Action	NonAttack	Runeblade		Your next Runeblade attack this turn gains +3{p}. Create a Runechant token. **Go again**
+oath-of-the-arknight-yellow	Oath of the Arknight	2	2		3	Action	NonAttack	Runeblade		Your next Runeblade attack this turn gains +2{p}. Create a Runechant token. **Go again**
+oath-of-the-arknight-blue	Oath of the Arknight	3	2		3	Action	NonAttack	Runeblade		Your next Runeblade attack this turn gains +1{p}. Create a Runechant token. **Go again**
+old-knocker	Old Knocker				1	Equipment	Chest	Generic		**Instant** - {t} your hero, destroy this: Gain {r} Blade Break
+ominous-aggression-red	Ominous Aggression	1	2			Instant		Generic		Target attack action card gets +2{p}. If an aura you control was destroyed this turn, instead the card gets +4{p}.
+ominous-excavation-blue	Ominous Excavation	3	0			Instant		Generic		You may shuffle an instant card from your graveyard into your deck. If an aura you control was destroyed this turn, create a Ponder token.
+ominous-respite-yellow	Ominous Respite	2	1			Instant		Generic		Gain 2{h}. If an aura you control was destroyed this turn, instead gain 3{h}.
+on-a-knife-edge-yellow	On a Knife Edge	2	0		2	Action	NonAttack	Generic		Your next sword attack this turn gains **go again**. **Go again**
+on-the-horizon-red	On the Horizon	1			4	Block		Generic		When this defends, look at the top card of your deck.
+on-the-horizon-yellow	On the Horizon	2			3	Block		Generic		When this defends, look at the top card of your deck.
+on-the-horizon-blue	On the Horizon	3			2	Block		Generic		When this defends, look at the top card of your deck.
+onyx-amulet-blue	Onyx Amulet	3	0			Action	Item|NonAttack	Generic		**Action** - Destroy this: {t} all heroes and allies. **Go again** **Legend of the Watery Grave**
+opal-amulet-blue	Opal Amulet	3	0			Action	Item|NonAttack	Generic		**Instant** - Destroy this: **Opt 2** **Legend of the Watery Grave**
+ornate-tessen	Ornate Tessen					Equipment	OffHand	Generic		**Instant** - {r}, destroy Ornate Tessen: Put a card from your hand on the bottom of your deck. If you do, draw a card.
+out-muscle-red	Out Muscle	1	3	6	2	Action	Attack	Generic		While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.
+out-muscle-yellow	Out Muscle	2	3	5	2	Action	Attack	Generic		While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.
+out-muscle-blue	Out Muscle	3	3	4	2	Action	Attack	Generic		While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.
+outed-red	Outed	1	0	3		Action	Attack	Generic		If you are **marked**, you can't play this. If the defending hero is **marked**, this gets +1{p}. **Go again**
+overcharge-red	Overcharge	1	1	1	3	Action	Attack	NotClassed	Lightning	If you've played an instant card this chain link, this gets +3{p}. **Go again**
+overcharge-yellow	Overcharge	2	1	1	3	Action	Attack	NotClassed	Lightning	If you've played an instant card this chain link, this gets +2{p}. **Go again**
+overcharge-blue	Overcharge	3	1	1	3	Action	Attack	NotClassed	Lightning	If you've played an instant card this chain link, this gets +1{p}. **Go again**
+overcome-adversity	Overcome Adversity				2	Equipment	Legs	Generic		This may only defend an attack if the attack's controller has destroyed an Agility token this turn. **Blade Break**
+overcrowded-blue	Overcrowded	3	0	1	2	Action	Attack	Generic		**Ambush** When this attacks or defends, it gets +1{p} +1{d} for each different name among aura tokens in the arena.
+overload-red	Overload	1	0	3	2	Action	Attack	Generic		**Dominate** If Overload hits, it gains **go again**.
+overload-yellow	Overload	2	0	2	2	Action	Attack	Generic		**Dominate** If Overload hits, it gains **go again**.
+overload-blue	Overload	3	0	1	2	Action	Attack	Generic		**Dominate** If Overload hits, it gains **go again**.
+path-of-same-ends-red	Path of Same Ends	1	0	3	2	Action	Attack	Runeblade	Lightning	When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**. **Instant** - {r}: This gets **go again**.
+path-of-same-ends-yellow	Path of Same Ends	2	0	3	2	Action	Attack	Runeblade	Lightning	When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**. **Instant** - {r}: This gets **go again**.
+path-of-same-ends-blue	Path of Same Ends	3	0	3	2	Action	Attack	Runeblade	Lightning	When this attacks a hero, deal 1 arcane damage to them. If damage is dealt this way, this gets **go again**. **Instant** - {r}: This gets **go again**.
+pay-up-red	Pay Up	1	3	6	3	Action	Attack	Generic		If defending hero controls a Gold, this gets **overpower**. When this hits a hero, gain control of a Gold token they control. If you don't, deal 1 damage to them.
+peace-of-mind-red	Peace of Mind	1	2			Instant		Generic		The next time you would be dealt {p} damage, prevent 4 of that damage. Create a Ponder token.
+peace-of-mind-yellow	Peace of Mind	2	2			Instant		Generic		The next time you would be dealt {p} damage, prevent 3 of that damage. Create a Ponder token.
+peace-of-mind-blue	Peace of Mind	3	2			Instant		Generic		The next time you would be dealt {p} damage, prevent 2 of that damage. Create a Ponder token.
+pearl-amulet-blue	Pearl Amulet	3	0			Action	Item|NonAttack	Generic		**Action** - Destroy this: {u} target permanent. **Go again** **Legend of the Watery Grave**
+performance-bonus-red	Performance Bonus	1	0	3	2	Action	Attack	Generic		When this hits, create a Gold token. If this was played from arsenal, it gets **Go again**.
+performance-bonus-yellow	Performance Bonus	2	0	2	2	Action	Attack	Generic		When this hits, create a Gold token. If this was played from arsenal, it gets **go again**.
+performance-bonus-blue	Performance Bonus	3	0	1	2	Action	Attack	Generic		When this hits, create a Gold token. If this was played from arsenal, it gets **Go again**.
+pick-a-card-any-card-red	Pick a Card, Any Card	1	0		2	Action	NonAttack	Generic		Look at target opponent's hand then name a card. Choose a random card from their hand and reveal it. If it's the named card, create a Silver token. Repeat this process thrice. **Go again**
+pick-a-card-any-card-yellow	Pick a Card, Any Card	2	0		2	Action	NonAttack	Generic		Look at target opponent's hand then name a card. Choose a random card from their hand and reveal it. If it's the named card, create a Silver token. Repeat this process twice. **Go again**
+pick-a-card-any-card-blue	Pick a Card, Any Card	3	0		2	Action	NonAttack	Generic		Look at target opponent's hand then name a card. Choose a random card from their hand and reveal it. If it's the named card, create a Silver token. Repeat this process once. **Go again**
+pilfer-the-tomb-blue	Pilfer the Tomb	3	0			Instant		Generic		Choose 1 or both; - Banish target instant from an opposing hero's graveyard. - Banish target yellow card from an opposing hero's graveyard.
+platinum-amulet-blue	Platinum Amulet	3	0			Action	Item|NonAttack	Generic		**Instant** - Destroy this: Target defending card gets +1{d} until end of turn. **Legend of the Watery Grave**
+plunder-run-red	Plunder Run	1	0		2	Action	NonAttack	Generic		The next time an attack action card you control hits this turn, draw a card. If Plunder Run is played from arsenal, the next attack action card you play this turn gains +3{p}. **Go again**
+plunder-run-yellow	Plunder Run	2	0		2	Action	NonAttack	Generic		The next time an attack action card you control hits this turn, draw a card. If Plunder Run is played from arsenal, the next attack action card you play this turn gains +2{p}. **Go again**
+plunder-run-blue	Plunder Run	3	0		2	Action	NonAttack	Generic		The next time an attack action card you control hits this turn, draw a card. If Plunder Run is played from arsenal, the next attack action card you play this turn gains +1{p}. **Go again**
+plutonic-starplate	Plutonic Starplate				0	Equipment	Chest	NotClassed	Lightning	The first time you play a Lightning card during each of your opponent's turns, gain {r}. **Arcane Barrer 1**
+poison-the-well-blue	Poison the Well	3	0			Instant		Generic		The next time a hero would gain {h} this turn, instead they lose that much {h}.
+ponder	Ponder					Token	Aura	Generic		At the beginning of your end phase, destroy this and draw a card.
+popped-collar-polo	Popped Collar Polo				0	Equipment	Chest	Generic		**Action** - Destroy this: Gain {r}. **Go again**
+potion-of-deja-vu-blue	Potion of Déjà Vu	3	0			Action	Item|NonAttack	Generic		**Instant** - Destroy Potion of Déjà Vu: Put all cards from your pitch zone on top of your deck in any order.
+potion-of-ironhide-blue	Potion of Ironhide	3	0			Action	Item|NonAttack	Generic		**Instant** - Destroy Potion of Ironhide: Attack action cards you own gain +1{d} this turn.
+potion-of-luck-blue	Potion of Luck	3	0			Action	Item|NonAttack	Generic		**Instant** - Destroy Potion of Luck: Shuffle your hand and arsenal into your deck then draw that many cards.
+potion-of-seeing-blue	Potion of Seeing	3	0			Action	Item|NonAttack	Generic		**Instant** - Destroy Potion of Seeing: Look at target hero's hand.
+potion-of-strength-blue	Potion of Strength	3	0			Action	Item|NonAttack	Generic		**Action** - Destroy this: Your next attack this turn gains +2{p}. **Go again**
+pounamu-amulet-blue	Pounamu Amulet	3	0			Action	Item|NonAttack	Generic		**Action** - Destroy this: Gain 2{h}. **Go again** **Legend of the Watery Grave**
+pound-for-pound-red	Pound for Pound	1	3	6	2	Action	Attack	Generic		When you play Pound for Pound, if you have less {h} than an opposing hero, it gains **dominate**.
+pound-for-pound-yellow	Pound for Pound	2	3	5	2	Action	Attack	Generic		When you play Pound for Pound, if you have less {h} than an opposing hero, it gains **dominate**.
+pound-for-pound-blue	Pound for Pound	3	3	4	2	Action	Attack	Generic		When you play Pound for Pound, if you have less {h} than an opposing hero, it gains **dominate**.
+premeditate-red	Premeditate	1	0		2	Action	NonAttack	Generic		The next time an attack action card hits a hero this turn, create a Ponder token. The next attack action card you play from arsenal this turn gains +3{p}. **Go again**
+prime-the-crowd-red	Prime the Crowd	1	2		2	Action	NonAttack	Generic		The next attack action card you play this turn gets +4{p}. **The crowd cheers** each Revered hero. **The crowd boos** each Reviled hero. **Go again**
+prime-the-crowd-yellow	Prime the Crowd	2	2		2	Action	NonAttack	Generic		The next attack action card you play this turn gets +3{p}. **The crowd cheers** each Revered hero. **The crowd boos** each Reviled hero. **Go again**
+prime-the-crowd-blue	Prime the Crowd	3	2		2	Action	NonAttack	Generic		The next attack action card you play this turn gets +2{p}. **The crowd cheers** each Revered hero. **The crowd boos** each Reviled hero. **Go again**
+prismatic-leyline-yellow	Prismatic Leyline	2	0		3	Action	NonAttack	Generic		Your next red attack this turn gets +1{p}, your next yellow gets +2{p}, and your next blue gets +3{p}. **Go again**
+promise-of-plenty-red	Promise of Plenty	1	0	3	2	Action	Attack	Generic		If Promise of Plenty hits, each hero who doesn't have a card in their arsenal puts the top card of their deck face down into their arsenal. If Promise of Plenty is played from arsenal, it gains **go again**.
+promise-of-plenty-yellow	Promise of Plenty	2	0	2	2	Action	Attack	Generic		If Promise of Plenty hits, each hero who doesn't have a card in their arsenal puts the top card of their deck face down into their arsenal. If Promise of Plenty is played from arsenal, it gains **go again**.
+promise-of-plenty-blue	Promise of Plenty	3	0	1	2	Action	Attack	Generic		If Promise of Plenty hits, each hero who doesn't have a card in their arsenal puts the top card of their deck face down into their arsenal. If Promise of Plenty is played from arsenal, it gains **go again**.
+prophetic-quickstep-yellow	Prophetic Quickstep	2	1	3	3	Action	Attack	Runeblade	Lightning	**Quickstrike** - If this has go again, it gets +1{p} and "When this attacks a hero, deal 1 arcane damage to them." The first time this deals damage to a hero, create a Ponder token.
+public-bounty-red	Public Bounty	1	1		2	Action	NonAttack	Generic		**Mark** target opposing hero. The next time you attack a **marked** hero this turn, the attack gets +3{p}. **Go again**
+public-bounty-yellow	Public Bounty	2	1		2	Action	NonAttack	Generic		**Mark** target opposing hero. The next time you attack a **marked** hero this turn, the attack gets +2{p}. **Go again**
+public-bounty-blue	Public Bounty	3	1		2	Action	NonAttack	Generic		**Mark** target opposing hero. The next time you attack a **marked** hero this turn, the attack gets +1{p}. **Go again**
+pummel-red	Pummel	1	2		2	AttackReaction		Generic		Choose 1; - Target club or hammer weapon attack gains +4{p}. - Target attack action with cost 2 or greater gains +4{p} and "If this hits a hero, they discard a card."
+pummel-yellow	Pummel	2	2		2	AttackReaction		Generic		Choose 1; - Target club or hammer weapon attack gains +3{p}. - Target attack action with cost 2 or greater gains +3{p} and "If this hits a hero, they discard a card."
+pummel-blue	Pummel	3	2		2	AttackReaction		Generic		Choose 1; - Target club or hammer weapon attack gains +2{p}. - Target attack action with cost 2 or greater gains +2{p} and "If this hits a hero, they discard a card."
+punch-above-your-weight-red	Punch Above Your Weight	1	0	2	2	Action	Attack	Generic		When this attacks, you may pay {r}{r}{r}. If you do, this gets +5{p}.
+punch-above-your-weight-yellow	Punch Above Your Weight	2	0	2	2	Action	Attack	Generic		When this attacks, you may pay {r}{r}{r}. If you do, this gets +4{p}.
+punch-above-your-weight-blue	Punch Above Your Weight	3	0	2	2	Action	Attack	Generic		When this attacks, you may pay {r}{r}{r}. If you do, this gets +3{p}.
+punching-gloves	Punching Gloves				0	Equipment	Arms	Generic		**Action** - {r}{r}, destroy this: The next attack card you play this turn gets +2{p}. **Go again**
+pursue-to-the-edge-of-oblivion-red	Pursue to the Edge of Oblivion	1	0	4	3	Action	Attack	Generic		When this hits a hero, **mark** them.
+pursue-to-the-pits-of-despair-red	Pursue to the Pits of Despair	1	1	5	3	Action	Attack	Generic		When this hits a hero, **mark** them.
+pursuit-of-knowledge-blue	Pursuit of Knowledge	3	2	4	2	Action	Attack	Generic		When this hits, your hero gets +1{i} until end of turn.
+push-the-point-red	Push the Point	1	1	4	2	Action	Attack	Generic		If the last attack on this combat chain hit, Push the Point gains +2{p}.
+push-the-point-yellow	Push the Point	2	1	3	2	Action	Attack	Generic		If the last attack on this combat chain hit, Push the Point gains +2{p}.
+push-the-point-blue	Push the Point	3	1	2	2	Action	Attack	Generic		If the last attack on this combat chain hit, Push the Point gains +2{p}.
+put-in-context-blue	Put in Context	3	0		3	DefenseReaction		Generic		This can only defend an attack with 3 or less base {p}.
+quartermasters-boots	Quartermaster's Boots				1	Equipment	Legs	Generic		**Action** - {r}{r}, destroy this: The next non-attack action card you play this turn gets **go again**. **Go again** **Blade Break**
+quelling-robe	Quelling Robe				0	Equipment	Chest	Generic		**Quell 1**
+quelling-sleeves	Quelling Sleeves				0	Equipment	Arms	Generic		**Quell 1**
+quelling-slippers	Quelling Slippers				0	Equipment	Legs	Generic		**Quell 1**
+quick-clicks	Quick Clicks				0	Equipment	Legs	Generic		**Action** - Destroy this: Your next attack this turn gets **go again**. Activate this only if you've played a Nimblism this turn. **Go again**
+quick-succession-red	Quick Succession	1	0		2	Action	NonAttack	Runeblade	Lightning	The next Runeblade or Lightning attack action card you play this turn gets **go again**. Your next 3 attacks this turn get +1{p} while they have go again. **Go again**
+quick-succession-yellow	Quick Succession	2	0		2	Action	NonAttack	Runeblade	Lightning	The next Runeblade or Lightning attack action card you play this turn gets **go again**. Your next 2 attacks this turn get +1{p} while they have go again. **Go again**
+quick-succession-blue	Quick Succession	3	0		2	Action	NonAttack	Runeblade	Lightning	The next Runeblade or Lightning attack action card you play this turn gets **go again**. Your next attack this turn get +1{p} while it has go again. **Go again**
+quickdodge-flexors	Quickdodge Flexors				0	Equipment	Legs	Generic		**Defense Reaction** - {r}: Add this to the active chain link as a defending card. It has 2 base {d} this chain link. At the beginning of the end phase, if this defendend this turn, destroy it.
+quicken	Quicken					Token	Aura	Generic		When you play an attack action card or activate a weapon attack, destroy this and the attack gains **go again**.
+ragamuffins-hat	Ragamuffin's Hat				0	Equipment	Head	Generic		**Instant** - Destroy Ragamuffin's Hat: Draw a card then put a card from your hand on the top or bottom of your deck. Activate this ability only if you have 1 card in hand.
+raging-onslaught-red	Raging Onslaught	1	3	7	3	Action	Attack	Generic		
+raging-onslaught-yellow	Raging Onslaught	2	3	6	3	Action	Attack	Generic		
+raging-onslaught-blue	Raging Onslaught	3	3	5	3	Action	Attack	Generic		
+rally-the-coast-guard-red	Rally the Coast Guard	1	3	7	2	Action	Attack	Generic		**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this only while this card is defending.
+rally-the-coast-guard-yellow	Rally the Coast Guard	2	3	6	2	Action	Attack	Generic		**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this only while this card is defending.
+rally-the-coast-guard-blue	Rally the Coast Guard	3	3	5	2	Action	Attack	Generic		**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this only while this card is defending.
+rally-the-rearguard-red	Rally the Rearguard	1	2	6	2	Action	Attack	Generic		**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this ability only while this is defending.
+rally-the-rearguard-yellow	Rally the Rearguard	2	2	5	2	Action	Attack	Generic		**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this ability only while this is defending.
+rally-the-rearguard-blue	Rally the Rearguard	3	2	4	2	Action	Attack	Generic		**Once per Turn Instant** - Discard a card: This gets +3{d}. Activate this ability only while this is defending.
+ransack-and-raze-blue	Ransack and Raze	3			3	Action	NonAttack	Generic		Destroy target landmark with cost X. Create X Gold tokens. **Go again**
+rattle-bones-red	Rattle Bones	1	2		3	Action	NonAttack	Runeblade		Banish target Runeblade attack action card from your graveyard. You may play it this turn. If you have dealt arcane damage to an opposing hero this turn, you may play Rattle Bones as though it were an instant. **Go again**
+ravenous-rabble-red	Ravenous Rabble	1	0	5	2	Action	Attack	Generic		When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way. **Go again**
+ravenous-rabble-yellow	Ravenous Rabble	2	0	4	2	Action	Attack	Generic		When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way. **Go again**
+ravenous-rabble-blue	Ravenous Rabble	3	0	3	2	Action	Attack	Generic		When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way. **Go again**
+razor-reflex-red	Razor Reflex	1	1		2	AttackReaction		Generic		Choose 1; - Target dagger or sword weapon attack gets +3{p}. - Target attack action card with cost 1 or less gets +3{p} and "When this hits, it gets **go again**."
+razor-reflex-yellow	Razor Reflex	2	1		2	AttackReaction		Generic		Choose 1; - Target dagger or sword weapon attack gets +2{p}. - Target attack action card with cost 1 or less gets +2{p} and "When this hits, it gets **go again**."
+razor-reflex-blue	Razor Reflex	3	1		2	AttackReaction		Generic		Choose 1; - Target dagger or sword weapon attack gets +1{p}. - Target attack action card with cost 1 or less gets +1{p} and "When this hits, it gets **go again**."
+read-the-runes-red	Read the Runes	1	0		2	Action	NonAttack	Runeblade		Create 3 Runechant tokens.
+read-the-runes-yellow	Read the Runes	2	0		2	Action	NonAttack	Runeblade		Create 2 Runechant tokens.
+read-the-runes-blue	Read the Runes	3	0		2	Action	NonAttack	Runeblade		Create a Runechant token.
+reaping-blade	Reaping Blade			3		Weapon	TwoHanded|Sword	Runeblade		**Once per Turn Action** - {r}: **Attack** If a hero has more {h} than any other hero, they can't gain {h}.
+reduce-to-runechant-red	Reduce to Runechant	1	1		4	DefenseReaction		Runeblade		Reduce to Runechant costs {r} less to play for each Runechant you control. Create a Runechant token.
+reduce-to-runechant-yellow	Reduce to Runechant	2	1		3	DefenseReaction		Runeblade		Reduce to Runechant costs {r} less to play for each Runechant you control. Create a Runechant token.
+reduce-to-runechant-blue	Reduce to Runechant	3	1		2	DefenseReaction		Runeblade		Reduce to Runechant costs {r} less to play for each Runechant you control. Create a Runechant token.
+reek-of-corruption-red	Reek of Corruption	1	2	4	3	Action	Attack	Runeblade		If you have played or created an aura this turn, Reek of Corruption gains "When this hits a hero, they discard a card."
+reek-of-corruption-yellow	Reek of Corruption	2	2	3	3	Action	Attack	Runeblade		If you have played or created an aura this turn, Reek of Corruption gains "When this hits a hero, they discard a card."
+reek-of-corruption-blue	Reek of Corruption	3	2	2	3	Action	Attack	Runeblade		If you have played or created an aura this turn, Reek of Corruption gains "When this hits a hero, they discard a card."
+regain-composure-blue	Regain Composure	3	0		2	Action	NonAttack	Generic		Your next attack this turn gets +1{p} and "When this hits, {u} your hero." **Go again**
+regurgitating-slog-red	Regurgitating Slog	1	2	6	2	Action	Attack	Generic		As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.
+regurgitating-slog-yellow	Regurgitating Slog	2	2	5	2	Action	Attack	Generic		As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.
+regurgitating-slog-blue	Regurgitating Slog	3	2	4	2	Action	Attack	Generic		As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism from your graveyard. If you do, Regurgitating Slog gains **dominate**.
+reinforce-the-line-red	Reinforce the Line	1	0			Instant		Generic		Target defending attack action card gains +4{d}.
+reinforce-the-line-yellow	Reinforce the Line	2	0			Instant		Generic		Target defending attack action card gains +3{d}.
+reinforce-the-line-blue	Reinforce the Line	3	0			Instant		Generic		Target defending attack action card gets +2{d}.
+relentless-pursuit-blue	Relentless Pursuit	3	0		3	Action	NonAttack	Generic		**Mark** target opposing hero. If you've attacked them this turn, put this on the bottom of its owner's deck. **Go again**
+remembrance-yellow	Remembrance	2	0			Instant		Generic		Shuffle up to 3 action cards from your graveyard into your deck. Banish Remembrance.
+restvine-elixir-red	Restvine Elixir	1	1		3	Action	NonAttack	Generic		Your next attack this turn gets +3{p}. You may destroy an Inertia token you control. If you do, gain 1{h}. **Go again**
+revel-in-runeblood-red	Revel in Runeblood	1	0		2	Action	NonAttack	Runeblade		If you've played an attack action card and another non-attack action card this turn, create 4 Runechant tokens. At the beginning of your end phase, destroy all Runechants you control. **Go again**
+riches-of-tropal-dhani-yellow	Riches of Trōpal-Dhani	2				Resource	Gem	Generic		**Legendary** When this is pitched, create a Gold token.
+rift-breaker-red	Rift Breaker	1	2	6	2	Action	Attack	NotClassed	Lightning	When this hits a hero, destroy a Lightning Flow token they control.
+rift-breaker-yellow	Rift Breaker	2	2	5	2	Action	Attack	NotClassed	Lightning	When this hits a hero, destroy a Lightning Flow token they control.
+rift-breaker-blue	Rift Breaker	3	2	4	2	Action	Attack	NotClassed	Lightning	When this hits a hero, destroy a Lightning Flow token they control.
+rifting-red	Rifting	1	2	6	2	Action	Attack	Generic		If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.
+rifting-yellow	Rifting	2	2	5	2	Action	Attack	Generic		If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.
+rifting-blue	Rifting	3	2	4	2	Action	Attack	Generic		If Rifting hits, you may play your next 'non-attack' action card this turn as though it were an instant.
+right-behind-you-red	Right Behind You	1	3	7	2	Action	Attack	Generic		When this defends together with another card from hand, this gets +1{d} and you may look at the top card of your deck. You may put it on the bottom.
+right-behind-you-yellow	Right Behind You	2	3	6	2	Action	Attack	Generic		When this defends together with another card from hand, this gets +1{d} and you may look at the top card of your deck. You may put it on the bottom.
+right-behind-you-blue	Right Behind You	3	3	5	2	Action	Attack	Generic		When this defends together with another card from hand, this gets +1{d} and you may look at the top card of your deck. You may put it on the bottom.
+ripple-away-blue	Ripple Away	3	2	4	3	Action	Attack	Generic		**Instant** - Discard this: If an action card effect would create 1 or more tokens this turn, instead it creates that many minus 1 of each of those tokens.
+rise-above-red	Rise Above	1	2		4	DefenseReaction		Generic		You may put a card from your hand on top of your deck rather than pay Rise Above's {r} cost.
+rise-above-yellow	Rise Above	2	2		3	DefenseReaction		Generic		You may put a card from your hand on top of your deck rather than pay Rise Above's {r} cost.
+rise-above-blue	Rise Above	3	2		2	DefenseReaction		Generic		You may put a card from your hand on top of your deck rather than pay Rise Above's {r} cost.
+robe-of-astral-sanctuary	Robe of Astral Sanctuary				0	Equipment	Chest	Generic		**Instant** - {t} your hero, destroy this: Prevent the next 1 damage that would be dealt to you this turn.
+rockyard-rodeo-blue	Rockyard Rodeo	3	3		2	Action	Attack	Generic		This card's {p} is equal to the highest base {p} of weapons you control.
+rosetta-thorn	Rosetta Thorn			2		Weapon	TwoHanded|Sword	Runeblade		**Once per Turn Action** - {r}: **Attack** Whenever you attack with Rosetta Thorn, if you've played an attack action card and a 'non-attack' action card this turn, deal 2 arcane damage to target hero.
+rotten-remains-blue	Rotten Remains	3	0	1	3	Action	Attack	Generic		When this attacks, you may banish a card with 1{p} from each hero's graveyard. If you do, this gets +1{p}, then repeat this process.
+rouse-the-ancients-blue	Rouse the Ancients	3	3	0	2	Action	Attack	Generic		As an additional cost to play Rouse the Ancients, you may reveal any number of attack action cards from your hand with 13 or more total {p}. If you do, Rouse the Ancients gains +7{p} and **go again**.
+rowdy-locals-blue	Rowdy Locals	3	0	2	3	Action	Attack	Generic		If this is defended by an action card, this gets +2{p}. When this hits a hero, discard a card. If you do, they discard a card.
+ruby-amulet-blue	Ruby Amulet	3	0			Action	Item|NonAttack	Generic		**Instant** - Destroy this: Gain {r}{r} **Legend of the Watery Grave**
+runaways	Runaways				0	Equipment	Legs	Generic		**Instant** - Destroy Runaways: Prevent the next 1 damage that would be dealt to your hero this turn. Activate this ability only if your hero has been dealt damage this turn.
+rune-flash-red	Rune Flash	1	3	4	3	Action	Attack	Runeblade		This costs {r} less to play for each Runechant token you control. **Go again**
+rune-flash-yellow	Rune Flash	2	3	3	3	Action	Attack	Runeblade		Rune Flash costs {r} less to play for each Runechant you control. **Go again**
+rune-flash-blue	Rune Flash	3	3	2	3	Action	Attack	Runeblade		This costs {r} less to play for each Runechant token you control. **Go again**
+runebleed-robe	Runebleed Robe				0	Equipment	Chest	Runeblade		**Instant** - Destroy this and a Runechant you control: Prevent the next 1 arcane damage that would be dealt to you this turn. **Arcane Barrier 1**
+runeblood-barrier-yellow	Runeblood Barrier	2	3		2	Action	Aura|NonAttack	Runeblade		When this enters the arena, create 4 Runechant tokens. If your hero would be dealt damage, instead destroy that many Runechant tokens you control and prevent 1 damage for each Runechant token destroyed this way. At the beginning of your action phase, destroy this.
+runeblood-incantation-red	Runeblood Incantation	1	1		2	Action	Aura|NonAttack	Runeblade		**Go again** Runeblood Incantation enters the arena with 3 verse counters on it. At the beginning of your action phase, remove a verse counter from Runeblood Incantation. If you do create a Runechant token. Otherwise, destroy Runeblood Incantation.
+runeblood-incantation-yellow	Runeblood Incantation	2	1		2	Action	Aura|NonAttack	Runeblade		**Go again** Runeblood Incantation enters the arena with 2 verse counters on it. At the beginning of your action phase, remove a verse counter from Runeblood Incantation. If you do create a Runechant token. Otherwise, destroy Runeblood Incantation.
+runeblood-incantation-blue	Runeblood Incantation	3	1		2	Action	Aura|NonAttack	Runeblade		**Go again** Runeblood Incantation enters the arena with a verse counter on it. At the beginning of your action phase, remove a verse counter from Runeblood Incantation. If you do create a Runechant token. Otherwise, destroy Runeblood Incantation.
+runechant	Runechant					Token	Aura	Runeblade		When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.
+runechant-of-envy-yellow	Runechant of Envy	2	0			Instant	Aura	Runeblade		This counts as a Runechant. When an attack usurps this, gain 1{h}. When this is destroyed, create a Runechant token. At the beginning of your action phase or when you play an attack action card, destroy this.
+runechant-of-gluttony-yellow	Runechant of Gluttony	2	0			Instant	Aura	Runeblade		This counts as a Runechant. When an attack usurps this, gain {r}. When this is destroyed, create a Runechant token. At the beginning of your action phase or when you play an attack action card, destroy this.
+runechant-of-greed-yellow	Runechant of Greed	2	0			Instant	Aura	Runeblade		This counts as a Runechant. When an attack usurps this, draw a card. When this is destroyed, create a Runechant token. At the beginning of your action phase or when you play an attack action card, destroy this.
+runechant-of-lust-yellow	Runechant of Lust	2	0			Instant	Aura	Runeblade		This counts as a Runechant. When an attack usurps this, create a Runechant token. When this is destroyed, create a Runechant token. At the beginning of your action phase or when you play an attack action card, destroy this.
+runechant-of-pride-yellow	Runechant of Pride	2	0			Instant	Aura	Runeblade		This counts as a Runechant. When an attack usurps this, it gets +1{p}. When this is destroyed, create a Runechant token. At the beginning of your action phase or when you play an attack action card, destroy this.
+runechant-of-sloth-yellow	Runechant of Sloth	2	0			Instant	Aura	Runeblade		This counts as a Runechant. When an attack usurps this, it gets **go again**. When this is destroyed, create a Runechant token. At the beginning of your action phase or when you play an attack action card, destroy this.
+runechant-of-wrath-yellow	Runechant of Wrath	2	0			Instant	Aura	Runeblade		This counts as a Runechant. When an attack usurps this, it gets **overpower**. When this is destroyed, create a Runechant token. At the beginning of your action phase or when you play an attack action card, destroy this.
+runehold-release	Runehold Release				0	Equipment	Arms	Runeblade		**Action** - Destroy this: Create a Runechant token. **Go again**
+runerager-swarm-red	Runerager Swarm	1	0	3	3	Action	Attack	Runeblade		If you've played or created an aura this turn, this gets **go again**.
+runerager-swarm-yellow	Runerager Swarm	2	0	2	3	Action	Attack	Runeblade		If you've played or created an aura this turn, this gets **go again**.
+runerager-swarm-blue	Runerager Swarm	3	0	1	3	Action	Attack	Runeblade		If you've played or created an aura this turn, this gets **go again**.
+runic-fellingsong-red	Runic Fellingsong	1	3	7	3	Action	Attack	Runeblade		When this attacks, you may banish an aura from your graveyard. If you do, deal 1 arcane damage to target hero.
+runic-fellingsong-yellow	Runic Fellingsong	2	3	6	3	Action	Attack	Runeblade		When this attacks, you may banish an aura from your graveyard. If you do, deal 1 arcane damage to target hero.
+runic-fellingsong-blue	Runic Fellingsong	3	3	5	3	Action	Attack	Runeblade		When this attacks, you may banish an aura from your graveyard. If you do, deal 1 arcane damage to target hero.
+runic-reaping-red	Runic Reaping	1	1		2	Action	NonAttack	Runeblade		The next Runeblade attack action card you play this turn gains "When this hits, create 3 Runechant tokens". If an attack card was pitched to play Runic Reaping, the next Runeblade attack action card you play this turn gains +1{p}. **Go again**
+runic-reaping-yellow	Runic Reaping	2	1		2	Action	NonAttack	Runeblade		The next Runeblade attack action card you play this turn gains "When this hits, create 2 Runechant tokens". If an attack card was pitched to play Runic Reaping, the next Runeblade attack action card you play this turn gains +1{p}. **Go again**
+runic-reaping-blue	Runic Reaping	3	1		2	Action	NonAttack	Runeblade		The next Runeblade attack action card you play this turn gains "When this hits, create a Runechant token". If an attack card was pitched to play Runic Reaping, the next Runeblade attack action card you play this turn gains +1{p}. **Go again**
+runic-reckoning-red	Runic Reckoning	1	1		3	Action	NonAttack	Runeblade		This costs {r} less to play for each Runechant you control. The next Runeblade attack action card you play this turn gets +3{p}. **Go again**
+runic-reclamation-red	Runic Reclamation	1	3	7	3	Action	Attack	Runeblade		When Runic Reclamation hits a hero, destroy target aura they control. If you do, create a Runechant token.
+rush-of-power-red	Rush of Power	1	0	3	3	Action	Attack	Runeblade	Lightning	**Quickstrike** - If this has go again, it gets +1{p}. When this hits a hero, deal 1 arcane damage to them.
+rush-of-power-yellow	Rush of Power	2	0	2	3	Action	Attack	Runeblade	Lightning	**Quickstrike** - If this has go again, it gets +1{p}. When this hits a hero, deal 1 arcane damage to them.
+rush-of-power-blue	Rush of Power	3	0	1	3	Action	Attack	Runeblade	Lightning	**Quickstrike** - If this has go again, it gets +1{p}. When this hits a hero, deal 1 arcane damage to them.
+rusted-relic-blue	Rusted Relic	3	0			Action	Item|NonAttack	Generic		**Arcane Barrier 1**
+sapphire-amulet-blue	Sapphire Amulet	3	0			Action	Item|NonAttack	Generic		**Action** - Destroy this: You get +1{i} this turn. **Legend of the Watery Grave**
+sapwood-elixir-red	Sapwood Elixir	1	1		3	Action	NonAttack	Generic		Your next attack this turn gets +3{p}. You may destroy a Frailty token you control. If you do, gain 1{h}. **Go again**
+scar-for-a-scar-red	Scar for a Scar	1	0	4	2	Action	Attack	Generic		When this is played, if you have less {h} than an opposing hero, it gets **go again**.
+scar-for-a-scar-yellow	Scar for a Scar	2	0	3	2	Action	Attack	Generic		When this is played, if you have less {h} than an opposing hero, it gets **go again**.
+scar-for-a-scar-blue	Scar for a Scar	3	0	2	2	Action	Attack	Generic		When this is played, if you have less {h} than an opposing hero, it gets **go again**.
+scarf-for-a-scarf-red	Scarf for a Scarf	1	0	4	2	Action	Attack	Generic		When this attacks a hero, exchange a head equipment permanent with them. If you do, this gets **go again**.
+scepter-of-pain	Scepter of Pain					Weapon	OneHanded|Scepter	Runeblade		**Once per Turn Action** - {r}{r}: Deal 1 arcane damage to any opposing target. Create a Runechant token for each damage dealt this way.
+scorpio-comet-tail	Scorpio, Comet Tail			1		Weapon	TwoHanded|Sword	Runeblade	Lightning	**Action** - {t}: **Attack**. Activate this only if you control a Lightning attack. When this hits a hero, deal 1 arcane damage to them.
+scour-the-battlescape-red	Scour the Battlescape	1	0	3	2	Action	Attack	Generic		You may put a card from your hand on the bottom of your deck. If you do, draw a card. If Scour the Battlescape is played from arsenal, it gains **go again**.
+scour-the-battlescape-yellow	Scour the Battlescape	2	0	2	2	Action	Attack	Generic		You may put a card from your hand on the bottom of your deck. If you do, draw a card. If Scour the Battlescape is played from arsenal, it gains **go again**.
+scour-the-battlescape-blue	Scour the Battlescape	3	0	1	2	Action	Attack	Generic		You may put a card from your hand on the bottom of your deck. If you do, draw a card. If Scour the Battlescape is played from arsenal, it gains **go again**.
+scout-the-periphery-red	Scout the Periphery	1	0		2	Action	NonAttack	Generic		Look at the top card of target hero's deck. The next attack action card you play from arsenal this turn gains +3{p}. **Go again**
+scout-the-periphery-yellow	Scout the Periphery	2	0		2	Action	NonAttack	Generic		Look at the top card of target hero's deck. The next attack action card you play from arsenal this turn gains +2{p}. **Go again**
+scout-the-periphery-blue	Scout the Periphery	3	0		2	Action	NonAttack	Generic		Look at the top card of target hero's deck. The next attack action card you play from arsenal this turn gains +1{p}. **Go again**
+sea-legs-yellow	Sea Legs	2	3	6	3	Action	Attack	Generic		When this is discarded, create a Goldkiss Rum token.
+second-strike-red	Second Strike	1	0	3	2	Action	Attack	NotClassed	Lightning	When this attacks, if you've dealt damage this turn, this gets +1{p} and **go again**.
+second-strike-yellow	Second Strike	2	0	2	2	Action	Attack	NotClassed	Lightning	When this attacks, if you've dealt damage this turn, this gets +1{p} and **go again**.
+second-strike-blue	Second Strike	3	0	1	2	Action	Attack	NotClassed	Lightning	When this attacks, if you've dealt damage this turn, this gets +1{p} and **go again**.
+seduce-secrets-yellow	Seduce Secrets	2	0			Instant		Generic		Look at target hero's hand and the top card of their deck. If this was played from arsenal, draw a card.
+seek-horizon-red	Seek Horizon	1	0	4	2	Action	Attack	Generic		As an additional cost to play Seek Horizon, you may put a card from your hand on top of your deck. If you do, Seek Horizon gains **go again**.
+seek-horizon-yellow	Seek Horizon	2	0	3	2	Action	Attack	Generic		As an additional cost to play Seek Horizon, you may put a card from your hand on top of your deck. If you do, Seek Horizon gains **go again**.
+seek-horizon-blue	Seek Horizon	3	0	2	2	Action	Attack	Generic		As an additional cost to play Seek Horizon, you may put a card from your hand on top of your deck. If you do, Seek Horizon gains **go again**.
+seekers-gilet	Seeker's Gilet					Equipment	Chest	Generic		**Instant** - {r}, destroy Seeker's Gilet: Prevent the next 1 damage that would be dealt to your hero this turn. **Opt 1**
+seekers-hood	Seeker's Hood					Equipment	Head	Generic		**Instant** - {r}, destroy Seeker's Hood: Prevent the next 1 damage that would be dealt to your hero this turn. **Opt 1**
+seekers-leggings	Seeker's Leggings					Equipment	Legs	Generic		**Instant** - {r}, destroy Seeker's Leggings: Prevent the next 1 damage that would be dealt to your hero this turn. **Opt 1**
+seekers-mitts	Seeker's Mitts					Equipment	Arms	Generic		**Instant** - {r}, destroy Seeker's Mitts: Prevent the next 1 damage that would be dealt to your hero this turn. **Opt 1**
+shatter-sorcery-blue	Shatter Sorcery	3	0			Instant		Generic		Choose 1 or both; - Destroy target aura permanent with Sigil in its name. - Prevent the next 1 arcane damage that would be dealt to target hero this turn.
+shelter-from-the-storm-red	Shelter from the Storm	1	0		4	DefenseReaction		Generic		**Instant** - Discard this: The next 3 times you would be dealt damage this turn, prevent 1 of that damage.
+sheltered-cove	Sheltered Cove					Equipment	Head	Generic		**Instant** - {r}{r}{r}, destroy this: The next time you would be dealt damage this turn, prevent 2 of that damage
+shitty-xmas-present-yellow	Shitty Xmas Present	2	0		2	Action	NonAttack	Generic		Put a Cracked Bauble from outside the game on top of target hero's deck.
+shock-charmers	Shock Charmers				0	Equipment	Arms	NotClassed	Lightning	**Instant** - {r}{r}: The next time an attack action card you control hits a hero this turn, it deals 1 damage to them. **Spellvoid 2**
+shock-frock	Shock Frock				1	Equipment	Chest	NotClassed	Lightning	**Action** - Destroy this: Gain {r}. Activate this only if you've played a Lightning card this turn. **Go again** **Battleworn**
+shock-striker-red	Shock Striker	1	1	5	2	Action	Attack	NotClassed	Lightning	**Once per Turn Instant** - {r}{r}: Shock Striker gains "If Shock Striker hits a hero, deal 1 damage to them."
+shock-striker-yellow	Shock Striker	2	1	4	2	Action	Attack	NotClassed	Lightning	**Once per Turn Instant** - {r}{r}: Shock Striker gains "If Shock Striker hits a hero, deal 1 damage to them."
+shock-striker-blue	Shock Striker	3	1	3	2	Action	Attack	NotClassed	Lightning	**Once per Turn Instant** - {r}{r}: Shock Striker gains "If Shock Striker hits a hero, deal 1 damage to them."
+shrill-of-skullform-red	Shrill of Skullform	1	2	4	3	Action	Attack	Runeblade		If you have played or created an aura this turn, Shrill of Skullform gains +3{p}.
+shrill-of-skullform-yellow	Shrill of Skullform	2	2	3	3	Action	Attack	Runeblade		If you have played or created an aura this turn, Shrill of Skullform gains +3{p}.
+shrill-of-skullform-blue	Shrill of Skullform	3	2	2	3	Action	Attack	Runeblade		If you have played or created an aura this turn, Shrill of Skullform gains +3{p}.
+sift-red	Sift	1	0		3	Action	NonAttack	Generic		Put up to 4 cards from your hand on the bottom of your deck, then draw that many cards. **Go again**
+sift-yellow	Sift	2	0		3	Action	NonAttack	Generic		Put up to 3 cards from your hand on the bottom of your deck, then draw that many cards. **Go again**
+sift-blue	Sift	3	0		3	Action	NonAttack	Generic		Put up to 2 cards from your hand on the bottom of your deck, then draw that many cards. **Go again**
+sigil-of-astral-flow-blue	Sigil of Astral Flow	3	0			Instant	Aura	NotClassed	Lightning	At the beginning of your action phase, destroy this. When this leaves the arena, create a Lightning Flow token.
+sigil-of-conductivity-blue	Sigil of Conductivity	3	0			Instant	Aura	NotClassed	Lightning	**Arcane Shelter 1** When this leaves the arena, create an Embodiment of Lightning token.
+sigil-of-cycles-blue	Sigil of Cycles	3	0		2	Action	Aura|NonAttack	Generic		**Go again** At the beginning of your action phase, destroy this. When this leaves the arena, discard a card then draw a card.
+sigil-of-deadwood-blue	Sigil of Deadwood	3	0		2	Action	Aura|NonAttack	Runeblade		**Go again** At the beginning of your action phase, destroy this. When this leaves the arena, create a Runechant token.
+sigil-of-fyendal-blue	Sigil of Fyendal	3	0		2	Action	Aura|NonAttack	Generic		**Go again** At the beginning of your action phase, destroy this. When this leaves the arena, gain 1{h}.
+sigil-of-gravespawning-blue	Sigil of Gravespawning	3	1		3	Action	Aura|NonAttack	Runeblade		**Go again** Whenever an aura leaves your graveyard, deal 1 arcane damage to target hero. At the beginning of your action phase, destroy this.
+sigil-of-lightning-blue	Sigil of Lightning	3	0			Instant	Aura	NotClassed	Lightning	At the beginning of your action phase, destroy this. When this leaves the arena, create an Embodiment of Lightning token.
+sigil-of-protection-red	Sigil of Protection	1	1		2	Action	Aura|NonAttack	Generic		**Ward 4** At the beginning of your action phase, destroy Sigil of Protection.
+sigil-of-protection-yellow	Sigil of Protection	2	1		2	Action	Aura|NonAttack	Generic		**Ward 3** At the beginning of your action phase, destroy Sigil of Protection.
+sigil-of-protection-blue	Sigil of Protection	3	1		2	Action	Aura|NonAttack	Generic		**Ward 2** At the beginning of your action phase, destroy Sigil of Protection.
+sigil-of-silphidae-blue	Sigil of Silphidae	3	0		3	Action	Aura|NonAttack	Runeblade		**Go again** When this enters or leaves the arena, you may banish another aura from your graveyard. If you do, deal 1 arcane damage to target hero. At the beginning of your action phase, destroy this.
+sigil-of-solace-red	Sigil of Solace	1	0			Instant		Generic		Gain 3{h}
+sigil-of-solace-yellow	Sigil of Solace	2	0			Instant		Generic		Gain 2{h}
+sigil-of-solace-blue	Sigil of Solace	3	0			Instant		Generic		Gain 1{h}
+sigil-of-suffering-red	Sigil of Suffering	1	0		3	DefenseReaction		Runeblade		Deal 1 arcane damage to the attacking hero. If you have dealt arcane damage this turn, Sigil of Suffering gains +1{d}.
+sigil-of-suffering-yellow	Sigil of Suffering	2	0		2	DefenseReaction		Runeblade		Deal 1 arcane damage to the attacking hero. If you have dealt arcane damage this turn, Sigil of Suffering gains +1{d}.
+sigil-of-suffering-blue	Sigil of Suffering	3	0		1	DefenseReaction		Runeblade		Deal 1 arcane damage to the attacking hero. If you have dealt arcane damage this turn, Sigil of Suffering gains +1{d}.
+sigil-of-the-arknight-blue	Sigil of the Arknight	3	0		2	Action	Aura|NonAttack	Runeblade		**Go again** At the beginning of your action phase, destroy this. When this leaves the arena, reveal the top card of your deck. If it's an attack action card, put it into your hand.
+sigil-of-voltaris-blue	Sigil of Voltaris	3	0			Instant	Aura	Runeblade	Lightning	When this enters or leaves the arena, deal 1 arcane damage to target hero. At the beginning of your action phase, destroy this.
+silken-gi	Silken Gi					Equipment	Chest	Generic		**Instant** - Destroy Silken Gi: The next attack action card you play this turn has -1{p} and costs {r} less to play.
+silver	Silver					Token	Item	Generic		**Action** - {r}{r}{r}, destroy Silver: Draw a card. **Go again**
+silversheen-needle	Silversheen Needle					Equipment	OffHand	Generic		Your constructs with Fabric in their name gain **go again**.
+singeing-flowstride-red	Singeing Flowstride	1	1	4	3	Action	Attack	Runeblade	Lightning	**Quickstrike** - If this has go again, it gets "When this attacks a hero, deal 1 arcane damage to them." The first time this deals damage to a hero, create a Lightning Flow token.
+singeing-flowstride-yellow	Singeing Flowstride	2	1	3	3	Action	Attack	Runeblade	Lightning	**Quickstrike** - If this has go again, it gets "When this attacks a hero, deal 1 arcane damage to them." The first time this deals damage to a hero, create a Lightning Flow token.
+singeing-flowstride-blue	Singeing Flowstride	3	1	2	3	Action	Attack	Runeblade	Lightning	**Quickstrike** - If this has go again, it gets "When this attacks a hero, deal 1 arcane damage to them." The first time this deals damage to a hero, create a Lightning Flow token.
+singeing-steelblade-red	Singeing Steelblade	1	1	4	3	Action	Attack	Runeblade		When you attack with Singeing Steelblade, deal 1 arcane damage to target hero.
+singeing-steelblade-yellow	Singeing Steelblade	2	1	3	3	Action	Attack	Runeblade		When you attack with Singeing Steelblade, deal 1 arcane damage to target hero.
+singeing-steelblade-blue	Singeing Steelblade	3	1	2	3	Action	Attack	Runeblade		When you attack with Singeing Steelblade, deal 1 arcane damage to target hero.
+sink-below-red	Sink Below	1	0		4	DefenseReaction		Generic		You may put a card from your hand on the bottom of your deck. If you do, draw a card.
+sink-below-yellow	Sink Below	2	0		3	DefenseReaction		Generic		You may put a card from your hand on the bottom of your deck. If you do, draw a card.
+sink-below-blue	Sink Below	3	0		2	DefenseReaction		Generic		You may put a card from your hand on the bottom of your deck. If you do, draw a card.
+sirens-of-safe-harbor-red	Sirens of Safe Harbor	1	2	6	2	Action	Attack	Generic		When this is put into your graveyard from anywhere, gain 1{h}.
+sirens-of-safe-harbor-yellow	Sirens of Safe Harbor	2	2	5	2	Action	Attack	Generic		When this is put into your graveyard from anywhere, gain 1{h}.
+sirens-of-safe-harbor-blue	Sirens of Safe Harbor	3	2	4	2	Action	Attack	Generic		When this is put into your graveyard from anywhere, gain 1{h}.
+sizzle-red	Sizzle	1	0		2	Action	NonAttack	NotClassed	Lightning	Your next Lightning or Elemental attack this turn gets +3{p}. **Go again**
+sizzle-yellow	Sizzle	2	0		2	Action	NonAttack	NotClassed	Lightning	Your next Lightning or Elemental attack this turn gets +2{p}. **Go again**
+sky-fire-lanterns-red	Sky Fire Lanterns	1	0		2	Action	NonAttack	Runeblade		Reveal the top card of your deck. If it's red, create a Runechant token. **Go again**
+sky-fire-lanterns-yellow	Sky Fire Lanterns	2	0		2	Action	NonAttack	Runeblade		Reveal the top card of your deck. If it's yellow, create a Runechant token. **Go again**
+sky-fire-lanterns-blue	Sky Fire Lanterns	3	0		2	Action	NonAttack	Runeblade		Reveal the top card of your deck. If it's blue, create a Runechant token. **Go again**
+skyward-serenade-yellow	Skyward Serenade	2	0		2	Action	NonAttack	Runeblade	Lightning	Choose 2; - Create an Embodiment of Lightning token. - Search your deck for a Skyzyk, banish it, then shuffle. You may play it this turn. - Your next attack this turn gets +1{p}. **Go again**
+skyzyk-red	Skyzyk	1	0	3	3	Action	Attack	NotClassed	Lightning	If this has go again, it gets +1{p}.
+sloggism-red	Sloggism	1	3		2	Action	NonAttack	Generic		The next attack action card with cost 2 or greater you play this turn gains +6{p}. **Go again**
+sloggism-yellow	Sloggism	2	3		2	Action	NonAttack	Generic		The next attack action card with cost 2 or greater you play this turn gains +5{p}. **Go again**
+sloggism-blue	Sloggism	3	3		2	Action	NonAttack	Generic		The next attack action card with cost 2 or greater you play this turn gains +4{p}. **Go again**
+smash-up-red	Smash Up	1	1	5	2	Action	Attack	Generic		When this hits a hero, turn a card in their arsenal face-up, then banish an attack action card from their arsenal.
+smashing-good-time-red	Smashing Good Time	1	0		2	Action	NonAttack	Generic		The next time an attack action card hits a hero this turn, you may destroy an item they control with cost 2 or less. If Smashing Good Time is played from arsenal, the next attack action card you play this turn gains +3{p}. **Go again**
+smashing-good-time-yellow	Smashing Good Time	2	0		2	Action	NonAttack	Generic		The next time an attack action card hits a hero this turn, you may destroy an item they control with cost 2 or less. If Smashing Good Time is played from arsenal, the next attack action card you play this turn gains +2{p}. **Go again**
+smashing-good-time-blue	Smashing Good Time	3	0		2	Action	NonAttack	Generic		The next time an attack action card hits a hero this turn, you may destroy an item they control with cost 2 or less. If Smashing Good Time is played from arsenal, the next attack action card you play this turn gains +1{p}. **Go again**
+snag-blue	Snag	3	0			Instant		Generic		Attack action cards can't gain {p} from their own effects, or the effects of attack reaction cards this turn.
+snap-fingers	Snap Fingers				0	Equipment	Arms	Runeblade	Lightning	**Instant** - {r}, destroy this: Target Lightning attack action card you control on the active chain link deals 1 arcane damage to the defending hero.
+snapdragon-scalers	Snapdragon Scalers				0	Equipment	Legs	Generic		**Attack Reaction** - Destroy this: Target attack action card with cost 1 or less gets **go again**.
+snatch-red	Snatch	1	0	4	2	Action	Attack	Generic		When this hits, draw a card.
+snatch-yellow	Snatch	2	0	3	2	Action	Attack	Generic		When this hits, draw a card.
+snatch-blue	Snatch	3	0	2	2	Action	Attack	Generic		When this hits, draw a card.
+snuff-out-red	Snuff Out	1	1	5	3	Action	Attack	Runeblade		When this hits a hero, you may destroy an aura you control. If you do, they discard a card.
+sonata-arcanix-red	Sonata Arcanix	1			2	Action	NonAttack	Runeblade		Reveal the top X+3 cards of your deck. For each non-attack action card revealed this way, put an attack action card revealed this way into your hand. Then deal arcane damage to target hero equal to the number of cards put into your hand this way. Shuffle, then banish this. **Go again**
+sonata-galaxia-red	Sonata Galaxia	1			2	Action	NonAttack	Runeblade		This costs {r} less to play for each Runechant you control. Search your deck for a Runeblade aura with cost X or less, put it into the arena, then shuffle. If X is 2 or more, this gets **go again**.
+sound-the-alarm-red	Sound the Alarm	1	1	5	3	Action	Attack	Generic		When this attacks a hero, they reveal their hand. If an attack reaction card is revealed this way, you may search your deck for a defense reaction card, reveal it, then shuffle and put it on top.
+spark-spray-red	Spark Spray	1	0	4	2	Action	Attack	NotClassed	Lightning	When this is defended by 1 or more cards, you may pay {r}. If you do, this gets +1{p}.
+spark-spray-yellow	Spark Spray	2	0	3	2	Action	Attack	NotClassed	Lightning	When this is defended by 1 or more cards, you may pay {r}. If you do, this gets +1{p}.
+spark-spray-blue	Spark Spray	3	0	2	2	Action	Attack	NotClassed	Lightning	When this is defended by 1 or more cards, you may pay {r}. If you do, this gets +1{p}.
+spell-fray-cloak	Spell Fray Cloak				0	Equipment	Chest	Generic		**Spellvoid 1**
+spell-fray-gloves	Spell Fray Gloves				0	Equipment	Arms	Generic		**Spellvoid 1**
+spell-fray-leggings	Spell Fray Leggings				0	Equipment	Legs	Generic		**Spellvoid 1**
+spell-fray-tiara	Spell Fray Tiara				0	Equipment	Head	Generic		**Spellvoid 1**
+spellbane-aegis	Spellbane Aegis					Token	Aura	Generic		**Spellvoid 1**
+spellbane-sigil-blue	Spellbane Sigil	3	0			Instant	Aura	NotClassed	Lightning	At the beginning of your action phase, destroy this. **Arcane Barrier X**
+spellblade-assault-red	Spellblade Assault	1	2	4	3	Action	Attack	Runeblade		When you attack with Spellblade Assault, create 2 Runechant tokens.
+spellblade-assault-yellow	Spellblade Assault	2	2	3	3	Action	Attack	Runeblade		When you attack with Spellblade Assault, create 2 Runechant tokens.
+spellblade-assault-blue	Spellblade Assault	3	2	2	3	Action	Attack	Runeblade		When you attack with Spellblade Assault, create 2 Runechant tokens.
+spellblade-strike-red	Spellblade Strike	1	1	4	3	Action	Attack	Runeblade		Create a Runechant token.
+spellblade-strike-yellow	Spellblade Strike	2	1	3	3	Action	Attack	Runeblade		Create a Runechant token.
+spellblade-strike-blue	Spellblade Strike	3	1	2	3	Action	Attack	Runeblade		Create a Runechant token.
+spellbound-creepers	Spellbound Creepers				1	Equipment	Legs	Runeblade		**Once per Turn Instant** - {r}, put a bind counter on Spellbound Creepers: You may play your next 'non-attack' action card this turn as though it were an instant. Activate this ability only if you have attacked or defended with an attack action card this turn. At the beginning of your end phase, destroy Spellbound Creepers unless you have dealt arcane damage equal to or greater than the number of bind counters on Spellbound Creepers. **Blade Break**
+spirit-of-christmas-blue	Spirit of Christmas	3	0		3	Action	NonAttack	Generic		Each hero chooses another hero. The chosen hero creates an Agility, Might, Vigor, and Gold token. **Go again**
+splintering-deadwood-red	Splintering Deadwood	1	3	7	3	Action	Attack	Runeblade		When this attacks or hits, you may destroy an aura you control. If you do, create a Runechant token.
+splintering-deadwood-yellow	Splintering Deadwood	2	3	6	3	Action	Attack	Runeblade		When this attacks or hits, you may destroy an aura you control. If you do, create a Runechant token.
+splintering-deadwood-blue	Splintering Deadwood	3	3	5	3	Action	Attack	Runeblade		When this attacks or hits, you may destroy an aura you control. If you do, create a Runechant token.
+spring-load-red	Spring Load	1	1	2	2	Action	Attack	Generic		When this attacks, if you have no cards in hand, it gains +3{p}.
+spring-load-yellow	Spring Load	2	1	2	2	Action	Attack	Generic		When this attacks, if you have no cards in hand, it gains +2{p}.
+spring-load-blue	Spring Load	3	1	2	2	Action	Attack	Generic		When this attacks, if you have no cards in hand, it gains +1{p}.
+springboard-somersault-yellow	Springboard Somersault	2	0		2	DefenseReaction		Generic		If Springboard Somersault is played from arsenal, it gains +2{d}.
+stadium-centerpiece	Stadium Centerpiece					Equipment	Chest	Generic		Stadium Centerpiece's {d} is equal to the number of opposing heroes with greater {h} than you. **Blade Break**
+standing-order-red	Standing Order	1	0	4	3	Action	Attack	Generic		When this attacks or defends, you may put a card from your arsenal on the bottom of your deck. If you do, this gets +2{p} and +2{d}.
+star-fall	Star Fall			1		Weapon	TwoHanded|Sword	Runeblade	Lightning	**Once per Turn Action** - {r}: **Attack** If you've played a Lightning card this turn, this card's attacks get +1{p} and **go again**.
+starflow-robes	Starflow Robes				0	Equipment	Chest	NotClassed	Lightning	**Instant** - {r}{r}, destroy this: Prevent the next 1 damage that would be dealt to you this turn. If you prevent damage this way, create a Lightning Flow token.
+starlight-road-blue	Starlight Road	3	0			Instant		NotClassed	Lightning	Create an Embodiment of Lightning or Lightning Flow token.
+starlight-striders	Starlight Striders				1	Equipment	Legs	Runeblade	Lightning	When this defends, you may reveal an instant card from your hand. If you do, create an Embodiment of Lightning token. **Blade Break**
+starting-stake-yellow	Starting Stake	2	0		3	Action	NonAttack	Generic		If you control no Gold tokens, create a Gold token.
+starworld-warning-yellow	Starworld Warning	2	1			Instant		NotClassed	Lightning	Create 2 Lightning Flow tokens.
+static-shelter-yellow	Static Shelter	2	0		3	DefenseReaction		NotClassed	Lightning	When this defends, you may pay {r}. If you do, create a Lightning Flow token.
+stellar-glide-red	Stellar Glide	1	2	5	2	Action	Attack	NotClassed	Lightning	When this attacks, you may destroy a Lightning Flow you control. If you do, this gets **go again**.
+stellar-glide-yellow	Stellar Glide	2	2	4	2	Action	Attack	NotClassed	Lightning	When this attacks, you may destroy a Lightning Flow you control. If you do, this gets **go again**.
+stellar-glide-blue	Stellar Glide	3	2	3	2	Action	Attack	NotClassed	Lightning	When this attacks, you may destroy a Lightning Flow you control. If you do, this gets **go again**.
+step-between-red	Step Between	1	0	4	2	Action	Attack	Generic		While this is attacking or on the stack, opponents can't play or activate instants. **Instant** - {r}, {t} your hero: This gets +1{p} and {p} damage can't be prevented this combat chain.
+sting-of-sorcery-blue	Sting of Sorcery	3	0		2	Action	Aura|NonAttack	Runeblade		**Go again** Attack action cards you control gain "When you attack with this, deal 1 arcane damage to target hero." At the beginning of your end phase, destroy Sting of Sorcery.
+stinging-sprite-red	Stinging Sprite	1	0	3	2	Action	Attack	Runeblade	Lightning	When this attacks or defends, deal 1 arcane damage to target hero.
+stinging-sprite-yellow	Stinging Sprite	2	0	2	2	Action	Attack	Runeblade	Lightning	When this attacks or defends, deal 1 arcane damage to target hero.
+stinging-sprite-blue	Stinging Sprite	3	0	1	2	Action	Attack	Runeblade	Lightning	When this attacks or defends, deal 1 arcane damage to target hero.
+stonewall-gauntlet	Stonewall Gauntlet				1	Equipment	Arms	Generic		When this defends an attack with {p} greater than its base, opposing attacks get -1{p} this combat chain. **Blade Break**
+stony-woottonhog-red	Stony Woottonhog	1	2	6	2	Action	Attack	Generic		While Stony Woottonhog is defended by less than 2 non-equipment cards, it has +1{p}.
+stony-woottonhog-yellow	Stony Woottonhog	2	2	5	2	Action	Attack	Generic		While Stony Woottonhog is defended by less than 2 non-equipment cards, it has +1{p}.
+stony-woottonhog-blue	Stony Woottonhog	3	2	4	2	Action	Attack	Generic		While Stony Woottonhog is defended by less than 2 non-equipment cards, it has +1{p}.
+stormshard-red	Stormshard	1	1			Instant		NotClassed	Lightning	You may destroy a Lightning Flow you control rather than pay this card's {r} cost. Target Lightning attack gets +3{p}.
+stormshatter-yellow	Stormshatter	2	1			Instant		NotClassed	Lightning	You may destroy a Lightning Flow you control rather than pay this card's {r} cost. Target Lightning attack gets -3{p}.
+stormweavers-aegis	Stormweaver's Aegis				0	Equipment	Chest	NotClassed	Lightning	**Instant** - Destroy this: Until end of turn, instant cards you own get "**Instant** - Discard this: Prevent the next 2 damage that would be dealt to you this turn." **Arcane Barrier 1**
+stormwhirl-blue	Stormwhirl	3	1			Instant		NotClassed	Lightning	You may destroy a Lightning Flow you control rather than pay this card's {r} cost. Target Lightning attack gets **go again**.
+strategic-planning-red	Strategic Planning	1	1		2	Action	NonAttack	Generic		Put an action card with cost 2 or less from a graveyard on the bottom of its owner's deck. At the beginning of the end phase, draw a card. **Go again**
+strategic-planning-yellow	Strategic Planning	2	1		2	Action	NonAttack	Generic		Put an action card with cost 1 or less from a graveyard on the bottom of its owner's deck. At the beginning of the end phase, draw a card. **Go again**
+strategic-planning-blue	Strategic Planning	3	1		2	Action	NonAttack	Generic		Put an action card with cost 0 from a graveyard on the bottom of its owner's deck. At the beginning of the end phase, draw a card. **Go again**
+strike-gold-red	Strike Gold	1	0	4	2	Action	Attack	Generic		When this hits, create a Gold token.
+strike-gold-yellow	Strike Gold	2	0	3	2	Action	Attack	Generic		When this hits, create a Gold token.
+strike-gold-blue	Strike Gold	3	0	2	2	Action	Attack	Generic		When this hits, create a Gold token.
+stubby-hammerers	Stubby Hammerers				0	Equipment	Arms	Generic		**Action** - Destroy Stubby Hammerers: Attack action cards with 3 or less base power gain +1{p} while attacking this turn. **Go again**
+stunning-swipe-red	Stunning Swipe	1	0	3	3	Action	Attack	Runeblade	Lightning	**Quickstrike** - If this has go again, it gets "When this attacks a hero, deal 1 arcane damage to them." The first time this deals damage to a Lightning hero, {t} them or a weapon they control.
+stunning-swipe-yellow	Stunning Swipe	2	0	2	3	Action	Attack	Runeblade	Lightning	**Quickstrike** - If this has go again, it gets "When this attacks a hero, deal 1 arcane damage to them." The first time this deals damage to a Lightning hero, {t} them or a weapon they control.
+stunning-swipe-blue	Stunning Swipe	3	0	1	3	Action	Attack	Runeblade	Lightning	**Quickstrike** - If this has go again, it gets "When this attacks a hero, deal 1 arcane damage to them." The first time this deals damage to a Lightning hero, {t} them or a weapon they control.
+succumb-to-temptation-yellow	Succumb to Temptation	2	0		3	Action	NonAttack	Runeblade		If you've dealt arcane damage this turn, you may play this as though it were an instant. The next time a Runeblade attack action card you control hits a hero this turn, look at their hand and choose a card. They discard it. **Go again**
+sun-kiss-red	Sun Kiss	1	0		2	Action	NonAttack	Generic		Gain 3{h}. If you have played a card named Moon Wish this turn, draw a card and Sun Kiss gains **go again**.
+sun-kiss-yellow	Sun Kiss	2	0		2	Action	NonAttack	Generic		Gain 2{h}. If you have played a card named Moon Wish this turn, draw a card and Sun Kiss gains **go again**.
+sun-kiss-blue	Sun Kiss	3	0		2	Action	NonAttack	Generic		Gain 1{h}. If you have played a card named Moon Wish this turn, draw a card and Sun Kiss gains **go again**.
+sunkwater-exoshell	Sunkwater Exoshell				0	Equipment	Chest	Generic		When this defends, put a face-up card from your arsenal on the bottom of your deck. If you do, draw a card and this gets +1{d} until end of turn. **Blade Break**
+sunkwater-lookout	Sunkwater Lookout				0	Equipment	Head	Generic		When this defends, put a face-up card from your arsenal on the bottom of your deck. If you do, draw a card and this gets +1{d} until end of turn. **Blade Break**
+sunkwater-pincers	Sunkwater Pincers				0	Equipment	Arms	Generic		When this defends, put a face-up card from your arsenal on the bottom of your deck. If you do, draw a card and this gets +1{d} until end of turn. **Blade Break**
+sunkwater-scalers	Sunkwater Scalers				0	Equipment	Legs	Generic		When this defends, put a face-up card from your arsenal on the bottom of your deck. If you do, draw a card and this gets +1{d} until end of turn. **Blade Break**
+surging-militia-red	Surging Militia	1	2	5	2	Action	Attack	Generic		Surging Militia has +1{p} for each non-equipment card defending it.
+surging-militia-yellow	Surging Militia	2	2	4	2	Action	Attack	Generic		Surging Militia has +1{p} for each non-equipment card defending it.
+surging-militia-blue	Surging Militia	3	2	3	2	Action	Attack	Generic		Surging Militia has +1{p} for each non-equipment card defending it.
+sutcliffes-research-notes-red	Sutcliffe's Research Notes	1	1		2	Action	NonAttack	Runeblade		Reveal the top 3 cards of your deck. Create a Runechant token for each Runeblade attack action card revealed this way, then put the cards on top of your deck in any order. **Go again**
+sutcliffes-research-notes-yellow	Sutcliffe's Research Notes	2	1		2	Action	NonAttack	Runeblade		Reveal the top 2 cards of your deck. Create a Runechant token for each Runeblade attack action card revealed this way, then put the cards on top of your deck in any order. **Go again**
+sutcliffes-research-notes-blue	Sutcliffe's Research Notes	3	1		2	Action	NonAttack	Runeblade		Reveal the top card of your deck. Create a Runechant token for each Runeblade attack action card revealed this way, then put the cards on top of your deck in any order. **Go again**
+sutcliffes-suede-hides	Sutcliffe's Suede Hides				0	Equipment	Legs	Runeblade		**Attack Reaction** - {r}, destroy this: Target attack action card gets **go again**. Activate this only if you've played a non-attack action card this turn.
+swarming-gloomveil-red	Swarming Gloomveil	1	0	3	3	Action	Attack	Runeblade		If you have played or created 1 or more auras this turn, Swarming Gloomveil gains **go again**. If you have played and/or created 2 or more, it gains +1{p}. If you have played and/or created 3 or more, it gains "When this hits a hero, they can't prevent arcane damage from sources you control this turn."
+swiftstrike-bracers	Swiftstrike Bracers				0	Equipment	Arms	Generic		**Action** - Destroy this: Your next attack this turn gets +2{p}. Activate this only if you've played a Nimblism this turn. **Go again**
+talishar-the-lost-prince	Talishar, the Lost Prince			4		Weapon	TwoHanded|Sword	Generic		**Once per Turn Action** - {r}{r}, put a rust counter on Talishar, the Lost Prince: **Attack** At the beginning of your end phase, if Talishar, the Lost Prince has 3 or more rust counters on it, destroy it.
+talisman-of-balance-blue	Talisman of Balance	3	0			Action	Item|NonAttack	Generic		**Go again** At the beginning of your end phase, if you have less cards in arsenal than an opposing hero, destroy Talisman of Balance and put the top card of your deck into an empty arsenal zone you control.
+talisman-of-cremation-blue	Talisman of Cremation	3	0			Action	Item|NonAttack	Generic		**Go again** When you play a card from your banished zone, destroy Talisman of Cremation and name a card. Banish all cards with the chosen name from each opposing hero's graveyard.
+talisman-of-dousing-yellow	Talisman of Dousing	2	0			Action	Item|NonAttack	Generic		**Go again** **Spellvoid 1**
+talisman-of-featherfoot-yellow	Talisman of Featherfoot	2	0			Action	Item|NonAttack	Generic		**Go again** When an attack you control gains exactly +1{p} from an effect during the reaction step, destroy Talisman of Featherfoot and the attack gains **go again**.
+talisman-of-recompense-yellow	Talisman of Recompense	2	0			Action	Item|NonAttack	Generic		**Go again** Whenever you pitch a card, if you would gain exactly one {r}, instead destroy Talisman of Recompense and gain {r}{r}{r}.
+talisman-of-tithes-blue	Talisman of Tithes	3	0			Action	Item|NonAttack	Generic		**Go again** If an opponent would draw 1 or more cards during your action phase, instead destroy Talisman of Tithes and they draw that many cards minus 1.
+talisman-of-warfare-yellow	Talisman of Warfare	2	0			Action	Item|NonAttack	Generic		**Go again** When a source you control deals exactly 2 damage to an opposing hero, destroy Talisman of Warfare and all cards in all arsenals.
+talismanic-lens	Talismanic Lens				0	Equipment	Head	Generic		**Instant** - Destroy Talismanic Lens: **Opt 2**
+tempestuous-kiss-red	Tempestuous Kiss	1	2	5	3	Action	Attack	Runeblade	Lightning	**Quickstrike** - If this has go again, it gets +1{p} and "When this attacks a hero, deal 1 arcane damage to them." The first time this deals damage to a hero, they discard a card.
+tempt-over-yellow	Tempt Over	2	0	3	3	Action	Attack	Generic		When this attacks a hero, **steal** an aura token they control until end of turn.
+ten-foot-tall-and-bulletproof-red	Ten Foot Tall and Bulletproof	1	3	10	10	Action	Attack	Generic		When this attacks or defends, your hero gets -2{i} during your next end phase.
+tenacity-yellow	Tenacity	2	0	2	3	Action	Attack	Generic		When this attacks, it gets +X{p}, where X is the number of defending cards on the combat chain.
+test-of-strength-red	Test of Strength	1			4	Block		Generic		When this defends, **clash** with the attacking hero. The winner creates a Gold token.
+that-all-you-got-yellow	That All You Got?	2	0		3	DefenseReaction		Generic		While this is defending an attack with 2 or less {p}, when the combat chain closes, draw a card.
+the-weakest-link-red	The Weakest Link	1	2	6	3	Action	Attack	Generic		When this hits a hero, look at their hand and choose a card without base {d}. If you do, they discard it and you draw a card.
+this-rounds-on-me-blue	This Round's on Me	3	1		3	Action	NonAttack	Generic		Each hero draws a card. Until the start of your next turn, attacks that target you have -1{p}. **Go again**
+threadbare-tunic	Threadbare Tunic					Equipment	Chest	Generic		**Instant** - Destroy Threadbare Tunic: Gain {r}. Activate this ability only if you have no cards in hand.
+thrust-red	Thrust	1	1		2	AttackReaction		Generic		Target sword attack gains +3{p}.
+thunderous-retort-red	Thunderous Retort	1	0			Instant	Aura	NotClassed	Lightning	At the beginning of your action phase, destroy this, then your next attack this turn gets **go again**. **Arcane Barrier 3**
+thunderous-retort-yellow	Thunderous Retort	2	0			Instant	Aura	NotClassed	Lightning	At the beginning of your action phase, destroy this, then your next attack this turn gets **go again**. **Arcane Barrier 2**
+thunderous-retort-blue	Thunderous Retort	3	0			Instant	Aura	NotClassed	Lightning	At the beginning of your action phase, destroy this, then your next attack this turn gets **go again**. **Arcane Barrier 1**
+ticket-puncher	Ticket Puncher					Equipment	Arms	Generic		Ticket Puncher's {d} is equal to the number of opposing heroes with greater {h} than you. **Blade Break**
+time-flies-when-youre-having-fun-red	Time Flies When You're Having Fun	1	0		2	Action	NonAttack	Generic		The next time an attack action card hits a hero this turn, you may destroy an aura they control. If this was played from arsenal, the next attack action card you play this turn gets +3{p}. **Go again**
+time-skippers	Time Skippers				0	Equipment	Legs	Generic		**Action** - {r}{r}{r}, destroy this: Gain 2 action points.
+timesnap-potion-blue	Timesnap Potion	3	0			Action	Item|NonAttack	Generic		**Action** - Destroy this: Gain 2 action points.
+tip-off-red	Tip-Off	1	1	5	2	Action	Attack	Generic		**Instant** - Discard this: **Mark** target opposing hero.
+tip-off-yellow	Tip-Off	2	1	4	2	Action	Attack	Generic		**Instant** - Discard this: **Mark** target opposing hero.
+tip-off-blue	Tip-Off	3	1	3	2	Action	Attack	Generic		**Instant** - Discard this: **Mark** target opposing hero.
+tit-for-tat-blue	Tit for Tat	3	0		2	Action	NonAttack	Generic		{t} target hero. {u} another target hero. **Go again**
+titanium-bauble-blue	Titanium Bauble	3			3	Resource		Generic		
+toby-jugs	Toby Jugs				0	Equipment	Legs	Generic		When this defends, you may pay {r}. If you do, it gets +2{d} this turn. **Blade Break**
+tome-of-fyendal-yellow	Tome of Fyendal	2	1		2	Action	NonAttack	Generic		Draw 2 cards. If Tome of Fyendal is played from arsenal, gain 1{h} for each card in your hand.
+tome-of-the-arknight-blue	Tome of the Arknight	3	1		2	Action	NonAttack	Runeblade		Reveal the top 2 cards of your deck. If you reveal an attack action card and a non-attack action card this way, put them into your hand. **Go again**
+tongue-tied-red	Tongue Tied	1	3	7	2	Action	Attack	Generic		When this hits a hero, turn a card in their arsenal face-up, then banish an instant card from their arsenal.
+toughen-up-blue	Toughen Up	3	2		4	DefenseReaction		Generic		
+toughness	Toughness					Token	Aura	Generic		At the start of your opponent's turn, destroy this, then the next action card you defend with this turn gets +1{d} this chain link.
+trade-in-red	Trade In	1	0	3	2	Action	Attack	Generic		When this attacks, you may discard a card. If you do, draw a card. If this was played from arsenal, it gains **go again**.
+trade-in-yellow	Trade In	2	0	2	2	Action	Attack	Generic		When this attacks, you may discard a card. If you do, draw a card. If this was played from arsenal, it gains **go again**.
+trade-in-blue	Trade In	3	0	1	2	Action	Attack	Generic		When this attacks, you may discard a card. If you do, draw a card. If this was played from arsenal, it gains **go again**.
+tremor-of-iarathael-red	Tremor of íArathael	1	1	4	2	Action	Attack	Generic		If a card has been put into your banished zone this turn, Tremor of íArathael gains +2{p}.
+tremor-of-iarathael-yellow	Tremor of íArathael	2	1	3	2	Action	Attack	Generic		If a card has been put into your banished zone this turn, Tremor of íArathael gains +2{p}.
+tremor-of-iarathael-blue	Tremor of íArathael	3	1	2	2	Action	Attack	Generic		If a card has been put into your banished zone this turn, Tremor of íArathael gains +2{p}.
+trip-the-light-fantastic-red	Trip the Light Fantastic	1	1	5	2	Action	Attack	NotClassed	Lightning	**Instant** - Discard this: Prevent the next 2 damage that would be dealt to you this turn.
+trip-the-light-fantastic-yellow	Trip the Light Fantastic	2	1	4	2	Action	Attack	NotClassed	Lightning	**Instant** - Discard this: Prevent the next 2 damage that would be dealt to you this turn.
+trip-the-light-fantastic-blue	Trip the Light Fantastic	3	1	3	2	Action	Attack	NotClassed	Lightning	**Instant** - Discard this: Prevent the next 2 damage that would be dealt to you this turn.
+trot-along-blue	Trot Along	3	0		3	Action	NonAttack	Generic		Your next attack with 3 or less base {p} this turn gets **go again**. **Go again**
+truce-blue	Truce	3	2		3	Action	Aura|NonAttack	Generic		When this enters the arena, choose an opponent. At the beginning of their end phase, destroy this and you each gain 3{h}. When you or a card you control is the target of an attack they control, destroy this and draw a card.
+twinkle-toes	Twinkle Toes				0	Equipment	Legs	NotClassed	Lightning	**Instant** - Destroy this: Prevent the next 2 damage that would be dealt to you this turn. Activate this only if you've played an instant card this turn.
+unflinching-foothold	Unflinching Foothold				1	Equipment	Legs	Generic		**Instant** - Destroy this: Target attack loses and can't gain **dominate**. **Battleworn**
+unmovable-red	Unmovable	1	3		7	DefenseReaction		Generic		If this was played from arsenal, it gets +1{d}.
+unmovable-yellow	Unmovable	2	3		6	DefenseReaction		Generic		If Unmovable is played from arsenal, it gains +1{d}.
+unmovable-blue	Unmovable	3	3		5	DefenseReaction		Generic		If Unmovable is played from arsenal, it gains +1{d}.
+unwavering-resolve-red	Unwavering Resolve	1	3	6	2	Action	Attack	Generic		If you have no cards in your deck, this gets +4{p}. If this is defended by 3 or more cards, it gets **go again**.
+unyielding-grip	Unyielding Grip				0	Equipment	Arms	Generic		If you have no cards in your hand, this gets +3{d}. **Blade Break**
+vambrace-of-determination	Vambrace of Determination				0	Equipment	Arms	Generic		**Once per Turn Attack Reaction** - {r}: The next prevention effect that prevents {p} damage this turn, prevents 1 less of that damage. When this defends, you may pay {r}. If you do, it gains +1{d} and **blade break**.
+vantage-point-red	Vantage Point	1	3	7	3	Action	Attack	Runeblade		If you've played or created an aura this turn, this gets **overpower**.
+vantage-point-yellow	Vantage Point	2	3	6	3	Action	Attack	Runeblade		If you've played or created an aura this turn, this gets **overpower**.
+vantage-point-blue	Vantage Point	3	3	5	3	Action	Attack	Runeblade		If you've played or created an aura this turn, this gets **overpower**.
+vaporize--shock-yellow	Vaporize // Shock	2	0			Instant		Runeblade	Lightning	**Meld** Destroy an aura permanent with cost X or less and/or up to X aura tokens, where X is the total arcane damage you've dealt to opposing heroes this turn. // Deal 1 arcane damage to any target.
+venomback-fabric-yellow	Venomback Fabric	2	0		3	Action	Construct|NonAttack	Generic		**Legendary** Equip Scabskin Leathers. If you don't, **negate** this.
+vest-of-the-first-fist	Vest of the First Fist				0	Equipment	Chest	Generic		When an attack action card you control hits, you may destroy Vest of the First Fist. If you do, gain {r}{r}.
+vexing-malice-red	Vexing Malice	1	1	3	3	Action	Attack	Runeblade		Deal 2 arcane damage to target hero.
+vexing-malice-yellow	Vexing Malice	2	1	2	3	Action	Attack	Runeblade		Deal 2 arcane damage to target hero.
+vexing-malice-blue	Vexing Malice	3	1	1	3	Action	Attack	Runeblade		Deal 2 arcane damage to target hero.
+vexing-quillhand	Vexing Quillhand				0	Equipment	Arms	Runeblade		**Action** - Destroy this: Create 2 Runechant tokens. **Go again** **Arcane Barrier 1**
+vigor	Vigor					Token	Aura	Generic		At the start of your turn, destroy this, then gain {r}.
+vigor-rush-red	Vigor Rush	1	1	4	2	Action	Attack	Generic		If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.
+vigor-rush-yellow	Vigor Rush	2	1	3	2	Action	Attack	Generic		If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.
+vigor-rush-blue	Vigor Rush	3	1	2	2	Action	Attack	Generic		If you have played a 'non-attack' action card this turn, Vigor Rush gains **go again**.
+vipox-red	Vipox	1	0	1	3	Action	Attack	Generic		When Vipox hits a hero, they lose {h} equal to the number of cards in their hand.
+visionary-of-orbits-red	Visionary of Orbits	1	3	7	2	Action	Attack	NotClassed	Lightning	When this hits, you may put an instant card from your graveyard on the bottom of your deck.
+visit-the-blacksmith-blue	Visit the Blacksmith	3	0		2	Action	NonAttack	Generic		Your next sword attack this turn gains +1{p}. **Go again**
+volatile-fluxor-red	Volatile Fluxor	1	0	0	3	Action	Attack	NotClassed	Lightning	If you've played an instant card this chain link, this gets +3{p}. When this hits, create a Lightning Flow token. **Go again**
+volatile-fluxor-yellow	Volatile Fluxor	2	0	0	3	Action	Attack	NotClassed	Lightning	If you've played an instant card this chain link, this gets +2{p}. When this hits, create a Lightning Flow token. **Go again**
+volatile-fluxor-blue	Volatile Fluxor	3	0	0	3	Action	Attack	NotClassed	Lightning	If you've played an instant card this chain link, this gets +1{p}. When this hits, create a Lightning Flow token. **Go again**
+voltaris-blue	Voltaris	3				Resource	Gem	NotClassed	Lightning	**Legendary** When this is pitched, create a Lightning Flow token.
+voltbound-duality-red	Voltbound Duality	1	0	4	3	Action	Attack	Runeblade	Lightning	**Instant** - {r}, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.
+voltbound-duality-yellow	Voltbound Duality	2	0	3	3	Action	Attack	Runeblade	Lightning	**Instant** - {r}, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.
+voltbound-duality-blue	Voltbound Duality	3	0	2	3	Action	Attack	Runeblade	Lightning	**Instant** - {r}, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.
+voltic-impact-red	Voltic Impact	1	2	6	2	Action	Attack	NotClassed	Lightning	**Twice per Turn Instant** - {r}: This gets +1{p}. When this hits, create a Lightning Flow token.
+voltic-vanguard	Voltic Vanguard				0	Equipment	Head	NotClassed	Lightning	**Instant** - Destroy this: Prevent the next 2 damage that would be dealt to you this turn. Activate this only if you've played an instant card this turn.
+wage-gold-red	Wage Gold	1	3	7	2	Action	Attack	Generic		**Universal** When this attacks a hero, you may **wager** a Gold token with them.
+wage-gold-yellow	Wage Gold	2	3	6	2	Action	Attack	Generic		**Universal** When this attacks a hero, you may **wager** a Gold token with them.
+wage-gold-blue	Wage Gold	3	3	5	2	Action	Attack	Generic		**Universal** When this attacks a hero, you may **wager** a Gold token with them.
+walk-the-plank-red	Walk the Plank	1	3	7	2	Action	Attack	Generic		When this hits a Pirate hero, {t} them or an ally they control.
+walk-the-plank-yellow	Walk the Plank	2	3	6	2	Action	Attack	Generic		When this hits a Pirate hero, {t} them or an ally they control.
+walk-the-plank-blue	Walk the Plank	3	3	5	2	Action	Attack	Generic		When this hits a Pirate hero, {t} them or an ally they control.
+warmongers-diplomacy-blue	Warmonger's Diplomacy	3	0		3	Action	NonAttack	Generic		Starting with the hero to your left, each hero chooses war or peace. If they choose war, the only actions they may play or activate during their next turn are weapon and attack actions. If they choose peace, the only actions they may play or activate during their next turn are non-weapon non-attack actions.
+warmongers-recital-red	Warmonger's Recital	1	1		2	Action	NonAttack	Generic		The next attack action card you play this turn gains +3{p} and "When this hits, put it on the bottom of its owner's deck." **Go again**
+warmongers-recital-yellow	Warmonger's Recital	2	1		2	Action	NonAttack	Generic		The next attack action card you play this turn gains +2{p} and "When this hits, put it on the bottom of its owner's deck." **Go again**
+warmongers-recital-blue	Warmonger's Recital	3	1		2	Action	NonAttack	Generic		The next attack action card you play this turn gains +1{p} and "When this hits, put it on the bottom of its owner's deck." **Go again**
+water-the-seeds-red	Water the Seeds	1	1	3	2	Action	Attack	Generic		When this attacks, your next attack this combat chain with 1 or less base {p} gets +1{p}. **Go again**
+water-the-seeds-yellow	Water the Seeds	2	1	2	2	Action	Attack	Generic		When this attacks, your next attack this combat chain with 1 or less base {p} gets +1{p}. **Go again**
+water-the-seeds-blue	Water the Seeds	3	1	1	2	Action	Attack	Generic		When this attacks, your next attack this combat chain with 1 or less base {p} gets +1{p}. **Go again**
+weave-lightning-red	Weave Lightning	1	0		2	Action	NonAttack	NotClassed	Lightning	The next Lightning or Elemental attack action card you play this turn gains +3{p}. If it's **fused**, it gains **go again**. **Go again**
+weave-lightning-yellow	Weave Lightning	2	0		2	Action	NonAttack	NotClassed	Lightning	The next Lightning or Elemental attack action card you play this turn gains +2{p}. If it's **fused**, it gains **go again**. **Go again**
+weave-lightning-blue	Weave Lightning	3	0		2	Action	NonAttack	NotClassed	Lightning	The next Lightning or Elemental attack action card you play this turn gains +1{p}. If it's **fused**, it gains **go again**. **Go again**
+weeping-battleground-red	Weeping Battleground	1	0		3	DefenseReaction		Runeblade		You may banish an aura from your graveyard. If you do, deal 1 arcane damage to target hero.
+weeping-battleground-yellow	Weeping Battleground	2	0		3	DefenseReaction		Runeblade		You may banish an aura from your graveyard. If you do, deal 1 arcane damage to target hero.
+weeping-battleground-blue	Weeping Battleground	3	0		3	DefenseReaction		Runeblade		You may banish an aura from your graveyard. If you do, deal 1 arcane damage to target hero.
+whisper-of-the-oracle-red	Whisper of the Oracle	1	0		3	Action	NonAttack	Generic		**Opt 4** **Go again**
+whisper-of-the-oracle-yellow	Whisper of the Oracle	2	0		3	Action	NonAttack	Generic		**Opt 3** **Go again**
+whisper-of-the-oracle-blue	Whisper of the Oracle	3	0		3	Action	NonAttack	Generic		**Opt 2** **Go again**
+wounded-bull-red	Wounded Bull	1	3	7	2	Action	Attack	Generic		When you play this, if you have less {h} than an opposing hero, this gains +1{p}.
+wounded-bull-yellow	Wounded Bull	2	3	6	2	Action	Attack	Generic		When you play this, if you have less {h} than an opposing hero, this gains +1{p}.
+wounded-bull-blue	Wounded Bull	3	3	5	2	Action	Attack	Generic		When you play this, if you have less {h} than an opposing hero, this gains +1{p}.
+wounding-blow-red	Wounding Blow	1	0	4	3	Action	Attack	Generic		
+wounding-blow-yellow	Wounding Blow	2	0	3	3	Action	Attack	Generic		
+wounding-blow-blue	Wounding Blow	3	0	2	3	Action	Attack	Generic		
+wreck-havoc-red	Wreck Havoc	1	2	6	2	Action	Attack	Generic		Defense reactions can't be played to this chain link. When this hits a hero, you may turn a card in their arsenal face up, then destroy a defense reaction in their arsenal.
+wreck-havoc-yellow	Wreck Havoc	2	2	5	2	Action	Attack	Generic		Defense reactions can't be played to this chain link. When this hits a hero, you may turn a card in their arsenal face up, then destroy a defense reaction in their arsenal.
+wreck-havoc-blue	Wreck Havoc	3	2	4	2	Action	Attack	Generic		Defense reactions can't be played to this chain link. When this hits a hero, you may turn a card in their arsenal face up, then destroy a defense reaction in their arsenal.
+written-in-the-stars-blue	Written in the Stars	3	0		3	Action	NonAttack	Runeblade	Lightning	Create an Embodiment of Lightning token. If you've dealt arcane damage this turn, draw a card.
+yinti-yanti-red	Yinti Yanti	1	0	3	2	Action	Attack	Generic		While Yinti Yanti is attacking and you control an aura, it has +1{p}. While Yinti Yanti is defending and you control an aura, it has +1{d}.
+yinti-yanti-yellow	Yinti Yanti	2	0	2	2	Action	Attack	Generic		While Yinti Yanti is attacking and you control an aura, it has +1{p}. While Yinti Yanti is defending and you control an aura, it has +1{d}.
+yinti-yanti-blue	Yinti Yanti	3	0	1	2	Action	Attack	Generic		While Yinti Yanti is attacking and you control an aura, it has +1{p}. While Yinti Yanti is defending and you control an aura, it has +1{d}.
+zap-clappers	Zap Clappers				2	Equipment	Arms	Runeblade	Lightning	When this defends, you may reveal an instant card from your hand. If you do, deal 1 arcane damage to the attacking hero. **Blade Break**
+zealous-belting-red	Zealous Belting	1	2	5	2	Action	Attack	Generic		While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.
+zealous-belting-yellow	Zealous Belting	2	2	4	2	Action	Attack	Generic		While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.
+zealous-belting-blue	Zealous Belting	3	2	3	2	Action	Attack	Generic		While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.

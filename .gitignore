@@ -111,3 +111,15 @@ dist
 
 # spelling
 spelling-additions-local.ts
+
+# Rust
+/target
+**/target/
+Cargo.lock.bak
+
+# Python
+__pycache__/
+*.py[cod]
+
+# fab-rs generated weight/result artifacts
+fab-rs/**/*.csv

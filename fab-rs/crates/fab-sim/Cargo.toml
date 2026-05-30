@@ -1,0 +1,14 @@
+[package]
+name = "fab-sim"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "Command-line simulator for the fab-engine (Aurora goldfish + random matchups)."
+
+[[bin]]
+name = "fab-sim"
+path = "src/main.rs"
+
+[dependencies]
+fab-cards = { path = "../fab-cards" }
+fab-engine = { path = "../fab-engine" }

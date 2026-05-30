@@ -1,0 +1,8 @@
+[package]
+name = "fab-cards"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "Flesh and Blood card data model (Aurora / Runeblade / Lightning pool), zero dependencies."
+
+[dependencies]

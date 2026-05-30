@@ -14,6 +14,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "fab-optimize"
+version = "0.1.0"
+dependencies = [
+ "fab-cards",
+ "fab-engine",
+]
+
+[[package]]
 name = "fab-sim"
 version = "0.1.0"
 dependencies = [

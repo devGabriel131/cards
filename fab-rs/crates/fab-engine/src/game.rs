@@ -81,7 +81,7 @@ pub trait Agent {
 }
 
 pub struct Game {
-    db: CardDb,
+    db: std::rc::Rc<CardDb>,
     pub players: [PlayerState; 2],
     pub active: usize,
     pub turn: u32,
@@ -91,7 +91,14 @@ pub struct Game {
 }
 
 impl Game {
+    /// Construct from an owned card DB (convenience).
     pub fn new(db: CardDb, decks: [Deck; 2], seed: u64) -> Self {
+        Self::with_shared(std::rc::Rc::new(db), decks, seed)
+    }
+
+    /// Construct sharing a card DB across many games (cheap clone of the `Rc`).
+    /// Preferred in tight loops like the optimizer/trainer.
+    pub fn with_shared(db: std::rc::Rc<CardDb>, decks: [Deck; 2], seed: u64) -> Self {
         let mut rng = Rng::new(seed);
         let mut players = [
             PlayerState::from_deck(&decks[0], &mut rng),
@@ -118,7 +125,7 @@ impl Game {
 
     // ---- read helpers for agents ----
     pub fn db(&self) -> &CardDb {
-        &self.db
+        self.db.as_ref()
     }
     pub fn card(&self, id: &str) -> Option<&Card> {
         self.db.get(id)

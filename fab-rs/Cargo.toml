@@ -5,6 +5,7 @@ members = [
     "crates/fab-engine",
     "crates/fab-sim",
     "crates/fab-train",
+    "crates/fab-optimize",
 ]
 
 [workspace.package]

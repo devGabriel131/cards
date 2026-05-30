@@ -55,6 +55,12 @@ impl Deck {
         }
     }
 
+    /// An Aurora deck with the same hero/equipment as the sample, but a custom
+    /// main-deck list (used by the optimizer).
+    pub fn aurora_with_cards(db: &CardDb, cards: Vec<String>) -> Self {
+        Deck { cards, ..Self::aurora_sample(db) }
+    }
+
     /// The passive "Combat Dummy" — a fixed-life target that never acts, mirroring
     /// Talishar's deck-test dummy. Good for measuring goldfish (kill-speed) only.
     pub fn combat_dummy(life: i32) -> Self {

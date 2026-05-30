@@ -10,7 +10,8 @@ fab-rs/
 │   ├── fab-cards/    # card data model + the 1024-card Aurora pool (embedded)
 │   ├── fab-engine/   # rules engine (turns, pitch, combat) + agents + learnable policy
 │   ├── fab-sim/      # CLI simulator
-│   └── fab-train/    # self-play trainer (evolution strategy)
+│   ├── fab-train/    # self-play trainer (evolution strategy)
+│   └── fab-optimize/ # deck-ratio optimizer (simulate + hill climb)
 ```
 
 ## Quick start
@@ -84,6 +85,43 @@ Saved learned weights to learned_weights.csv
 
 `best-vs-champ > 50%` every generation = the agent keeps finding ways to beat its
 former self. Learned weights are saved to CSV and load back via `Weights::load`.
+
+### `fab-optimize` — deck-ratio optimizer (the "Dr. Ruckus" method)
+Simulate many games and **hill-climb the card quantities** to the best deck — the
+approach from [this MTG video](https://m.youtube.com/watch?v=Xq4T44EvPvo), adapted
+to Aurora. Each iteration searches single card-for-card swaps (remove one copy, add
+one copy) and applies the one that most improves the objective, until none does —
+the local optimum: *"no matter which two cards you flipped, it could only get
+worse."* Evaluation uses a fixed seed set per build, so the climb is noise-free.
+
+Because FaB's card value is numeric (pitch / cost / power), this tunes both *which*
+cards and their **pitch ratios** (red vs. yellow vs. blue copies of the same card).
+
+```sh
+cargo run --release -p fab-optimize -- --objective goldfish --names 24 --games 80
+cargo run --release -p fab-optimize -- --objective winrate  --names 22 --games 60
+```
+
+```
+start: avg turns to kill = 6.583
+iter  2: -1 Astral Assault [red]  +1 Astral Assault [yellow]  -> 6.283   # adds pitch to fund costs
+iter 10: -1 Rift Breaker [red]    +1 Runic Fellingsong [red]  -> 5.933   # swaps in a higher-value card
+...
+Optimized Aurora deck (60 cards) — avg turns to kill = 5.883
+  pitch curve: 46 red(1) / 12 yellow(2) / 2 blue(3)
+```
+
+- `--objective goldfish` minimises average turns to kill the Combat Dummy (rewards
+  raw tempo + enough pitch to pay costs).
+- `--objective winrate` maximises win rate vs. a fixed reference Aurora deck (closer
+  to the video's "vs. meta"; climbed 70% → 95% in a quick run).
+
+**Honest scope:** the optimizer is only as smart as the engine + pilot AI. It finds
+the best deck *for this rules subset and the greedy pilot* — it does not yet model a
+real opponent meta, blocking metagame, arcane damage, or scripted card effects. Like
+the video ("start exceedingly simple, add meta pieces later"), it's the right
+machinery; richer results come as the engine deepens and `--games` rises toward the
+video's 10k.
 
 **Toward AlphaZero:** the `Agent` trait is the seam. The next steps are (1) a
 determinized-MCTS agent (pure Rust, doable offline) for look-ahead, and (2) a

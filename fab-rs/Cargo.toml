@@ -4,6 +4,7 @@ members = [
     "crates/fab-cards",
     "crates/fab-engine",
     "crates/fab-sim",
+    "crates/fab-train",
 ]
 
 [workspace.package]

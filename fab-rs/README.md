@@ -8,8 +8,9 @@ dependencies (std only), so it builds and tests fully offline.
 fab-rs/
 ├── crates/
 │   ├── fab-cards/    # card data model + the 1024-card Aurora pool (embedded)
-│   ├── fab-engine/   # the rules engine (turns, pitch, combat) + agents
-│   └── fab-sim/      # CLI simulator
+│   ├── fab-engine/   # rules engine (turns, pitch, combat) + agents + learnable policy
+│   ├── fab-sim/      # CLI simulator
+│   └── fab-train/    # self-play trainer (evolution strategy)
 ```
 
 ## Quick start
@@ -56,6 +57,40 @@ A faithful **subset** of the real rules, enough to simulate games:
 
 ### `fab-sim`
 CLI driver: runs N games, tallies win rate and turn stats, or narrates one game.
+
+### `fab-train` — self-play AI
+An agent that **learns to play by self-play**, with no ML dependencies. The policy
+([`LinearAgent`](crates/fab-engine/src/linear.rs)) scores every decision as a dot
+product of a small feature vector (power, go-again, cost, pitch, lethal, on-hit
+draw, pass threshold, block threshold) with a learned weight vector — so the
+strategy it discovers is fully readable.
+
+Training is a **(1 + λ) evolution strategy**: each generation perturbs the
+champion's weights into λ candidates, each candidate plays K games *against the
+current champion*, and the best candidate that beats it (>50%) becomes the new
+champion. Fitness comes purely from self-play; the only fixed yardstick is a
+learning-curve readout vs. the Greedy/Random baselines.
+
+```sh
+cargo run --release -p fab-train -- --generations 40 --lambda 8 --games 30 --seed 1
+```
+
+```
+gen   0 | champion vs greedy  86.0% | vs random  97.5% | (baseline weights)
+gen   5 | champion vs greedy 100.0% | vs random  99.5% | best-vs-champ 70.0%
+gen  40 | champion vs greedy 100.0% | vs random 100.0% | best-vs-champ 63.3%
+Saved learned weights to learned_weights.csv
+```
+
+`best-vs-champ > 50%` every generation = the agent keeps finding ways to beat its
+former self. Learned weights are saved to CSV and load back via `Weights::load`.
+
+**Toward AlphaZero:** the `Agent` trait is the seam. The next steps are (1) a
+determinized-MCTS agent (pure Rust, doable offline) for look-ahead, and (2) a
+neural policy/value net trained by self-play — which needs an ML crate
+(`burn`/`candle`/`tch`) and therefore network access this sandbox doesn't have.
+The evolution-strategy trainer here is the dependency-free stand-in that already
+demonstrates self-play mastery over the baselines.
 
 ## What is and isn't modelled
 

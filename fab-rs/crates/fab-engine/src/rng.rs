@@ -32,4 +32,16 @@ impl Rng {
             v.swap(i, j);
         }
     }
+
+    /// Uniform f64 in [0, 1).
+    pub fn unit(&mut self) -> f64 {
+        (self.next_u64() >> 11) as f64 / (1u64 << 53) as f64
+    }
+
+    /// Standard-normal sample via Box–Muller (for ES weight perturbation).
+    pub fn gaussian(&mut self) -> f64 {
+        let u1 = self.unit().max(1e-12);
+        let u2 = self.unit();
+        (-2.0 * u1.ln()).sqrt() * (2.0 * std::f64::consts::PI * u2).cos()
+    }
 }

@@ -20,3 +20,11 @@ dependencies = [
  "fab-cards",
  "fab-engine",
 ]
+
+[[package]]
+name = "fab-train"
+version = "0.1.0"
+dependencies = [
+ "fab-cards",
+ "fab-engine",
+]
